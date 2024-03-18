@@ -1,0 +1,243 @@
+{
+    "resource": {
+        "package_id": "79eca658-ddc5-4d2e-b22c-44c8d0bdd5c9"
+    },
+    "fields": [
+        {
+            "id": "Title"
+        },
+        {
+            "id": "Authors"
+        },
+        {
+            "id": "Research Area"
+        },
+        {
+            "id": "Publication Type"
+        },
+        {
+            "id": "Source"
+        },
+        {
+            "id": "Year"
+        },
+        {
+            "id": "Link"
+        },
+        {
+            "id": "Tags"
+        }
+    ],
+    "records": [
+        {
+            "Title": "Agiles oder klassisches Prozessmanagement? : Ein Werkzeug zur Auswahl agiler oder klassischer Prozessmanagementmethoden f\u00fcr Unternehmen",
+            "Authors": "Voigtmann Viviane|Baumg\u00e4rtel Franziska|Riedel Ralph|",
+            "Research Area": "Agiles Prozessmanagement | Gesch\u00e4ftsprozessmanagement | klassisches Prozessmanagement | VUKA agile process management | business process management | traditional process management | VUCA",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: ERP Management. - Berlin : GITO. 2021| 5/2021| S. 57 - 60",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33550&la=de",
+            "Tags": "intelligent information management|agile development"
+        },
+        {
+            "Title": "Combining Frugal Innovation| Inclusive Business| and Scrum for Addressing Low income Contexts with Sustainability Considerations",
+            "Authors": "Lange Anne|",
+            "Research Area": "Frugal Innovation | Sustainability | Inclusive Business | Scrum | Agile",
+            "Publication Type": "Dissertation",
+            "Source": "2021. - 174 S.",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33538&la=de",
+            "Tags": "intelligent information management|agile development"
+        },
+        {
+            "Title": "Hochschul\u00fcbergreifendes Service Learning in den Wirtschaftswissenschaften",
+            "Authors": "Arnold Marlen Gabriele*|Vogel Alina|Fischer Anne|Ulber Martin|Beyer Katja|F\u00fcllhase Maxi|",
+            "Research Area": "Hochschul\u00fcbergreifendes Projekt | Nachhaltigkeit |SCRUM | Service Learning inter university project | sustainability | SCRUM | service learning",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Zeitschrift f\u00fcr Hochschulentwicklung. - Graz : Verein Forum neue Medien in der Lehre Austria. - 16. 2021| 1| S. 239 - 258",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32917&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "How frugal innovation and inclusive business are linked to tackle low income markets",
+            "Authors": "Lange Anne*|Albert Martin|H\u00fcsig Stefan|",
+            "Research Area": "Frugal innovation | inclusive business | low income context",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Journal of Small Business Management. - Taylor & Franzis. - 59. 2021| 3",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33117&la=de",
+            "Tags": "intelligent information management|agile development"
+        },
+        {
+            "Title": "Introduction of a maturity model for the assessment of the integration of the GPS system in companies",
+            "Authors": "Schuldt Juliane|Hofmann Robert|Gr\u00f6ger Sophie|",
+            "Research Area": "geometric product specification | training | product development process | agile methods | maturity model",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "16th CIRP Conference on Computer Aided Tolerancing (CIRP CAT Conference 2020)| Charlotte (USA). - Procedia CIRP. - Elsevier BV. - 92.2020| p. 129-133",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31194&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "NACHTIGALL \u2013 NACHHALTIGKEIT AGIL LENKEN",
+            "Authors": "Arnold Marlen Gabriele|Vogel Alina|Fischer Anne|F\u00fcllhase Maxi|",
+            "Research Area": "agiles Lehr Lernkonzept | forschendes Lernen | interdisziplin\u00e4r | Nachhaltigkeit | SCRUM | hochschul\u00fcbergreifendes Projekt",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: HDS.Journal. - Universit\u00e4t Leipzig. - 2. 2020| S. 23 - 26",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31551&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Je eher| je besser: Nutzerzentriertes Mobility Engineering f\u00fcr 3D Fahrer Fahrzeug Interaktion",
+            "Authors": "Schubert Daniel|Jentsch Martin|Bullinger Angelika C.|",
+            "Research Area": "Usability Engineering | Usability Methoden | Nutzerzentrierte Entwicklung | Prototyping | Fahrer Fahrzeug System Usability Engineering | Usability Methods | Prototyping | Driver Vehicle Interaction",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "innteract conference| Mensch 2020- transdisziplin\u00e4re Perspektive| 07.05. - 08.05. 2015| Chemnitz| S. 198 - 209. - Chemnitz : Verlag aw&I Wissenschaft und Praxis| 2015",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21415&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Research based learning by means of SCRUM and sustainability evaluation   a good mixture?",
+            "Authors": "Arnold Marlen Gabriele|Ulber Martin|",
+            "Research Area": "sustainability | SCRUM",
+            "Publication Type": "Konferenzabstract",
+            "Source": "26th Annual Conference of the International Sustainable Development Research Society 15-17 July 2020| Budapest| Hungary| 2020",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32656&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Individuelle Kundenw\u00fcnsche in der Projektabwicklung bei KMU",
+            "Authors": "Tawalbeh Mandy|Hopf Hendrik|M\u00fcller Egon|",
+            "Research Area": "Agiles Projektmanagement | Stakeholder | Innovationsprozess | KMU Agile project management | stakeholder | development process | SME",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Fabriksoftware. - GITO mbH - Verlag f\u00fcr Industrielle Informationstechnik und Organisation. 2018| 3| S. 15 - 19",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=27223&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Rapid Prototyping in AUTOSAR Based Systems",
+            "Authors": "Khan Owes|Englisch Norbert|Hardt Wolfram|",
+            "Research Area": "AUTOSAR | Rapid Prototyping | Integration AUTOSAR | Rapid Prototyping | Integration",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Lecture Notes in Informatics (LNI) - Proceedings| Volume P-275. - 2017. - INFORMATIK 2017| 15. Workshop Automotive Software Engineering| S. 1575 - 1586",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24532&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "eBusiness Standards| Daten  und Prozessqualit\u00e4t als Enabler von Industrie 4.0   Stand| Herausforderungen und L\u00f6sungsans\u00e4tze",
+            "Authors": "K\u00f6hler Susann|G\u00f6tze Uwe|Leidich Erhard|Wetzel Marco|",
+            "Research Area": "Industrie 4.0 | Nutzen Kosten Bewertung | Stammdatenmanagement | Gesch\u00e4ftsprozessmanagement | KMU Industry 4.0 | benefit cost evaluation | master data management | business process management | small and medium enterprises",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Wissenschaft trifft Praxis. - Bundesministerium f\u00fcr Wirtschaft und Energie. 2017| 7",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25431&la=de",
+            "Tags": "data science|intelligent information management|agile development"
+        },
+        {
+            "Title": "Rapid Prototyping und Industrie 4.0*   Ein I4.0 Demonstrator zur Darstellung einer Smart Factory f\u00fcr KMU",
+            "Authors": "M\u00fcller Egon|Riedel Ralph|Bojko Michael|Bergmann Michael|Markert Tobias Ulrich|G\u00f6hlert Nadine*|",
+            "Research Area": "Industrie 4.0 | Smart Factory | SmartFactory2Go | Demonstrator | Digitalisierung | 3D Druck | Rapid Prototyping Industry 4.0 | Smart Factory | SmartFactory2Go | Demonstrator | Digitization| 3D Printing | Rapid Prototyping",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: wt Werkstattstechnik online. - D\u00fcsseldorf : Springer-VDI-Verlag GmbH & Co. KG. - 107. 2017| 6-2017| S. 410 - 414",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24313&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Torque Fiber Winding  Procedure:Manufacturing of Textile Based Unidirectional Prepreg for Raw Material and Material Development of Carbon Fibre Reinforced Thermoplastics",
+            "Authors": "Kolonko Angelika*|Helbig Frank|Tr\u00f6ltzsch J\u00fcrgen|Nestler Daisy|Kroll Lothar|",
+            "Research Area": "carbon fibre | roving | spreading | nonwoven | monolayer | design of composites | carbon fibre reinforced thermoplastics | material development | prototyping | lightweight products",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Verbundwerkstofftagung| 05.07.-07.07.2017. - Trans Tech Publications| Switzerland| 2017| Vol. 742| pp 498-505",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24118&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Automatisiertes Testen",
+            "Authors": "Krawatzeck Robert|",
+            "Research Area": "Agile BI | Agile Business Intelligence | Automated Testing | BI Testing | Regression Testing",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Trahasch| Stephan ; Zimmer| Michael (Hrsg.): Agile Business Intelligence: Theorie und Praxis. - Heidelberg : dpunkt.verlag| 2016| S. 111 - 129",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20502&la=de",
+            "Tags": "intelligent information management|agile development"
+        },
+        {
+            "Title": "Torque Fiber Winding Verfahren zur Herstellung st\u00fcckgr\u00f6\u00dfenvariabler| textilbasierter UD Prepregs",
+            "Authors": "Kolonko Angelika|Helbig Frank|Dieterle Dietmar|",
+            "Research Area": "carbon fibre | roving | spreading | nonwoven | monolayer | design of composites | carbon fibre reinforced thermoplastics | material development | prototyping | lightweight products",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Chemnitzer Textiltechniktagung| Mai 2016. - Chemnitz : Technische Universit\u00e4t Chemnitz| 2016| pp.256-263",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23453&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Conduplicated Symmetries: Renegotiating the Material Basis of Prototype Research",
+            "Authors": "Berger Arne|Heidt Michael|Eibl Maximilian|",
+            "Research Area": "Prototyping | Somatic marker theory | Design thinking | Reasoning of designers | Actor network theory | Interdisciplinary concept",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "ICoRD\u201915 \u2013 Research into Design Across Boundaries| Bangalore| January 7-9| 2015| Volume 1 (pp. 71\u201378). Springer India| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19023&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Miteinander: Engaging Intergenerational Participation With Playful Methods & Intelligent Things",
+            "Authors": "Berger Arne|Lefeuvre Kevin|Heidt Michael|Eibl Maximilian|",
+            "Research Area": "Prototyping | Participation | Persuasion | Transdisciplinary | Interdisciplinary | Older Adults | Demographic Change",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Workshop at Critical Alternatives 2015. 5th Decennial Aarhus Conference| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19860&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Kombination von Zerspanungsprozessen in der Implantat  und Instrumentenfertigung mit anderen Fertigungsverfahren wie dem 3D Druck",
+            "Authors": "Drossel Guntram Welf|Grunert Ronny|Rotsch Christian|",
+            "Research Area": "Zerspanung | Implantat | Instrument Rapid Prototyping",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Vortrag gehalten beim Innovationsforum f\u00fcr Zerspanungstechnologie| Tuttlingen| 09. Juni 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21138&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Agile Teams in einer dualen Organisation \u2013 Implikationen f\u00fcr die Entwicklung von Unternehmen auf dem Weg zur agilen Organisation",
+            "Authors": "Weinreich Ronny|Neumann Norbert|Sch\u00f6nbohm R\u00fcdiger|Riedel Ralph|M\u00fcller Egon|",
+            "Research Area": "agility | SCRUM | organizational development | team work",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Vernetzt planen und produzieren \u2013 VPP2015. - Chemnitz : TU Chemnitz| 2015| S. 347 - 356. - Wissenschaftliche Schriftenreihe des IBF ; Sonderheft 21",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19901&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "Scrum as method for agile project management outside of the product development area",
+            "Authors": "Weinreich Ronny|Neumann Norbert|Riedel Ralph|M\u00fcller Egon|",
+            "Research Area": "SCRUM | project management | agility",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Advances in Production Management Systems: Innovative Production Management Towards Sustainable Growth. - Heidelberg| New York : Springer| 2015| S. 565 - 572. - IFIP Advances in Information and Communication Technology ; 459",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19767&la=de",
+            "Tags": "agile development"
+        },
+        {
+            "Title": "An Evaluation of Open Source Unit Testing Tools Suitable for Data Warehouse Testing",
+            "Authors": "Krawatzeck Robert|Tetzner Anja|Dinter Barbara|",
+            "Research Area": "Automated Testing | Data Warehouse | Evaluation | Frameworks | IEEE 14102 2010 | Open Source | Regression Testing | Testing | Tools| Unit Testing",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "19th Pacific Asia Conference on Information Systems (PACIS'2015)| Singapore| Paper 22. - AIS Electronic Library (AISeL)| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20499&la=de",
+            "Tags": "data science|agile development"
+        }
+    ]
+}

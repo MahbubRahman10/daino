@@ -1,0 +1,494 @@
+{
+    "resource": {
+        "package_id": "79eca658-ddc5-4d2e-b22c-44c8d0bdd5c9"
+    },
+    "fields": [
+        {
+            "id": "Title"
+        },
+        {
+            "id": "Authors"
+        },
+        {
+            "id": "Research Area"
+        },
+        {
+            "id": "Publication Type"
+        },
+        {
+            "id": "Source"
+        },
+        {
+            "id": "Year"
+        },
+        {
+            "id": "Link"
+        },
+        {
+            "id": "Tags"
+        }
+    ],
+
+    "records": [
+        {
+            "Title": "Applying Predictive Analytics on Research Information to Enhance Funding Discovery and Strengthen Collaboration in Project Proposals",
+            "Authors": "Nguyen Hai Dang Vu|Gaedke Martin|",
+            "Research Area": "Research Information Management System | Linked data | Predictive analytics | Data driven decision making",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "21st International Conference| ICWE 2021| Biarritz| France| May 18\u201321| 2021| Proceedings pp 490-495. - Cham : Springer| 2021",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33854&la=de",
+            "Tags": "intelligent information management|internet of things (iot)"
+        },
+        {
+            "Title": "Agiles oder klassisches Prozessmanagement? : Ein Werkzeug zur Auswahl agiler oder klassischer Prozessmanagementmethoden f\u00fcr Unternehmen",
+            "Authors": "Voigtmann Viviane|Baumg\u00e4rtel Franziska|Riedel Ralph|",
+            "Research Area": "Agiles Prozessmanagement | Gesch\u00e4ftsprozessmanagement | klassisches Prozessmanagement | VUKA agile process management | business process management | traditional process management | VUCA",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: ERP Management. - Berlin : GITO. 2021| 5/2021| S. 57 - 60",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33550&la=de",
+            "Tags": "intelligent information management|agile development"
+        },
+        {
+            "Title": "Combining Frugal Innovation| Inclusive Business| and Scrum for Addressing Low income Contexts with Sustainability Considerations",
+            "Authors": "Lange Anne|",
+            "Research Area": "Frugal Innovation | Sustainability | Inclusive Business | Scrum | Agile",
+            "Publication Type": "Dissertation",
+            "Source": "2021. - 174 S.",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33538&la=de",
+            "Tags": "intelligent information management|agile development"
+        },
+        {
+            "Title": "Two archetypes of business model innovation processes for manufacturing firms in the context of digital transformation",
+            "Authors": "Rummel Florian|H\u00fcsig Stefan|Steinhauser Stefanie|",
+            "Research Area": "digital transformation | business model innovation | B2C",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: R&D Management. - Wiley. - 2021",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33688&la=de",
+            "Tags": "intelligent information management|internet of things (iot)"
+        },
+        {
+            "Title": "How frugal innovation and inclusive business are linked to tackle low income markets",
+            "Authors": "Lange Anne*|Albert Martin|H\u00fcsig Stefan|",
+            "Research Area": "Frugal innovation | inclusive business | low income context",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Journal of Small Business Management. - Taylor & Franzis. - 59. 2021| 3",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33117&la=de",
+            "Tags": "intelligent information management|agile development"
+        },
+        {
+            "Title": "Survey of expert opinion on intelligence: Intelligence research| experts' background| controversial issues| and the media",
+            "Authors": "Rindermann Heiner|Becker David|Coyle Thomas R.|",
+            "Research Area": "Expert survey | Intelligence | IQ tests | Media | Worldviews",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Intelligence. - Elsevier BV. - 78. 2020| 101406",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31992&la=de",
+            "Tags": "intelligent information management|internet of things (iot)"
+        },
+        {
+            "Title": "Image related metadata generation| storage and retrieval for big datasets",
+            "Authors": "Kretzschmar Tom|Kowerko Danny|",
+            "Research Area": "Metadata Management | Information Retrieval | Object Detection and Classification",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Chemnitzer Linux-Tage 2019 - LocalizeIT Workshop| 03/2019| Chemnitzer Informatik Berichte 2020 ; CSR-20-01 S. 9-28",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32305&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Survey of expert opinion on intelligence: Intelligence research| experts\u2019 background| controversial issues| and the media",
+            "Authors": "Rindermann Heiner|Becker David|Coyle Thomas R.|",
+            "Research Area": "Expert survey | Intelligence | IQ tests | Media | Worldviews",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Intelligence. - Elsevier. - 78. 2019| 101406",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29787&la=de",
+            "Tags": "intelligent information management|internet of things (iot)"
+        },
+        {
+            "Title": "Concept Extraction from Web of Things Knowledge Bases",
+            "Authors": "Noura Mahda|Gyrard Amelie|Heil Sebastian|Gaedke Martin|",
+            "Research Area": "Internet of things | Web of things | Semantic web of things | Semantic Interoperability | Ontology Engineering | Information retrieval | Knowledge Graph",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of 17th International Conference WWW/Internet (ICWI2018)| 21.-23. Okt. 2018| Budapest| Hungary. - IADIS INTERNATIONAL JOURNAL ON WWW/INTERNET",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=26999&la=de",
+            "Tags": "intelligent information management|web engineering|internet of things (iot)"
+        },
+        {
+            "Title": "Search based dashboards Approach and Challenges",
+            "Authors": "Daoud Eduard|",
+            "Research Area": "Search Based Applications | Information Access | Information Retrieval | Search Engine | User Centered Approach",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Conference: 2nd International Rapid Mashup Challenge @ ICWE 2016| At Lugano| Switzerland| 2018",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=28358&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Survey of expert opinion on intelligence: The FLynn effect and the future of intelligence",
+            "Authors": "Rindermann Heiner|Becker David|Coyle Thomas R.|",
+            "Research Area": "intelligence | survey | experts | FLynn effect | secular rise in IQ | national cognitive ability | development",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Personality and Individual Differences. - Amsterdam : Elsevier. - 106. 2017| S. 242 - 247",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22286&la=de",
+            "Tags": "intelligent information management|internet of things (iot)"
+        },
+        {
+            "Title": "Introduction: Research and Research in Progress",
+            "Authors": "Sidorova Anna|Gupta Babita|Dinter Barbara|",
+            "Research Area": "Business intelligence | Analytics | Data science | Big data | Social media analytics | Decision support systems | Curriculum design | Pedagogy",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Deokar| Amit V| ; Gupta| Ashish ; Iyer| Lakshmi S. ; Jones| Mary C. (Eds.): Analytics and Data Science - Advances in Research and Pedagogy. - Cham| Switzerland : Springer| 2017| S. 7 - 13. - Annals of Information Systems ; 21",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24835&la=de",
+            "Tags": "intelligent information management|intelligent information management|information retrieval|deep learning|data science"
+        },
+        {
+            "Title": "Tools for Academic Business Intelligence and Analytics Teaching: Results of an Evaluation",
+            "Authors": "Kollwitz Christoph|Dinter Barbara|Krawatzeck Robert|",
+            "Research Area": "Business intelligence & analytics | BI&A \u2022 Big data | Higher education | Teaching | Tool evaluation",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Deokar| Amit V| ; Gupta| Ashish ; Iyer| Lakshmi S. ; Jones| Mary C. (Eds.): Analytics and Data Science - Advances in Research and Pedagogy. - Cham| Switzerland : Springer| 2017| S. 227 - 250. - Annals of Information Systems ; 21",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24836&la=de",
+            "Tags": "intelligent information management|intelligent information management|information retrieval|deep learning|data science"
+        },
+        {
+            "Title": "eBusiness Standards| Daten  und Prozessqualit\u00e4t als Enabler von Industrie 4.0   Stand| Herausforderungen und L\u00f6sungsans\u00e4tze",
+            "Authors": "K\u00f6hler Susann|G\u00f6tze Uwe|Leidich Erhard|Wetzel Marco|",
+            "Research Area": "Industrie 4.0 | Nutzen Kosten Bewertung | Stammdatenmanagement | Gesch\u00e4ftsprozessmanagement | KMU Industry 4.0 | benefit cost evaluation | master data management | business process management | small and medium enterprises",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Wissenschaft trifft Praxis. - Bundesministerium f\u00fcr Wirtschaft und Energie. 2017| 7",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25431&la=de",
+            "Tags": "data science|intelligent information management|agile development"
+        },
+        {
+            "Title": "Information Retrieval in der Lehre : Unterst\u00fctzung des Erwerbs von Praxiswissen zu Information Retrieval Komponenten mittels realer Experimente und Spielemechaniken",
+            "Authors": "Wilhelm Stein Thomas|",
+            "Research Area": "IR| Lernumgebungen| Spielemechaniken| Information Retrieval Evaluation| Information Retrieval Systeme| Information Retrieval Komponenten| Information Retrieval Experimente| Web basierte Lernumgebung Information Retrieval| Teaching| Learning Environment| Game Mechanics| IR Evaluation| IR Systems| IR Components| IR Experiments| Web Based Learning Environment",
+            "Publication Type": "Dissertation",
+            "Source": "Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2016. - 222 S. - Wissenschaftliche Schriftenreihe Dissertationen der Medieninformatik ; Band 5",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21652&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Wrappers for Feature Subset Selection in CRF based Clinical Information Extraction",
+            "Authors": "Ebersbach Mike|Herms Robert|Lohr Christina|Eibl Maximilian|",
+            "Research Area": "Information extraction | Natural language processing | Clinical texts | Feature subset selection | Wrapper | Conditional random fields",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Con\u00adfer\u00adence and Labs of the Eval\u00adu\u00ada\u00adtion Forum (CLEF)| 05.-08.09.2016| \u00c9vora (Portugal)",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21798&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Automatisiertes Testen",
+            "Authors": "Krawatzeck Robert|",
+            "Research Area": "Agile BI | Agile Business Intelligence | Automated Testing | BI Testing | Regression Testing",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Trahasch| Stephan ; Zimmer| Michael (Hrsg.): Agile Business Intelligence: Theorie und Praxis. - Heidelberg : dpunkt.verlag| 2016| S. 111 - 129",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20502&la=de",
+            "Tags": "intelligent information management|agile development"
+        },
+        {
+            "Title": "Unsu\u00adper\u00advised Lan\u00adguage Model Adap\u00adta\u00adtion using Utterance based Web Search for Clin\u00adi\u00adcal Speech Recog\u00adni\u00adtion",
+            "Authors": "Herms Robert|Richter Daniel|Eibl Maximilian|Ritter Marc|",
+            "Research Area": "Speech recognition | Language modeling | Unsupervised adaptation | Information retrieval | Clinical texts",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Con\u00adfer\u00adence and Labs of the Eval\u00adu\u00ada\u00adtion Forum (CLEF)| 08.-11.09.2015| Toulouse (France)| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19812&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Tool for Enhancing the Understanding of Information Retrieval System Components for Educational Purposes",
+            "Authors": "Wilhelm Stein Thomas|Eibl Maximilian|",
+            "Research Area": "Information Retrieval | Lehre | Komponenten Information Retrieval | Education | Web Application | Components",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "14th International Symposium on Information Science (ISI 2015). - vwh Gl\u00fcckstadt| 2015| S. 590 - 592. - Schriften zur Informationswissenschaft;  66",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19292&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Teaching the IR Process Using Real Experiments Supported by Game Mechanics",
+            "Authors": "Wilhelm Stein Thomas|Eibl Maximilian|",
+            "Research Area": "Information retrieval | Teaching | Learning | Web application | Components | Game mechanics",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "6th International Conference of the CLEF Association| CLEF'15| Toulouse| France| September 8-11| 2015| S. 312-317. - Springer| 2015. - Lecture Notes in Computer Science ; 9283",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20275&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Stakeholder Lens on Metadata Management in Business Intelligence and Big Data \u2013 Results of an Empirical Investigation",
+            "Authors": "Dinter Barbara|Gluchowski Peter|Schieder Christian|",
+            "Research Area": "Metadata Management | Business Intelligence",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "21st Americas Conference on Information Systems 2015| August 13-15| 2015| Puerto Rico",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20510&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Business Intelligence and Big Data in Higher Education: Status of a Multi Year Model Curriculum Development Effort for Business School Undergraduates| MS Graduates| and MBAs",
+            "Authors": "Gupta Babita|Goul Michael|Dinter Barbara|",
+            "Research Area": "Analytics | Big Data | Business Intelligence | Curriculum Development | Model Curriculum",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Communications of the Association for Information Systems. - New York| NY : ACM. - 36. 2015| 23| S. 449 - 476",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20963&la=de",
+            "Tags": "intelligent information management|intelligent information management|information retrieval|deep learning|data science"
+        },
+        {
+            "Title": "Jahresbericht 2015 / Universit\u00e4tsbibliothek Chemnitz",
+            "Authors": "Malz Angela|",
+            "Research Area": "Etat | RFID Technologie | Katalog finc | Gruppenarbeitsr\u00e4ume | Inklusion | MERGE | Universit\u00e4tsbibliographie | S\u00e4chsisch Tschechisches Bibliotheksprojekt | Lern | Raum | Studentenwerk Chemnitz Zwickau | Literarisches Quintett | Lesung | 21. S\u00e4chsischer Archivtag | Studentenverbindung Concordia Chemnitz zu Ulm | Ausstellung zum 180j\u00e4hrigen Jubil\u00e4um der Universit\u00e4t | Aktienspinnerei budget | digitization | Open Access | MERGE | university bibliography | university press | Patent information center | Resource Desciption and Access | hybrid library",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23136&la=de",
+            "Tags": "intelligent information management|automation technology|internet of things (iot)"
+        },
+        {
+            "Title": "Business Intelligence and Big Data in Higher Education: Status of a Multi  Year Model Curriculum Development Effort for Business School Undergraduates| MS Graduates| and MBAs",
+            "Authors": "Gupta Babita|Goul Michael|Dinter Barbara|",
+            "Research Area": "Analytics | Big Data | Business Intelligence | Curriculum Development | Model Curriculum",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Communications of the Association for Information Systems. - New York| NY : ACM. - 36. 2015| 23| S. 449 - 476",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20963&la=de",
+            "Tags": "intelligent information management|intelligent information management|information retrieval|deep learning|data science"
+        },
+        {
+            "Title": "A service oriented search framework for full text| geospatial and semantic search",
+            "Authors": "Both Andreas|Ngonga Ngomo Axel Cyrille|Usbeck Ricardo|Lukovnikov Denis|Lemke Christiane|Speicher Maximilian|",
+            "Research Area": "Distributed Search| Semantic Web| Information Retrieval",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "10th International Conference on Semantic Systems| 04.-05. September 2014| Leipzig| 65-72| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17237&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Entwicklungsstand des Stammdaten und Gesch\u00e4ftsprozessmanagements in KMU Ergebnisse einer Befragung",
+            "Authors": "G\u00f6tze Uwe|Leidich Erhard|W\u00e4chtler Andreas|",
+            "Research Area": "Stammdatenmanagement | Gesch\u00e4ftsprozessmanagement | Normen und Standards | Befragung Master Data Management | Business Process Management | norms and standards | survey",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "Chemnitz| L\u00f6\u00dfnitz : Verlag der GUC| 2014| 50 S.",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17408&la=de",
+            "Tags": "intelligent information management|internet of things (iot)"
+        },
+        {
+            "Title": "Entwicklungsstand des Stammdaten  und Gesch\u00e4ftsprozessmanagements in KMU   Ergebnisse einer Befragung",
+            "Authors": "G\u00f6tze Uwe|Leidich Erhard|W\u00e4chtler Andreas|",
+            "Research Area": "Stammdatenmanagement | Gesch\u00e4ftsprozessmanagement | Normen und Standards | Befragung Master Data Management | Business Process Management | norms and standards | survey",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "Chemnitz| L\u00f6\u00dfnitz : Verlag der GUC| 2014| 50 S.",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17408&la=de",
+            "Tags": "intelligent information management|internet of things (iot)"
+        },
+        {
+            "Title": "Kommentierung von \u00a7\u00a7 19 bis 21 BDSG",
+            "Authors": "Orantek Kerstin|Polenz Sven|",
+            "Research Area": "Datenschutz | Betroffenenrechte | Auskunft | Benachrichtigung | Berichtigung | L\u00f6schung | Sperrung | Widerspruchsrecht | Anrufung des Bundesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit data protection | privacy | data subjects' rights | right to information",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Gierschmann| Sibylle ; Saeugling| Markus (Hrsg.): Systematischer Praxiskommentar Datenschutzrecht. - 1. - K\u00f6ln : Bundesanzeiger Verlag| 2014| S. 441 - 467",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17046&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Expert Opinion on the Causes of International Differences in Intelligence 2013 Survey of Expert Opinion on Intelligence",
+            "Authors": "Becker David|Rindermann Heiner|Coyle Thomas R.|",
+            "Research Area": "intelligence | cross national | genetics | education | expert survey",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "14th ISIR Conference| December 12-14 2013| Melbourne - Australia| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18816&la=de",
+            "Tags": "intelligent information management|internet of things (iot)"
+        },
+        {
+            "Title": "Evaluation of Media Analysis and Information Retrieval Solutions for Audio Visual Content through their Integration in Realistic Workflows of the Broadcast Industry",
+            "Authors": "Rickert Markus|Eibl Maximilian|",
+            "Research Area": "Workflows | Information Retrieval | Video Ingest | Video Analysis | Audio Analysis | Cloud Services | Web Services | Audio | Video | Capture| Encoding | Archiving",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Research in Adaptive and Convergent Systems (RACS| 2013)| 01.-04.10.2013| Montreal| Quebec| Kanada| p. 118-121. - New York : The Association for Computer Machinery| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14957&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Zur \u00c4sthetik der Suche",
+            "Authors": "Eibl Maximilian|",
+            "Research Area": "Suche| \u00c4sthetik| Information Retrieval| Medienretrieval| Design| Human Computer Interaction| HCI Search| Aesthetics| Design| Information Retrieval| Meda Retrieval| Design| Human Computer Interaction| HCI",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Wagner| Christoph; Greenlee| Mark; Wolff| Christian: Aisthesis - Wahrnehmungsprozesse und Visualisierungsformen in Kunst und Technik. - 1. - Regensburg : Schnell & Steiner| 2013| S. 193 - 202. - Regensburger Studien zur Kunstgeschichte; Band 12",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15252&la=de",
+            "Tags": "intelligent information management|web engineering|internet of things (iot)"
+        },
+        {
+            "Title": "Essential lessons still not learned? Examining the password practices of end users and service providers",
+            "Authors": "Furnell Steven|B\u00e4r Nina|",
+            "Research Area": "trust | information security",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Human Aspects of Information Security| Privacy| and Trust. Proceedings on the First International Conference| HAS 2013. - Berlin| Heidelberg : Springer| 2013| pp. 217-225",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15783&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Expert Opinion on the Causes of International Differences in Intelligence   2013 Survey of Expert Opinion on Intelligence",
+            "Authors": "Becker David|Rindermann Heiner|Coyle Thomas R.|",
+            "Research Area": "intelligence | cross national | genetics | education | expert survey",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "14th ISIR Conference| December 12-14 2013| Melbourne - Australia| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18816&la=de",
+            "Tags": "intelligent information management|internet of things (iot)"
+        },
+        {
+            "Title": "Schlussbericht zum InnoProfile Forschungsvorhaben sachsMedia Cooperative Producing| Storage| Retrieval| and Distribution of Audiovisual Media",
+            "Authors": "Berger Arne|Eibl Maximilian|Heinich Stephan|Knauf Robert|K\u00fcrsten Jens|Kurze Albrecht|Rickert Markus|Ritter Marc|",
+            "Research Area": "Fernsehen | Lokalsender | Produktion | Automatische Inhaltserschlie\u00dfung | Multimedia | Sprachanalyse | Videoanalyse | Medienverteilung Television | Digital Broadcasting | Information Retrieval | Multimedia Retrieval | Graphical User Interfaces | Next Generation Networks | IP based Services",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Chemnitzer Informatik Berichte. - Chemnitz| 2012| S. 1 - 94. - Chemnitzer Informatik Berichte ; CSR-12-04",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=12988&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Schlussbericht zum InnoProfile Forschungsvorhaben sachsMedia   Cooperative Producing| Storage| Retrieval| and Distribution of Audiovisual Media",
+            "Authors": "Berger Arne|Eibl Maximilian|Heinich Stephan|Knauf Robert|K\u00fcrsten Jens|Kurze Albrecht|Rickert Markus|Ritter Marc|",
+            "Research Area": "Fernsehen | Lokalsender | Produktion | Automatische Inhaltserschlie\u00dfung | Multimedia | Sprachanalyse | Videoanalyse | Medienverteilung Television | Digital Broadcasting | Information Retrieval | Multimedia Retrieval | Graphical User Interfaces | Next Generation Networks | IP based Services",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Chemnitzer Informatik Berichte. - Chemnitz| 2012| S. 1 - 94. - Chemnitzer Informatik Berichte ; CSR-12-04",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=12988&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Large Scale System Evaluation on Component Level",
+            "Authors": "K\u00fcrsten Jens|Eibl Maximilian|",
+            "Research Area": "Information Retrieval | Evaluation | Ergebnisbewertung information retrieval | evaluation | performance measurement",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the 33rd European conference on Advances in information retrieval| April 18-21| 2011| Dublin| Ireland| pp. 679-682. - Berlin Heidelberg : Springer-Verlag| 2011. - Lecture Notes in Computer Science ; Volume 6611",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10705&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Tool for Comparative IR Evaluation on Component Level",
+            "Authors": "Wilhelm Thomas|K\u00fcrsten Jens|Eibl Maximilian|",
+            "Research Area": "Information Retrieval | Evaluation | Ergebnisbewertung| Visualisierung information retrieval | evaluation | performance measurement| visualisation",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "The 34th International ACM SIGIR conference on research and development in Information Retrieval| July 24 - 28| 2011|  Beijing| China| pp. 1291-1292. - New York : ACM| 2011",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10706&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Two step Approach to Video Retrieval based on ASRtranscriptions",
+            "Authors": "Schmidt Ken|K\u00f6rner Thomas|Heinich Stephan|Wilhelm Thomas|",
+            "Research Area": "information retrieval | automatic speech recognition | multimedia retrieval",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Working Notes Proceedings of the MediaEval 2011 Workshop| Santa Croce in Fossabanda| Pisa| Italy| September 1-2| 2011| 2011",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10727&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Vergleich von IR Systemkonfigurationen auf Komponentenebene",
+            "Authors": "K\u00fcrsten Jens|Wilhelm Thomas|Eibl Maximilian|",
+            "Research Area": "Information Retrieval | Evaluation| Ergebnisvisualisierung information retrieval | evaluation| result visualisation",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings des 12. Internationalen Symposiums f\u00fcr Informationswissenschaft (ISI 2011)| Hildesheim| 9.-11. M\u00e4rz 2011. - Konstanz : Verlag Werner H\u00fclsbusch| 2011. - Schriften zur Informationswissenschaft ; Band 58| S. 47-59",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10704&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Innovation as Clusters in Knowledge Intensive Business Services : Taking ICT Services in Shanghai and Bavaria as an Example",
+            "Authors": "H\u00fcsig Stefan|Zhou Wen|Zhao Yan|",
+            "Research Area": "Knowledge intensive business services| information and communication technology| cluster| innovation",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: International Journal of Innovation Management (IJIM) . - 14 . 2010 | 1 | S. 1 - 18",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16135&la=de",
+            "Tags": "intelligent information management|intelligent information management|information retrieval|data science"
+        },
+        {
+            "Title": "The Importance of being Grid: Chemnitz University of Technology at Grid@CLEF",
+            "Authors": "Eibl Maximilian|K\u00fcrsten Jens|",
+            "Research Area": "information retrieval | audiovisual media | data fusion | merging | Xtrieval | AMOPA",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "2009",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=6398&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Workshop Audiovisuelle Medien : WAM 2009",
+            "Authors": "Eibl Maximilian|K\u00fcrsten Jens|Ritter Marc|",
+            "Research Area": "Archivierung | Archivsystem | Bildverarbeitung | Bildverstehen | Cluster Analyse | Digitales Fernsehen | Information Retrieval | Information Retrieval System | MIDI | MPEG 4 | MPEG 7 | Medieninformatik | Mensch Maschine Kommunikation | Mensch Maschine Schnittstelle | Metadaten | Metadatenmodell | Mobile Computing | Mobiles Internet | Multimedia | Multimedia Maschine | Optische Zeichenerkennung | Personalisierung | Softwareergonomie | UMTS | Videoarchiv | Videobearbeitung | Visualisierung | Distribution",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "1. Auflage. - TU Chemnitz| Fak. f\u00fcr Informatik : Professur Medieninformatik| 2009. - 242 S. - Chemnitzer Informatik-Berichte ; CSR-09-04",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=5360&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Generic Music Identification by Hierarchic Modeling of Human Perception",
+            "Authors": "Seifert Frank|Rentzsch Michael|",
+            "Research Area": "Musikerkennung | Information Retrieval music information retrieval",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Axmedis| 17.-19. November 2008| Florenz. - S. 10 - 16",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3680&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "The Xtrieval Framework at CLEF 2008: ImageCLEF Wikipedia MM task",
+            "Authors": "Wilhelm Thomas|K\u00fcrsten Jens|Eibl Maximilian|",
+            "Research Area": "Evaluation | Cross Language Information Retrieval | Content based Image Retrieval | Query Expansion | Experimentation",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "CLEF 2008 Workshop| 17-19 September| 2008",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4138&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Robuste Genre Klassifikation",
+            "Authors": "Klausing Tilo|Seifert Frank|",
+            "Research Area": "inhaltsbasierte Musikklassifikation music information retrieval | audio classification",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Chemnitz : TU Chemnitz| 2007| S. 1 - 82",
+            "Year": "2007",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=1690&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Wissenserwerb und Informationssuche mit Hypertexten: Die Bedeutung von Strukturierung| Navigationshilfen und Arbeitsged\u00e4chtnisbelastung",
+            "Authors": "nan",
+            "Research Area": "Situationsmodell | Informationssuche information retrieval | working memory | knowledge acquisition | situation model | text comprehension | coherence",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3123&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        }
+    ]
+}

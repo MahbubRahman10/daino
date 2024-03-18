@@ -1,0 +1,1524 @@
+{
+    "resource": {
+        "package_id": "79eca658-ddc5-4d2e-b22c-44c8d0bdd5c9"
+    },
+    "fields": [
+        {
+            "id": "Title"
+        },
+        {
+            "id": "Authors"
+        },
+        {
+            "id": "Research Area"
+        },
+        {
+            "id": "Publication Type"
+        },
+        {
+            "id": "Source"
+        },
+        {
+            "id": "Year"
+        },
+        {
+            "id": "Link"
+        },
+        {
+            "id": "Tags"
+        }
+    ],
+
+    "records": [
+        {
+            "Title": "Supervised Skeleton Based Reference Movement Adjustment",
+            "Authors": "Lehmann Lars|Seidel Roman|Hirtz Gangolf|",
+            "Research Area": "Visualisation | Feedback Control | Assisted Motion Control | Motion Error Detection",
+            "Publication Type": "Konferenzabstract",
+            "Source": "In: 55th Annual Conference of the German Society for Biomedical Engineering (BMT 2021). - De Gruyter. - 66. 2021| S1| S. S161 - S162",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33837&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Nano Security: From Nano Electronics to Secure Systems",
+            "Authors": "Polian Ilia|Altmann Frank|Arul Tolga|Boit Christian|Brederlow Ralf|Davi Lucas|Drechsler Rolf|Du Nan|Eisenbarth Thomas|G\u00fcneysu Tim|Hermann Sascha|Hiller Matthias|Leupers Rainer|Merchant Farhad|Mussenbrock Thomas|Katzenbeisser Stefan|Kumar Akash|Kunz Wolfgang|Mikolajick Thomas|Pachauri Vivek|Seifert Jean Pierre|Sill Torres Frank|Trommer Jens|",
+            "Research Area": "Materials science and technology | Design automation | Focusing | Nanoscale devices | Hardware | Security | Cryptography",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "2021 Design| Automation & Test in Europe Conference & Exhibition (DATE) (virtuell)| 2021 Feb 1-5| Grenoble (France)| 1334-1339. - IEEE| 2021",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33508&la=de",
+            "Tags": "media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "DISCO: WEB SERVICE DISCOVERY CHATBOT",
+            "Authors": "Zarei Bahareh|Gaedke Martin|",
+            "Research Area": "Conversational Interface | Chat bot | Web serviceDiscovery | Service Based Systems | Natural Language Processing | Query Expansion",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: IADIS International Journal on WWW/Interne. - iadis. - 18. 2021| 2| S. 16 - 28",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33122&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Skelettbasierte 3D Echtzeit Aktivit\u00e4tsdetektion in Wohnumgebungen \u00e4lterer Menschen",
+            "Authors": "Lehmann Lars|Seidel Roman|Hirtz Gangolf|",
+            "Research Area": "Visualisation| Feedback Control| Assisted Motion Control| Motion Error Detection",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Biomedizinische Technik. -  Berlin : DeGryter| 2020. - 54th Annual Conference of the German Society for Biomedical Engineering (VDE|DGBMT) - Online Event (BMT 2020)| Leipzig| 189",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32963&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Image related metadata generation| storage and retrieval for big datasets",
+            "Authors": "Kretzschmar Tom|Kowerko Danny|",
+            "Research Area": "Metadata Management | Information Retrieval | Object Detection and Classification",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Chemnitzer Linux-Tage 2019 - LocalizeIT Workshop| 03/2019| Chemnitzer Informatik Berichte 2020 ; CSR-20-01 S. 9-28",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32305&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Enhancing green product and process innovation: Towards an integrative framework of knowledge acquisition and environmental investment",
+            "Authors": "Awan Usama|Arnold Marlen Gabriele|G\u00f6lgeci Ismail|",
+            "Research Area": "green innovation | green process innovation | investment in environmental management | knowledge acquisition",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Business Strategy and the Environment. - Wiley. - 2020",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31550&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "CPU Resource Usage Analysis for Downlink PDCP Processing in CRAN",
+            "Authors": "Alam Md Ashraful|Khatibi Sina|",
+            "Research Area": "5G | 6G | LTE | Protocol Split | CRAN | CPU | PDCP processing | OAI | ROHC | Encryption",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "2020 IEEE 31st Annual International Symposium on Personal| Indoor and Mobile Radio Communications. - London| United Kingdom| United Kingdom : IEEE| 2020",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31863&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Electroforming free Memristors for Hardware Security Primitives",
+            "Authors": "Du Nan|Kiani Mahdi|Zhao Xianyue|B\u00fcrger Danilo|Schmidt Oliver G.|Ecke Ramona|Schulz Stefan E.|Schmidt Heidemarie|Polian Ilia|",
+            "Research Area": "electroforming free memristors | hardware security primitives | memristive devices | secret key generation | hardware security applications | hardware oriented security | security properties | material science | Hardware oriented security | Memristive devices | TRNG | PUF",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "2019 IEEE 4th International Verification and Security Workshop (IVSW)| 2019 Jul 1-3|  Rhodes Island (Greece). - IEEE Xplore Digital Library| 2019",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30313&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Einstellung zum Datenschutz und mHealth Nutzung : Ergebnisse einer Studierendenbefragung und des Health Information National Trends Survey",
+            "Authors": "Kriwy Peter|Gl\u00f6ckner Richard|",
+            "Research Area": "Datenschutzbedenken | Gesundheits Apps | Fitness Tracker | Daten\u00fcbertragung | Umfrageforschung Privacy concerns | Health apps | Fitness tracker | Data transmission | Survey research",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Pr\u00e4vention und Gesundheitsf\u00f6rderung. - Heidelberg : Springer Nature. 2019| S. 1 - 8",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30066&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Ein Plattform \u00d6kosystem f\u00fcr Predictive Maintenance zur Erh\u00f6hung der Effizienz und Effektivit\u00e4t der Instandhaltung in kleinen und mittleren Unternehmen",
+            "Authors": "Nagel Matthias|Nagel Matthes|Riedel Ralph|Arndt Natanael|F\u00f6rster Fabian|",
+            "Research Area": "prediktive Instandhaltung | Datensicherheit | Datenanalyse predictive maintenance | data security | data analysis",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Die hybride Fabrik - menschliche und k\u00fcnstliche Intelligenz im Einklang| VPP2019 - Vernetzt planen und produzieren| S.267-278. - Technische Universit\u00e4t Chemnitz : Eigenverlag| 2019. - Wissenschaftliche Schriftenreihe des IBF ; Sonderheft 25",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29486&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Aushandlung und Inszenierung des Privaten in room tour Videos",
+            "Authors": "Rebane Gala|",
+            "Research Area": "digital practices | digital cultures | YouTube | privacy | gender",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Aldenhoff| Christian et al.: Digitalit\u00e4t und Privatheit. - 1. - Bielefeld : transcript| 2019| S. 283 - 302",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29283&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Towards a Formalization of the Model by Jonsson and Olovsson",
+            "Authors": "Naumann Billy|",
+            "Research Area": "Security | Dependability | Formal methods | Automata",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Gemeinsames Herbsttreffen der Fachgruppen des GI-Fachbereichs Betriebssysteme| Kommunikationssysteme und verteilte Systeme| 21./22. November 2019| Osnabr\u00fcck| 2019",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30334&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Improving Timing Behavior on Encrypted CAN Buses",
+            "Authors": "Zhang Mingqing*|Masrur Alejandro*|",
+            "Research Area": "CAN | AES | GCM | encryption | authentication | cybersecurity",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the 25th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)| 2019. 18-21 Aug. 2019| Hangzhou| China. - IEEE| 2019",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33686&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Ein Plattform \u00d6kosystem f\u00fcr Predictive Maintenance zur Erh\u00f6hung der Effizienz und Effektivit\u00e4t der Instandhaltung in kleinen und mittleren Unternehmen",
+            "Authors": "Nagel Matthias|Nagel Matthes|Riedel Ralph|Arndt Natanael|F\u00f6rster Fabian|",
+            "Research Area": "prediktive Instandhaltung | Datensicherheit | Datenanalyse predictive maintenance | data security | data analysis",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Die hybride Fabrik - menschliche und k\u00fcnstliche Intelligenz im Einklang| VPP2019 - Vernetzt planen und produzieren| S.267-278. - Technische Universit\u00e4t Chemnitz : Eigenverlag| 2019. - Wissenschaftliche Schriftenreihe des IBF ; Sonderheft 25",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29486&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Brexit and the Politics of Resilience in the U.S. UK Special Relationship",
+            "Authors": "Oppermann Kai|",
+            "Research Area": "Brexit | Transatlantic Relations | Ontological Security | Failures | Special Relationships",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: The Politics of Resilience and Transatlantic Order. Enduring Crisis?. - London and New York : Routledge| 2019| S. 186 - 202",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30227&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "The Ontological Security of Special Relationships: The Case of Germany\u2019s Relations with Israel",
+            "Authors": "Oppermann Kai*|Hansel Mischa|",
+            "Research Area": "Special relationships | ontological security | Germany | Israel | foreign policy",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: European Journal of International Security. - Cambridge University Press. - 4.2019| 1| pp. 79-100",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=28420&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "F.I.E.L.D.S. Analyzing Form Input interfaces for Explicit Linked Data handling in document Submission systems",
+            "Authors": "Langer Andre|G\u00f6pfert Christoph|Gaedke Martin|",
+            "Research Area": "Semantic Web | User Interfaces | Knowledge Graphs | Data Coherence",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IADIS International Conference on WWW/Internet 2018 and Applied Computing 2018| BUDAPEST| HUNGARY OCTOBER 21-23| 2018| pp. 3 - 10",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=28359&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Search based dashboards Approach and Challenges",
+            "Authors": "Daoud Eduard|",
+            "Research Area": "Search Based Applications | Information Access | Information Retrieval | Search Engine | User Centered Approach",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Conference: 2nd International Rapid Mashup Challenge @ ICWE 2016| At Lugano| Switzerland| 2018",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=28358&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Nutzerzentrierte Produktentwicklung als Lernziel im Praxisprojekt. Clips f\u00fcr den Ideenfindungsprozess",
+            "Authors": "Lohse Aline|Muth Johanna|Strobel Jacob|Bullinger Angelika Cosima|",
+            "Research Area": "Transfer competence | performance measurement | user centered product development | working environment 4.0",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "64. Kongress der Gesellschaft fuer Arbeitswissenschaft e.V. (GfA)| Frankfurt : FOM Hochschule f\u00fcr Oekonomie & Management| 21.-23. Februar 2018| B.7.8. - Dortmund : GfA Press| 2018",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=27796&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "F.I.E.L.D.S.   Analyzing Form Input interfaces for Explicit Linked Data handling in document Submission systems",
+            "Authors": "Langer Andre|G\u00f6pfert Christoph|Gaedke Martin|",
+            "Research Area": "Semantic Web | User Interfaces | Knowledge Graphs | Data Coherence",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IADIS International Conference on WWW/Internet 2018 and Applied Computing 2018| BUDAPEST| HUNGARY OCTOBER 21-23| 2018| pp. 3 - 10",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=28359&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Robust Digital Image Encryption Approach Based on Extended Large Scale Randomization Key Stream Generator",
+            "Authors": "AL  Ubaedi Mohammed H. Khudair|Yousif Raghad Zuhair|Kanoun Olfa|",
+            "Research Area": "Encryption | Randomization | Key Stream generator| Digital Image Ciphering",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "2018 15th International Multi-Conference on Systems| Signals & Devices (SSD)| 19.-22. M\u00e4rz 2018| Hammamet| S. 220 - 227. - USA : IEEE| 2018",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=27522&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Mobiler Datenschutz: Nutzerzentrierte Gestaltung der And Protect App",
+            "Authors": "D\u00f6belt Susen|Halama Josephine|",
+            "Research Area": "Datenschutz | nutzerzentrierte Gestaltung data security | privacy | user centered design",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Mensch und Computer 2018| 2.-5.9.2018| Dresden. - Gesellschaft f\u00fcr Informatik e.V.| 2018. - Workshopband MUC 2018",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=27583&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A web based application for data visualisation and non linear regression analysis including error calculation for laboratory classes in natural and life sciences",
+            "Authors": "Keller Titus|Kowerko Danny|",
+            "Research Area": "Web Application | Web Technology | Regression | Curve Fitting | Data Visualisation | Education | Practical Courses",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "IBS International Summerschool on Computer Science| Computer Engineering and Education Technology 2017| Laubusch| 03.-07.07.2017| 12-15. - TUDpress| 2017. - IBS Scientific Workshop Proceedings; 4",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24368&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Inhaltsbasierte Analyse und Segmentierung narrativer| audiovisueller Medien",
+            "Authors": "Rickert Markus|",
+            "Research Area": "Videoanalyse| inhaltsbasierte Analyse| Clusteranalyse| Szenen| Kinematographie| MPEG 7 Deskriptoren| Scene Transition Graph audiovisual media| video analysis| segmentation| content based analysis| cluster analysis| scenes| film studies| film styles| cinematography| MPEG 7 Descriptors| Scene Transition Graph",
+            "Publication Type": "Dissertation",
+            "Source": "1. Auflage. - Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2017. - 596 S. - Wissenschaftliche Schriftenreihe Dissertationen der Medieninformatik ; Band 7",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24377&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Strategy for the Digitalization of the Local Television Program Archives in Saxony : Audio visual Heritage in Saxony : Strategies for Archiving Local Television Programmes",
+            "Authors": "Rickert Markus|Eckardt Andre|Steinmetz R\u00fcdiger|Eibl Maximilian|",
+            "Research Area": "Sachsen | Lokales Fernsehen | Regionalfernsehen | Fernsehsendung | Archiv | Archivbestand | Digitalisierung | kulturelles Erbe | Videoanalyse | Medienwissenschaften Cultural Heritage | Digitalization | Media Analysis | Media Studies | Archiving",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "IFLA 2017 News Media Satellite Conference| 15.08 - 16.08.2017| Dresden| 2017",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25311&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Human Computer Interaction and Online Users Trust and Distrust",
+            "Authors": "Halama Josephine|",
+            "Research Area": "trust | distrust | permissions | privacy | user experience | applications",
+            "Publication Type": "Konferenzabstract",
+            "Source": "MMI Interaktiv. - 3rd Berlin Summer School Human Factors. - Berlin| 2017| S. 17-18",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25053&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Which Cloak Dresses You Best? Comparing Location Cloaking Methods for Mobile Users",
+            "Authors": "D\u00f6belt Susen|Schrammel Johann|Tscheligi Manfred|",
+            "Research Area": "Location privacy | mobile location sharing | location cloaking | location obfuscation | user stud",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "MobileHCI '17 Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services Article No. 95| Vienna| Austria| September 04 - 07 2017",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25079&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Reaktionen auf terroristische Bedrohung und das Bed\u00fcrfnis nach Sicherheit",
+            "Authors": "Asbrock Frank|Fritsche Immo|",
+            "Research Area": "extremism | inner security | delinquency | Saxony | threat",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Yendell| Alexander ; Pickel| Gert ; D\u00f6rner| Karolin (Hrsg.): Innere Sicherheit in Sachsen. Beitr\u00e4ge zu einer kontroversen Debatte. - Leipzig : Edition Leipzig| 2017| S. 66 - 74",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25470&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Enforcing Security and Privacy via a Cooperation of Security Experts and Software Engineers",
+            "Authors": "Hilbrich Marcus|Frank Markus|",
+            "Research Area": "Security | Software Engineering | Model | Security Concept | Model based | Privacy | Data Protection | Model driven | Threat Modeling | Palladio Component Model",
+            "Publication Type": "Poster",
+            "Source": "IEEE SC2-2017 The 7th IEEE International Symposium on Cloud and Service Computing| 2017",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25378&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Enforcing Security and Privacy via a Cooperation of Security Experts and Software Engineers: A Model Based Vision",
+            "Authors": "Hilbrich Marcus|Frank Markus|",
+            "Research Area": "Security | Software Engineering | Model | Security Concept | Model based | Privacy | Data Protection | Model driven | Threat Modeling | Palladio Component Model",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "SC2 2017 The IEEE 7th International Symposium on Cloud and Service Computing| Kanazawa| Japan| pp. 237-240",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25375&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Institutionen der Inneren Sicherheit in Sachsen",
+            "Authors": "Thieme Tom|",
+            "Research Area": "internal security | Saxony | institutions",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Pickel| Gert ; Yendell| Alexander ; D\u00f6rner| Karolin (Hrsg.): Innere Sicherheit in Sachsen. Beitr\u00e4ge zu einer kontroversen Debatte. - Leipzig : Edition Leipzig| 2017| S. 84 - 91",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25365&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Sicherheitsempfinden : Was tun in Krisenzeiten?",
+            "Authors": "Liebold Sebastian|",
+            "Research Area": "Sicherheit | Unsicherheit | Bundesrepublik | Innere Sicherheit | Freiheit | Ehrenamt | B\u00fcrger Security| Unsecurity | Federal Republic of Germany | Liberty | Civil Society | Citizens",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Katapult. - Katapult gUG. - 2. 2017| 5| S. 76 - 83",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24604&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Activity Recognition based on High Level Reasoning An Experimental Study Evaluating Proximity to Objects and Pose Information",
+            "Authors": "Richter Julia|Wiede Christian|Dayangac Enes|He\u00df Markus|Hirtz Gangolf|",
+            "Research Area": "Video Analysis | 3 D Image Processing | Activity Recognition | Pose Estimation | High Level Reasoning | Ambient Assisted Living",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "5th International Conference on Pattern Recognition Applications and Methods| 24.-26.02.2016| Rome| Italy| S. 415-422",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21598&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "BiFeO3 memristor based encryption of medical data",
+            "Authors": "Ascoli Alon|Senger Vanessa|Tetzlaff Ronald|Du Nan|Schmidt Oliver G.|Schmidt Heidemarie|",
+            "Research Area": "Memristors | Encryption | Time series analysis | Harmonic analysis | Silicon | Encoding",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "In: IEEE Xplore| 2016. - IEEE International Symposium on Circuits and Systems (ISCAS) 22-25 May 2016| Montreal| Canada",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22336&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Differentiating between encoding and processing during diagnostic reasoning: An eye tracking study",
+            "Authors": "Klichowicz Anja|Scholz Agnes|Strehlau Sascha|Krems Josef F.|",
+            "Research Area": "diagnostic reasoning | eye tracking | process tracing | encoding processing differences",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the 38th Annual Conference of the Cognitive Science Society| S. 129-134. - Austin| TX : Cognitive Science Society.| 2016",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23352&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Corpus of Read and Spontaneous Upper Saxon German Speech for ASR Evaluation",
+            "Authors": "Herms Robert|Seelig Laura|M\u00fcnch Stefanie|Eibl Maximilian|",
+            "Research Area": "speech corpus | speech recognition | dialect",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)| 23.-28.05.2016| Portoro\u017e| Slovenia| 2016",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21653&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Information Retrieval in der Lehre : Unterst\u00fctzung des Erwerbs von Praxiswissen zu Information Retrieval Komponenten mittels realer Experimente und Spielemechaniken",
+            "Authors": "Wilhelm Stein Thomas|",
+            "Research Area": "IR| Lernumgebungen| Spielemechaniken| Information Retrieval Evaluation| Information Retrieval Systeme| Information Retrieval Komponenten| Information Retrieval Experimente| Web basierte Lernumgebung Information Retrieval| Teaching| Learning Environment| Game Mechanics| IR Evaluation| IR Systems| IR Components| IR Experiments| Web Based Learning Environment",
+            "Publication Type": "Dissertation",
+            "Source": "Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2016. - 222 S. - Wissenschaftliche Schriftenreihe Dissertationen der Medieninformatik ; Band 5",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21652&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Wrappers for Feature Subset Selection in CRF based Clinical Information Extraction",
+            "Authors": "Ebersbach Mike|Herms Robert|Lohr Christina|Eibl Maximilian|",
+            "Research Area": "Information extraction | Natural language processing | Clinical texts | Feature subset selection | Wrapper | Conditional random fields",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Con\u00adfer\u00adence and Labs of the Eval\u00adu\u00ada\u00adtion Forum (CLEF)| 05.-08.09.2016| \u00c9vora (Portugal)",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21798&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Outdoor Tests for the Validation of an Inertial System Able to Detect Illegal Steps in Race walking",
+            "Authors": "Di Gironimo Giuseppe|Caporaso Teodorico|Amodeo Giuseppe|Del Giudice Domenico Maria|Lanzotti Antonio|Odenwald Stephan|",
+            "Research Area": "Race walking| loss of contact | inertial sensor | video analysis | outdoor test",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Procedia Engineering. - 147.2016| S. 544 - 549. - Elsevier Ltd. - The Engineering of Sport ; 11",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21775&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Video Analysis of Player Kinematics in Running out of Boundaries in Association Football Fields",
+            "Authors": "Lanzotti Antonio|Costabile Gianluca|Aninno Giuseppe|Amodeo Giuseppe|Odenwald Stephan|",
+            "Research Area": "Video Analysis | Kinematics | Association Football | Running out | Passive Safety | Sports Equipment and Facilities",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Procedia Engineering. - 147.2016| S. 234 - 239. - Elsevier Ltd. - The Engineering of Sport ; 11",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21774&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Wearable| Modular and Intelligent Sensor Laboratory",
+            "Authors": "Hill Markus|Hoena Bernadett|Killian Wolfgang|Odenwald Stephan|",
+            "Research Area": "Instrumented insole | sensor network | wearables | data fusion | feedback system | realtime analysis",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Procedia Engineering. - 147. 2016| S. 671-675. - Elsevier Ltd.| 2016. - The Engineering of Sport ; 11",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21772&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Entwicklung eines Kennzahlensystems f\u00fcr den Produktionsbereich eines Textilherstellers",
+            "Authors": "Schmidt Anja|Schwesig Birgit|",
+            "Research Area": "Kennzahlensystem | Produktionsbereich | Produktionsprozesse | Textilbranche key figure system | performance measurement | production processes | textile industry",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Schulz| Klaus-Peter ; Riedel| Ralph (Hrsg.): Nachhaltige Innovationsf\u00e4higkeit von produzierenden KMU. Inhalte| Methoden| Fallbeispiele. - M\u00fcnchen | Mering : Rainer Hampp Verlag| 2016| S. 205 - 227. - Arbeit| Organisation und Personal im Transformationsprozess ; Band 31",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22247&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Activity Recognition based on High Level Reasoning   An Experimental Study Evaluating Proximity to Objects and Pose Information",
+            "Authors": "Richter Julia*|Wiede Christian|Dayangac Enes|He\u00df Markus|Hirtz Gangolf|",
+            "Research Area": "Video Analysis | 3 D Image Processing | Activity Recognition | Pose Estimation | High Level Reasoning | Ambient Assisted Living",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "5th International Conference on Pattern Recognition Applications and Methods| 24.-26.02.2016| Rome| Italy| S. 415-422",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21598&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "The new Z Wave Security Layer S2",
+            "Authors": "P\u00e4tz Christian*|",
+            "Research Area": "Z Wave | Security Layer | S2",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Wireless Congress: Systems and Applications| 09. und 10. November 2016| M\u00fcnchen| S. 738-741",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22537&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Dritter Teil. Titel II. Art. 52",
+            "Authors": "Korte Stefan|",
+            "Research Area": "public security | public order | public health",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Calliess| Christian ; Ruffert| Matthias (Hrsg.): EUV / AEUV - Das Verfassungsrecht der Europ\u00e4ischen Union mit Europ\u00e4ischer Grundrechtscharta: Kommentar. - 5. Aufl. - M\u00fcnschen : C.H. Beck| 2016| S. 924 - 927",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25129&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Editorial: EU US Privacy Shieldein Meilenstein im Kampf um den Datenabfluss",
+            "Authors": "Gesmann Nuissl Dagmar|",
+            "Research Area": "EU US Privacy Shield | Safe  Habor Abkommen | digitale Wirtschaft 4.0 EU US Privacy Shield | Safe Habor Framework",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: InTeR. - Frankfurt| M. : Dt. Fachverl. - 1. 2016| 1| S. 1 - 2",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21455&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Wer regelt was mit welchem Recht f\u00fcr die Technische Kommunikation? Ein \u00dcberblick",
+            "Authors": "Gesmann Nuissl Dagmar|",
+            "Research Area": "Regelungen f\u00fcr Technische Kommunikation | Produktsicherheitsrecht | Gestaltungsm\u00f6glichkeiten des Vertragsrechts Regulations for technical communication | Product Security | Possibilities for the drafting of contract law",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Hennig| J\u00f6rg (Hrsg.) Tjarks-Sobhani| Marita (Hrsg.): Gesetze| Urteile| Normen| Richtlinien : Regelungen f\u00fcr die Technische Kommunikation. - Stuttgart : tekom-Verlag| 2016| S 11 - 29. - Gesellschaft f\u00fcr Technische Kommunikation: Tekom-Schriften zur technischen Kommunikation ; Bd. 20",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22714&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Enabling cooperative automated driving by multi sensor data fusion with V2V communication",
+            "Authors": "Marcus Obst|Pierre Reisdorf|",
+            "Research Area": "multi sensor data fusion | V2V | cooperative",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "22nd ITS World Congress| Bordeaux| France| 5\u20139 October 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20078&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Covert shifts of attention to indexed spatial locations increase retrieval performance of verbal materials",
+            "Authors": "Prittmann Anja|Scholz Agnes|Krems Josef F.|",
+            "Research Area": "memory retrieval | eye movements | visuospatial attention | memory representation | encoding retrieval relation ship",
+            "Publication Type": "Konferenzabstract",
+            "Source": "TeaP 2015 Abstracts of the 57th Conference of Experimental Psychologists| Hildesheim. - Lengerich : Pabst Science Publishers| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20490&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Shifting covert attention to spatially indexed locations increases retrieval performance of verbal information",
+            "Authors": "Prittmann Anja|Scholz Agnes|Krems Josef F.|",
+            "Research Area": "memory retrieval | eye movements | visuospatial attention | memory representation | encoding retrieval relation ship",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the 37th Annual Conference of the Cognitive Science Society| 23.-25. Juli 2015| Pasadena| pp. 1907-1912. - Austin : Cognitive Science Society| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20491&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Adap\u00adtive Sen\u00adsor Data Fusion for Effi\u00adcient Cli\u00admate Con\u00adtrol Sys\u00adtems",
+            "Authors": "Vodel Matthias|Ritter Marc|Hardt Wolfram|",
+            "Research Area": "data centre | air conditioning | adaptive | sensor | data fusion",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Uni\u00adver\u00adsal Access in Human-Computer Inter\u00adac\u00adtion. Access to Inter\u00adac\u00adtion| Part II. Lec\u00adture Notes in Com\u00adputer Sci\u00adence| Nr. 9176. Switzer\u00adland : Springer Inter\u00adna\u00adtional Pub\u00adlish\u00ading. HCI Inter\u00adna\u00adtional| 02.-07.08.2015| Los Ange\u00adles (CA| USA)| S.582\u2013593",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19814&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Sustainable Analysis of Large Audiovisual Data Collections",
+            "Authors": "Ritter Marc|",
+            "Research Area": "Sustainable Softwaredevelopment | Holistic Framework for Video Analysis | Image Processing | Object Detection | Face Detection | Pedestrian Detection | Multi Threading",
+            "Publication Type": "Konferenzabstract",
+            "Source": "Pro\u00adceed\u00adings of Sym\u00adpo\u00adsium on Com\u00adpu\u00adta\u00adtional Sus\u00adtain\u00adabil\u00adlity 2014| 27.-29.11.2014| G\u00f6r\u00adlitz| Sach\u00adsen| 2015. - LNCS| Springer| 10 S.| In press.",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20976&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Unsu\u00adper\u00advised Lan\u00adguage Model Adap\u00adta\u00adtion using Utterance based Web Search for Clin\u00adi\u00adcal Speech Recog\u00adni\u00adtion",
+            "Authors": "Herms Robert|Richter Daniel|Eibl Maximilian|Ritter Marc|",
+            "Research Area": "Speech recognition | Language modeling | Unsupervised adaptation | Information retrieval | Clinical texts",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Con\u00adfer\u00adence and Labs of the Eval\u00adu\u00ada\u00adtion Forum (CLEF)| 08.-11.09.2015| Toulouse (France)| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19812&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Graph Based Approach and Analysis Framework for Hierarchical Content Browsing",
+            "Authors": "Rickert Markus|Etzold Benedikt|Eibl Maximilian|",
+            "Research Area": "content browsing | video analysis | video retrieval | graph based analysis | visualization | algorithm | user interface",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Workshop on Interactive Content Consumption 2015| Brussels| Belgium| June 3| 2015. - CEUR Workshop Proceedings ; 1516",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20055&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Tool for Enhancing the Understanding of Information Retrieval System Components for Educational Purposes",
+            "Authors": "Wilhelm Stein Thomas|Eibl Maximilian|",
+            "Research Area": "Information Retrieval | Lehre | Komponenten Information Retrieval | Education | Web Application | Components",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "14th International Symposium on Information Science (ISI 2015). - vwh Gl\u00fcckstadt| 2015| S. 590 - 592. - Schriften zur Informationswissenschaft;  66",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19292&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Teaching the IR Process Using Real Experiments Supported by Game Mechanics",
+            "Authors": "Wilhelm Stein Thomas|Eibl Maximilian|",
+            "Research Area": "Information retrieval | Teaching | Learning | Web application | Components | Game mechanics",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "6th International Conference of the CLEF Association| CLEF'15| Toulouse| France| September 8-11| 2015| S. 312-317. - Springer| 2015. - Lecture Notes in Computer Science ; 9283",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20275&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "ProProtect3: An Approach for Protecting User Profile Data from Disclosure| Tampering| and Improper Use in the Context of WebID",
+            "Authors": "Wild Stefan|Wiedemann Fabian|Heil Sebastian|Tschudnowsky Alexey|Gaedke Martin|",
+            "Research Area": "Protection | Linked data | Identity | WebID | Social Web | Privacy | Security | Integrity | Authentication | Delegation | Semantic web",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Transactions on Large-Scale Data- and Knowledge-Centered Systems XIX : Special Issue on Big Data and Open Data. - Lecture notes in computer science ; 8990. 2015| S. 87 - 127",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19191&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "S.O.S.: Does Your Search Engine Results Page Need Help?",
+            "Authors": "Speicher Maximilian|Both Andreas|Gaedke Martin|",
+            "Research Area": "best practices | evaluation | metrics | optimization | scores | search engine results pages | usability",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI| 2015)| Pages 1005-1014",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19474&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Scope Aware Delegations in Distributed Social Networks",
+            "Authors": "Scholz Anna|Wild Stefan|Gaedke Martin|",
+            "Research Area": "Security | Delegation | Semantic web | Social web | WebID",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "ICWE 2015| Rotterdam| the Netherlands | 23 \u2013 26 June 2015| pp 709-712. - Springer International Publishing| 2015. - 9114",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19782&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Stakeholder Lens on Metadata Management in Business Intelligence and Big Data \u2013 Results of an Empirical Investigation",
+            "Authors": "Dinter Barbara|Gluchowski Peter|Schieder Christian|",
+            "Research Area": "Metadata Management | Business Intelligence",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "21st Americas Conference on Information Systems 2015| August 13-15| 2015| Puerto Rico",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20510&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "S.O.S.: Does Your Search Engine Results Page  Need Help?",
+            "Authors": "Speicher Maximilian|Both Andreas|Gaedke Martin|",
+            "Research Area": "best practices | evaluation | metrics | optimization | scores | search engine results pages | usability",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI| 2015)| Pages 1005-1014",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19474&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Secure Storing of E Health Records in the Cloud",
+            "Authors": "Wiedemann Fabian|Gaedke Martin|",
+            "Research Area": "Cloud | Security | Privacy | Encryption | Storage",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of 15th International Conference on Web Engineering (ICWE2015). - Springer International Publishing| 2015| pp 635-638. - Lecture Notes in Computer Science ; 9114",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20523&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Multi Sensor Data Fusion for Checking Plausibility of V2V Communications by Vision based Multiple Object Tracking",
+            "Authors": "Obst Marcus|Reisdorf Pierre|Hobert Laurens|",
+            "Research Area": "Car2Car | Car2X | GNSS | Multi Sensor Data Fusion",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IEEE Vehicular Networking Conference (VNC)  Datum: 03.-05. Dezember 2014  Ort: Paderborn| Germany| S. 147-154",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18082&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Improving Transcript Based Video Retrieval Using Unsupervised Language Model Adaptation",
+            "Authors": "Wilhelm Stein Thomas|Herms Robert|Ritter Marc|Eibl Maximilian|",
+            "Research Area": "language modeling | out of vocabulary | spoken document retrieval | unsupervised adaptation",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "CLEF 2014| 15.-18. September 2014| Sheffield| UK| 110-115. - Springer International Publishing| 2014. - Lecture Notes in Computer Science ; 8685",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17071&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Compressing Dynamic Meshes with Geometric Laplacians",
+            "Authors": "V\u00e1\u0161a Libor|Marras Stefano|Hormann Kai|Brunnet Guido|",
+            "Research Area": "Compression |\tAnimation | Dynamic mesh | Geometric Laplacian | Average mesh | Encoding",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Computer Graphics Forum. - 33.2014| 2| S. 145 - 154",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18887&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Efficient encoding of texture coordinates guided by mesh geometry",
+            "Authors": "V\u00e1\u0161a Libor|Brunnett Guido|",
+            "Research Area": "Compression | Texture coordinates | Laplacian | Prediction | Texture | Encoding",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Computer Graphics Forum. - 33.2014| 5| S. 25 - 34",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18882&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Hierarchical Laplacian based compression of triangle meshes",
+            "Authors": "V\u00e1\u0161a Libor|Lobaz Petr|",
+            "Research Area": "Compression | Animation | Dynamic mesh | Geometric Laplacian | Average mesh | Encoding",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Graphical Models. - 76. 2014| 6| S. 682 - 690",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18885&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Improving Spoken Document Retrieval by Unsupervised Language Model Adaptation Using Utterance Based Web Search",
+            "Authors": "Herms Robert|Ritter Marc|Wilhelm Stein Thomas|Eibl Maximilian|",
+            "Research Area": "adaptive language modeling | out of vocabulary | speech recognition | spoken document retrieval",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "INTERSPEECH 2014| 15th Annual Conference of the International Speech Communication Association| Singapore| September 14-18| pp. 1430-1433",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17262&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Optimierung von Algorithmen zur Videoanalyse : Ein Analyseframework f\u00fcr die Anforderungen lokaler Fernsehsender",
+            "Authors": "Ritter Marc|",
+            "Research Area": "Videoanalyse| Objektdetektion| Schnitterkennung| Gesichtsdetektion| Fu\u00dfg\u00e4ngererkennung| Holistische Softwarearchitektur Video analysis| Object detection| Shot detection| Face detection| Pedestrian detection| Holistic Software Architecture| Machine Learning| Boosting",
+            "Publication Type": "Dissertation",
+            "Source": "Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2014. - 336 S. - Wissenschaftliche Schriftenreihe Dissertationen der Medieninformatik ; 3",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19044&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Vertrauen in Spracherkennung\u2026?",
+            "Authors": "Lohr Christina|Herms Robert|",
+            "Research Area": "speech recognition | workflow",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Chemnitzer Linux-Tage 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19998&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A service oriented search framework for full text| geospatial and semantic search",
+            "Authors": "Both Andreas|Ngonga Ngomo Axel Cyrille|Usbeck Ricardo|Lukovnikov Denis|Lemke Christiane|Speicher Maximilian|",
+            "Research Area": "Distributed Search| Semantic Web| Information Retrieval",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "10th International Conference on Semantic Systems| 04.-05. September 2014| Leipzig| 65-72| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17237&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Building Bridges between Diverse Identity Concepts Using WebID",
+            "Authors": "Rien\u00e4cker Michel|Wild Stefan|Gaedke Martin|",
+            "Research Area": "Identity| Linked Data| Social Networks| Security| WebID",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "14th International Conference on Web Engineering (ICWE 2014)| 01.07.2014 - 04.07.2014| Toulouse| pp. 498 - 502. - Springer| 2014. - Lecture Notes in Computer Science; 8541",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17230&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Tamper Evident User Profiles for WebID Based Social Networks",
+            "Authors": "Wild Stefan|Braune Falko|Pretzsch Dominik|Rien\u00e4cker Michel|Gaedke Martin|",
+            "Research Area": "Identity| WebID| Linked Data| Social Networks| Trust| Security| Data Integrity| Protection| Tamper Detection",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "14th International Conference on Web Engineering (ICWE 2014)| 01.07.2014 - 04.07.2014| Toulouse| pp. 470 - 479. - Springer| 2014. - Lecture Notes in Computer Science; 8541",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17228&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Using Linked Data for Modeling Secure Distributed Web Applications and Services",
+            "Authors": "Braune Falko|Wild Stefan|Gaedke Martin|",
+            "Research Area": "Modeling| Security| Identity| Protection| Linked Data| WebID",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "14th International Conference on Web Engineering (ICWE 2014)| 01.07.2014 - 04.07.2014| Toulouse| pp. 540 - 544. - Springer| 2014. - Lecture Notes in Computer Science; 8541",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17229&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Utilizing Architecture Models for Secure Distributed Web Applications and Services",
+            "Authors": "Wild Stefan|Gaedke Martin|",
+            "Research Area": "ACM CCS\u2192Security and privacy\u2192Software and application security\u2192Web application security | ACM CCS\u2192Software and its engineering\u2192Software notations and tools\u2192System description languages\u2192System modeling languages | Architecture description languages | Social network security and privacy | Software evolution",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: it - Information Technology / Special Issue: Architecture of Web Application. - Band 56. 2014| Heft 3| S. 112 - 118",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17078&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Fully Printed Passive Chipless RFID Tag forLow Cost Mass Production",
+            "Authors": "Nair Raji|Barahona Marvin|Betancourt Diego|Schmidt Georg C.|Bellmann Maxi|H\u00f6ft Daniel|Plettemeier Dirk|H\u00fcbler Arved C.|Ellinger Frank|",
+            "Research Area": "chipless | screen printing | RFID | backscattering | RCS | frequency shift encoding",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "EUCAP 2014| 6-11 APRIL 2014| The Hague| The Netherlands| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17034&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Secure and Efficient Medium Access in Wireless Networks",
+            "Authors": "El Hajj Shehadeh Youssef|Chasaki Danai|",
+            "Research Area": "802.11| MAC layer| security| misbehavior| efficiency",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Conference on Consumer Electronics (ICCE-Berlin)| Sept. 2014  Berlin| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17206&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Adapted Development Process for Security in Networked Automotive Systems",
+            "Authors": "Schmidt Karsten|Tr\u00f6ger Peter|Kroll Hans Martin|B\u00fcnger Thomas|Kr\u00fcger Florian|Neuhaus Christian|",
+            "Research Area": "ISO26262 | FMEA | DFD | security | safety | automotive",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "SAE International Journal of Passenger Cars - Electronic and Electrical Systems. - 7. 2014| 2| S. 516 - 526",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18692&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Kommentierung von \u00a7\u00a7 19 bis 21 BDSG",
+            "Authors": "Orantek Kerstin|Polenz Sven|",
+            "Research Area": "Datenschutz | Betroffenenrechte | Auskunft | Benachrichtigung | Berichtigung | L\u00f6schung | Sperrung | Widerspruchsrecht | Anrufung des Bundesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit data protection | privacy | data subjects' rights | right to information",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Gierschmann| Sibylle ; Saeugling| Markus (Hrsg.): Systematischer Praxiskommentar Datenschutzrecht. - 1. - K\u00f6ln : Bundesanzeiger Verlag| 2014| S. 441 - 467",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17046&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Rezension: Daten  und Pers\u00f6nlichkeitsschutz im Arbeitsverh\u00e4ltnis \u2013 Praxishandbuch zum Arbeitnehmerdatenschutz",
+            "Authors": "Gramlich Ludwig|Gork Andreas|",
+            "Research Area": "Grundrechte | Arbeitnehmer | Arbeitgeber | \u00dcberwachung | Personalakte | Pers\u00f6nlichkeitsschutz | Datenschutz Fundamental rights | workers | employers | monitoring | personnel files | privacy protection | data protection",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Datenschutz und Datensicherheit : DuD. - Wiesbaden : Springer Gabler Verlag| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18639&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Rezension: Kutscha| Martin Thom\u00e9| Sarah: Grundrechtsschutz im Internet?. Internet und Recht| Bd. 12. Baden Baden. Nomos Verlag| 2013. ISBN 978 3 8329 7907 2| 153 S.",
+            "Authors": "Gramlich Ludwig|",
+            "Research Area": "Grundrechte | Internet | Pers\u00f6nlichkeitsschutz | Datenschutz Fundamental Rights | Internet | privacy protection | data protection",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Datenschutz und Datensicherheit : DuD. - Wiesbaden : Springer Gabler Verlag| 2014| S. 645",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18637&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Rezension: Sorge| Christoph Gruschka| Nils Lo Iacono| Luigi: Sicherheit in Kommunikationsnetzen| Oldenbourg Verlag M\u00fcnchen| 2013| XI| 261 S.| ISBN 978 3 486 72016 7",
+            "Authors": "Gramlich Ludwig|",
+            "Research Area": "Internet | Pers\u00f6nlichkeitsschutz | Datenschutz Internet | privacy protection | data protection",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Datenschutz und Datensicherheit : DuD. - Wiesbaden : Springer Gabler Verlag| 38. 2014| 12| S. 880",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18640&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Rezension: Wilkat| Anja: Bewertungsportale im Internet. Schriften zum Medien  und Informationsrecht| Bd. 5. Baden Baden. Nomos Verlag| 2013. ISBN 978 3 8487 0389 0| 325 S.",
+            "Authors": "Gramlich Ludwig|",
+            "Research Area": "Grundrechte | Internet | Pers\u00f6nlichkeitsschutz | Datenschutz Fundamental Rights | Internet | privacy protection | data protection",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Datenschutz und Datensicherheit : DuD. - Wiesbaden : Springer Gabler Verlag| 2014| S. 576 - 577",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18638&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Rezension zu Ina Wiesner : Deutsche Verteidigungspolitik| Baden Baden 2013",
+            "Authors": "Liebold Sebastian|",
+            "Research Area": "Deutschland | Verteidigungspolitik | Sicherheitspolitik | politische Institutionen Germany | Defense Policy | Security Policy | political institutions",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| referiert",
+            "Source": "Politische Vierteljahresschrift. - Baden-Baden : Nomos| 55.2014| 1| S. 184 - 187",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18988&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Small Cells in UMTS Radio Access Networks: Implications on Coverage and Energy Efficiency",
+            "Authors": "Baumgartner Andreas|Bauschert Thomas|",
+            "Research Area": "Energy aware Infrastructure | Green Networking | Small Cell Deployment | 3G Mobile Network | UMTS | Heterogeneous RAN",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "22nd ITC Specialist Seminar on Energy Efficient and Green Networking (SSEEGN)| 2013| Christchurch| New Zealand. - IEEE| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16465&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "GNSS Multi Receiver Fusion and Low Cost DGPS for Cooperative ITS and V2X Applications",
+            "Authors": "Streiter Robin|",
+            "Research Area": "GNSS | Data Fusion | Localization",
+            "Publication Type": "Konferenzabstract",
+            "Source": "ITS European Congress| 4-7 June 2013| Dublin| Ireland| 2013. - Proceedings of the 9th ITS European Congress",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15828&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Improving pedestrian detection using MPEG 7 descriptors",
+            "Authors": "Lietz Holger|Ritter Marc|Manthey Robert|Wanielik Gerd|",
+            "Research Area": "Personenerkennung| Boosting| HOGs| MPEG 7 Deskriptoren| Haar Merkmale| LBP| Evaluation Pedestrian Detection| Boosting| HOGs| MPEG 7 descriptors| Haar features| LBP| Evaluation",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Advances in Radio Science. - 11. 2013| 8| S. 101 - 105",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14505&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Tightly Coupled GNSS/INS Integration Performance Evaluierung von Low Cost und High End IMU Systemen f\u00fcr automobile Anwendungen",
+            "Authors": "Streiter Robin|",
+            "Research Area": "GNSS | Data Fusion | Localization | IMU",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "POSNAV ITS 2013. - Berlin : | 2013. - Proceedings DGON POSNAV ITS 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15839&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Tightly Coupled Multi GNSS Receiver Fusion for Robust Position Estimation in Urban Environments",
+            "Authors": "Streiter Robin|",
+            "Research Area": "GNSS | Data Fusion | Localization",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "ION GNSS+ 2013| Nashville. - Manassas| VA 20109 : ION Institute of Navigation| 2013. - Proceedings of the 26th International Technical Meeting of The Satellite Division of the ION| p. 1285 - 1289 (CD-ROM)",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15830&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Auswirkungen erwarteter und unerwarteter Systemgrenzen von Adaptive Cruise Control auf das Situationsbewusstsein im Zeitverlauf",
+            "Authors": "Beggiato Matthias|Krems Josef F.|",
+            "Research Area": "driver assistance systems | situation model",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: VDI: Der Fahrer im 21. Jahrhundert. - D\u00fcsseldorf: VDI-Verlag| 2013| pp.119-132. - VDI-Berichte ; 2205",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15091&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Situation Awareness in relation to the initial information about adaptive cruise control. A matched sample longitudinal driving simulator study",
+            "Authors": "Beggiato Matthias|Krems Josef F.|",
+            "Research Area": "driver assistance systems | situation model",
+            "Publication Type": "Konferenzabstract",
+            "Source": "TeaP 2013 - Abstracts of the 55th Conference of Experimental Psychology (p.28). - Lengerich : Pabst Science Publishers| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15092&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Evaluation of Media Analysis and Information Retrieval Solutions for Audio Visual Content through their Integration in Realistic Workflows of the Broadcast Industry",
+            "Authors": "Rickert Markus|Eibl Maximilian|",
+            "Research Area": "Workflows | Information Retrieval | Video Ingest | Video Analysis | Audio Analysis | Cloud Services | Web Services | Audio | Video | Capture| Encoding | Archiving",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Research in Adaptive and Convergent Systems (RACS| 2013)| 01.-04.10.2013| Montreal| Quebec| Kanada| p. 118-121. - New York : The Association for Computer Machinery| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14957&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Managing knowledge across disciplines and departments for automotive X in the Loop Simulation",
+            "Authors": "Gruber Thomas|Thiel Sebastian|Hardt Wolfram|",
+            "Research Area": "Model in the Loop| Software in the Loop| Hardware in the Loop| Modellbasierte Entwicklung| Wissensmanagement| Semantic Web| Datenmanagement| Automotive Model in the Loop| Software in the Loop| Hardware in the Loop| Model based Development| Knowledge Management| Semantic Web| Data Management| Automotive",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "i-Know '13 - 13th International Conference on Knowledge Management and Knowledge Technologies| 4.-6. September 2013| Graz. - New York : ACM New York| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16379&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Customized Views on Profiles in WebID Based Distributed Social Networks",
+            "Authors": "Wild Stefan|Chudnovskyy Olexiy|Heil Sebastian|Gaedke Martin|",
+            "Research Area": "Social Web | Semantic Web | WebID | Access Control",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "ICWE 2013| Aalborg| Denmark| July 8-12| 2013. - Berlin Heidelberg : Springer| 2013| pp 498-501. - Lecture Notes in Computer Science ; 7977",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15167&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Protecting User Profile Data in WebID based Social Networks Through Fine grained Filtering",
+            "Authors": "Wild Stefan|Chudnovskyy Olexiy|Heil Sebastian|Gaedke Martin|",
+            "Research Area": "Security | Privacy | Trust | Identity | Social Web | Semantic Web",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Current Trends in Web Engineering : ICWE 2013| Aalborg| Denmark| July 8-12| 2013. - Cham : Springer International Publishing| 2013| pp 269-280. - Lecture Notes in Computer Science ; 8295",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15168&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Erweiterte Realit\u00e4t im Werkzeugmaschinenbau \u2013 10 Jahre Virtual Reality am VRCP",
+            "Authors": "Wittstock Volker|Wittstock Eckhart|P\u00fcrzel Franziska|Klimant Philipp|",
+            "Research Area": "Virtual Reality | Schulung | Interaktion | Simulation | Visualisierung virtual reality | training | interaction | simulation | visualisation",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "VAR\u00b2 2013 \u2013 Realit\u00e4t erweitern| 31.01.-01.02.2013| Chemnitz| S. 13-22. - Zwickau : Verlag Wissenschaftliche Scripten| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14165&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Rangkorrelation und Performance Messung",
+            "Authors": "Luderer Bernd|Auer Benjamin R.|",
+            "Research Area": "Rangkorrelation | Performancemessung | Spearmans Rho | Kendalls Tau rank correlation | performance measurement | Spearman Rho | Kendall Tau",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: WISU - Das Wirtschaftsstudium. - 42. 2013| 6| S. 839 - 843",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14352&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Securing Diversity. A Review of Will Kymlickas Multicultural Citizenship",
+            "Authors": "Haist Allana|",
+            "Research Area": "diversity | kymlicka | multi culture | citizenship | security",
+            "Publication Type": "Dissertation",
+            "Source": "2013. - 315 S",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16206&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Tightly Coupled GNSS/INS Integration   Performance Evaluierung von Low Cost und High End IMU Systemen f\u00fcr automobile Anwendungen",
+            "Authors": "Streiter Robin|",
+            "Research Area": "GNSS | Data Fusion | Localization | IMU",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "POSNAV ITS 2013. - Berlin : | 2013. - Proceedings DGON POSNAV ITS 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15839&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Essential lessons still not learned? Examining the password practices of end users and service providers",
+            "Authors": "Furnell Steven|B\u00e4r Nina|",
+            "Research Area": "trust | information security",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Human Aspects of Information Security| Privacy| and Trust. Proceedings on the First International Conference| HAS 2013. - Berlin| Heidelberg : Springer| 2013| pp. 217-225",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15783&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "SED und MfS. Das Verh\u00e4ltnis der SED Bezirksleitung Karl Marx Stadt und der Bezirksverwaltung f\u00fcr Staatssicherheit 1961 bis 1989",
+            "Authors": "Gerick Gunter|",
+            "Research Area": "SED | MfS | SED Bezirksleitung | Bezirksverwaltung der Staatssicherheit | Karl Marx Stadt | regionales Verh\u00e4ltnis Socialist Unity Party of Germany  | Ministry for public security  | SED district authority | MfS district administration | Karl Marx Stadt | regional relation",
+            "Publication Type": "Dissertation",
+            "Source": "Berlin : Metropol| 2013. - 487 S.",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16446&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Vorwort   Gerick| G\u00fcnther: SED und MfS",
+            "Authors": "Jesse Eckhard|Backes Uwe|",
+            "Research Area": "GDR| state security| Cold War| Germany| SED",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Gerick| G\u00fcnther: SED und MfS. Das Verh\u00e4ltnis der SED-Bezirksleitung Karl-Marx-Stadt und der Bezirksverwaltung f\u00fcr Staatssicherheit 1961 bis 1989. - Berlin : Metropol| 2013| S. 9 - 10",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15962&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "An empirical study on image features for pedestrian detection systems",
+            "Authors": "Ritter Marc|Manthey Robert|Lietz Holger|Thomanek Jan|Wanielik Gerd|",
+            "Research Area": "Pedestrian Detection | Feature Combinations | Evaluation | Haar Features | Histogram of Oriented Gradients | MPEG 7 Homogeneous Texture Descriptor | Local Binary Patterns | INRIA | DaimlerChrysler | TUD Brussels",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Forum Bildverarbeitung 2012| 29.-30.11.2012| Regensburg| S.315-326. - Karlsruhe : KIT Scientific Publishing| 2012",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=12942&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Privacy in instant messaging: An impression management model.",
+            "Authors": "Kobsa Alfred|Patil Sameer|Meyer Bertolt|",
+            "Research Area": "instant messaging | privacy| impression management| self presentation| visibility of impression| linear structural model",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Behaviour & Information Technology  . 2012",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13731&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Schlussbericht zum InnoProfile Forschungsvorhaben sachsMedia Cooperative Producing| Storage| Retrieval| and Distribution of Audiovisual Media",
+            "Authors": "Berger Arne|Eibl Maximilian|Heinich Stephan|Knauf Robert|K\u00fcrsten Jens|Kurze Albrecht|Rickert Markus|Ritter Marc|",
+            "Research Area": "Fernsehen | Lokalsender | Produktion | Automatische Inhaltserschlie\u00dfung | Multimedia | Sprachanalyse | Videoanalyse | Medienverteilung Television | Digital Broadcasting | Information Retrieval | Multimedia Retrieval | Graphical User Interfaces | Next Generation Networks | IP based Services",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Chemnitzer Informatik Berichte. - Chemnitz| 2012| S. 1 - 94. - Chemnitzer Informatik Berichte ; CSR-12-04",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=12988&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Sprachmodelladaption von CMU Sphinx f\u00fcr den Einsatz in der Medizin",
+            "Authors": "Lohr Christina|",
+            "Research Area": "Spracherkennung | Sprachmodell | CMU Sphinx Speech Recognition | Laguage Model | CMU Sphinx",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Studentensymposium Informatik Chemnitz 2012| Tagungsband zum 1. Studentensymposium Chemnitz vom 4. Juli 2012|S.38-51. - Chemnitz : | 2012. - Chemnitzer Informatik-Berichte CSR-12-01",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19977&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Schlussbericht zum InnoProfile Forschungsvorhaben sachsMedia   Cooperative Producing| Storage| Retrieval| and Distribution of Audiovisual Media",
+            "Authors": "Berger Arne|Eibl Maximilian|Heinich Stephan|Knauf Robert|K\u00fcrsten Jens|Kurze Albrecht|Rickert Markus|Ritter Marc|",
+            "Research Area": "Fernsehen | Lokalsender | Produktion | Automatische Inhaltserschlie\u00dfung | Multimedia | Sprachanalyse | Videoanalyse | Medienverteilung Television | Digital Broadcasting | Information Retrieval | Multimedia Retrieval | Graphical User Interfaces | Next Generation Networks | IP based Services",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Chemnitzer Informatik Berichte. - Chemnitz| 2012| S. 1 - 94. - Chemnitzer Informatik Berichte ; CSR-12-04",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=12988&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Comparing Visual Data Fusion Techniques using FIR and Visible Light Sensors to Improve Pedestrian Detection",
+            "Authors": "Thomanek Jan|Ritter Marc|Lietz Holger|Wanielik Gerd|",
+            "Research Area": "Fu\u00dfg\u00e4ngererkennung | Daten Fusion | Klassifikation | Bildverarbeitung Pedestrian Detection | Data Fusion | Classification | Image Processing",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "DICTA 2011| 6.-8. Dezember 2011| Noosa| Queensland| Australien|  pp 119-125",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10849&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Large Scale System Evaluation on Component Level",
+            "Authors": "K\u00fcrsten Jens|Eibl Maximilian|",
+            "Research Area": "Information Retrieval | Evaluation | Ergebnisbewertung information retrieval | evaluation | performance measurement",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the 33rd European conference on Advances in information retrieval| April 18-21| 2011| Dublin| Ireland| pp. 679-682. - Berlin Heidelberg : Springer-Verlag| 2011. - Lecture Notes in Computer Science ; Volume 6611",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10705&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Tool for Comparative IR Evaluation on Component Level",
+            "Authors": "Wilhelm Thomas|K\u00fcrsten Jens|Eibl Maximilian|",
+            "Research Area": "Information Retrieval | Evaluation | Ergebnisbewertung| Visualisierung information retrieval | evaluation | performance measurement| visualisation",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "The 34th International ACM SIGIR conference on research and development in Information Retrieval| July 24 - 28| 2011|  Beijing| China| pp. 1291-1292. - New York : ACM| 2011",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10706&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Two step Approach to Video Retrieval based on ASRtranscriptions",
+            "Authors": "Schmidt Ken|K\u00f6rner Thomas|Heinich Stephan|Wilhelm Thomas|",
+            "Research Area": "information retrieval | automatic speech recognition | multimedia retrieval",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Working Notes Proceedings of the MediaEval 2011 Workshop| Santa Croce in Fossabanda| Pisa| Italy| September 1-2| 2011| 2011",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10727&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Does Patent IR Profit from Linguistics or Maximum Query Length?",
+            "Authors": "Becks Daniela|Eibl Maximilian|J\u00fcrgens Julia|K\u00fcrsten Jens|Wilhelm Thomas|Womser Hacker Christa|",
+            "Research Area": "Patent Retrieval | Linguistische Sprachverarbeitung | Ergebnisbewertung patent retrieval | natural language processing | performance measurement",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "CLEF 2011 Labs and Workshop| Notebook Papers| 19-22 September 2011| Amsterdam| The Netherlands| 2011 (PDF: 8 S.)",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10707&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Vergleich von IR Systemkonfigurationen auf Komponentenebene",
+            "Authors": "K\u00fcrsten Jens|Wilhelm Thomas|Eibl Maximilian|",
+            "Research Area": "Information Retrieval | Evaluation| Ergebnisvisualisierung information retrieval | evaluation| result visualisation",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings des 12. Internationalen Symposiums f\u00fcr Informationswissenschaft (ISI 2011)| Hildesheim| 9.-11. M\u00e4rz 2011. - Konstanz : Verlag Werner H\u00fclsbusch| 2011. - Schriften zur Informationswissenschaft ; Band 58| S. 47-59",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10704&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Storage Frameworks for Large Models within Model Driven Data Warehouse Metadata Management Systems: Criteria and Evaluation",
+            "Authors": "Jacobi Frieder|Krawatzeck Robert|Hofmann Marcus|M\u00fcller Andre|",
+            "Research Area": "Data Warehouse Engineering Ecore Large Models Metadata Management System Model Driven Architecture Model Repository",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Computing| Communications and Control Technologies (CCCT'11) In the Context of The International Conference on Information and Communication Technologies and Applications (ICTA'11)| 29.11.11 - 02.12.11| Orlando| 131-136| 2011",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=11077&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "When situation models fail: The cognitive and emotional processing of Mystery in TV series and films",
+            "Authors": "Valtin Georg|Liebold Benny|Pietschmann Daniel|Ohler Peter|",
+            "Research Area": "Medienpsychologie | Filmpsychologie | Situationsmodell | Kognitionspsychologie | Fernsehen | Mystery media psychology | film psychology | situation model | cognitive psychology | television| mystery",
+            "Publication Type": "Konferenzabstract",
+            "Source": "7th Conference of the Media Psychology Division of the German Psychologial Society. 09. - 12. August 2011. - Bremen : Pabst Science Publishers| 2011",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=11523&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Die Energiepolitik der EU und der VR China : Handlungsempflehlungen zur europ\u00e4ischen Versorgungssicherheit",
+            "Authors": "N\u00f6tzold Antje|",
+            "Research Area": "Energiepolitik | EU | China | Versorgungssicherheit energy policy | European Union | China | supply security",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "Wiesbaden : VS Verlag f\u00fcr Sozialwissenschaften| 2011. - 395 S.",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=8315&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Sind wir fit f\u00fcr das 21. Jahrhundert : Die aus den neuen Technologien erwachsenden Anforderungen an die Archive",
+            "Authors": "Luther Stephan|",
+            "Research Area": "Fachgruppe 8 im Verein deutscher Archivarinnen und Archivare | Benutzererwartungen | Archivportal | elektronische Unterlagen Section 8 of the Association of German Archivists | archival user expectations | digital conversion | archive portal | electronic records | privacy policy",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "Chemnitz : Universit\u00e4tsverlag Chemnitz| 2011. - 102 S.",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=9390&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Pixel based data fusion for a better object detection in automotive applications",
+            "Authors": "Thomanek Jan|Lietz Holger|Wanielik Gerd|",
+            "Research Area": "Bildregistrierung | Pixelbasierte Datenfusion | Wavelet Transformation | Fu\u00dfg\u00e4ngererkennung image registration | pixel based data fusion | wavelet transform | pedestrian recognition",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IEEE International Conference on Intelligent Computing and Intelligent Systems| 29.-31.10.2010| Xiamen| pp 385-390. - IEEE Press| 2010. - Volume 2",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=7618&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Putting It All Together: The Xtrieval Framework at Grid@CLEF 2009",
+            "Authors": "K\u00fcrsten Jens|Eibl Maximilian|",
+            "Research Area": "Evaluation | Xtrieval CLEF",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Multilingual Information Access Evaluation I. Text Retrieval Experiments| Lecture Notes in Computer Science| 2010| Volume 6241/2010| . - Berlin-Heidelberg : Springer-Verlag| 2010| S. 570 - 577",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=7557&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Flexible order encryption for system based planning in integrated metallurgical plants",
+            "Authors": "Wichmann M. G.*|Volling T.|Spengler T. S.|Kolb W.|",
+            "Research Area": "Auftragsverschl\u00fcsselung order encryption",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Stahl und Eisen. - stahl + eisen. - 130. 2010| S. 101 - 110",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32880&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Einsatz Pixelbasierter Datenfusion zur Objektklassifikation",
+            "Authors": "Thomanek Jan|Lietz Holger|Fardi Basel|Wanielik Gerd|",
+            "Research Area": "Datenfusion | Objekterkennung | Klassifikation Data Fusion | Object Recognition | Classification",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Workshop Audiovisuelle Medien| 4.-5. Juni 2009| Chemnitz| S. 67 - 78| 2009. - CSR-09-04",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=5973&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Improvement of the Classifier Performance of a Pedestrian Detection System by Pixel Based Data Fusion",
+            "Authors": "Lietz Holger|Thomanek Jan|Fardi Basel|Wanielik Gerd|",
+            "Research Area": "Pixel Fusion | Daten Fusion | Klassifikation | Fu\u00dfg\u00e4ngererkennung Pixel Fusion | Data Fusion | Classification | Pedestrian Recognition",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "XIth Intl. Conference of the Italian Association for Artificial Intelligence| 09.-12.12.2009| Reggio Emilia| S. 122 - 130. - Berlin / Heidelberg : Springer Verlag| 2009. - Lecture Notes in Artificial Intelligence",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=5975&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Dynamische Distribution personalisierten Mobilfernsehens in hybriden Netzen",
+            "Authors": "Kurze Albrecht|Knauf Robert|Berger Arne|",
+            "Research Area": "Digitales Fernsehen | Mobiles Fernsehen | Mobiles Internet | Streaming | Broadcasting | Rundfunk | Personalisierung | Metadaten | DVB | UMTS | LTE | ESG | User Profiling | Media Profiling | Hybrid Netz Digital Television | Mobile Television | Mobile Internet | Streaming | Broadcasting | Personalization | Metadata | DVB | UMTS | LTE | ESG | User Profiling | Media Profiling | Hybrid Networks",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Workshop Audiovisuelle Medien| 4.\u20135. Juni 2009| TU Chemnitz| S. 201-216. - TU Chemnitz : Professur Medieninformatik| 2009. - Chemnitzer Informatik-Berichte: CSR-09-04",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=6198&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "The Importance of being Grid: Chemnitz University of Technology at Grid@CLEF",
+            "Authors": "Eibl Maximilian|K\u00fcrsten Jens|",
+            "Research Area": "information retrieval | audiovisual media | data fusion | merging | Xtrieval | AMOPA",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "2009",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=6398&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "The Xtrieval Framework at CLEF 2008: Domain Specific Track",
+            "Authors": "K\u00fcrsten Jens|Wilhelm Thomas|Eibl Maximilian|",
+            "Research Area": "Evaluation | Experimentation | Data Fusion | Domain Specific Retrieval | Cross Language Retrieval",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "9th Workshop of the Cross-Language Evaluation Forum| CLEF 2008| Aarhus| Denmark| September 17-19| 2008| Revised Selected Papers. - Berlin / Heidelberg : Springer| 2009. - LNCS ; Information Systems and Applications| incl. Internet/Web| and HCI  ; Vol. 5706",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=6400&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Unified Access and Guidance to Local and Distributed Media Content in Home Networks",
+            "Authors": "Rickert Markus|Knauf Robert|",
+            "Research Area": "Consumer electronics | home networks | metadata | media content | UPnP | DLNA | DVB HN | DVB SI | MPEG 7 | TV Anytime | ESG | EPG",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Proceedings 10th Workshop Digital Broadcasting| 16.-17. September 2009| Ilmenau - Stuttgart : Frauenhofer Verlag| 2009. - S. 147 - 154",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=6858&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Workshop Audiovisuelle Medien : WAM 2009",
+            "Authors": "Eibl Maximilian|K\u00fcrsten Jens|Ritter Marc|",
+            "Research Area": "Archivierung | Archivsystem | Bildverarbeitung | Bildverstehen | Cluster Analyse | Digitales Fernsehen | Information Retrieval | Information Retrieval System | MIDI | MPEG 4 | MPEG 7 | Medieninformatik | Mensch Maschine Kommunikation | Mensch Maschine Schnittstelle | Metadaten | Metadatenmodell | Mobile Computing | Mobiles Internet | Multimedia | Multimedia Maschine | Optische Zeichenerkennung | Personalisierung | Softwareergonomie | UMTS | Videoarchiv | Videobearbeitung | Visualisierung | Distribution",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "1. Auflage. - TU Chemnitz| Fak. f\u00fcr Informatik : Professur Medieninformatik| 2009. - 242 S. - Chemnitzer Informatik-Berichte ; CSR-09-04",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=5360&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Generalized Grid Framework for Multi Sensor Data Fusion",
+            "Authors": "Scheunert Ullrich|Mattern Norman|Lindner Philipp|Wanielik|",
+            "Research Area": "occupancy grid | data fusion",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Conference on Information Fusion| 30. Juni - 3. Juli 2008| Seiten 1 - 7. - IEEE| 2008. - Conference Proceeding",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4904&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Generic Music Identification by Hierarchic Modeling of Human Perception",
+            "Authors": "Seifert Frank|Rentzsch Michael|",
+            "Research Area": "Musikerkennung | Information Retrieval music information retrieval",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Axmedis| 17.-19. November 2008| Florenz. - S. 10 - 16",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3680&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Extensible Retrieval and Evaluation Framework: Xtrieval",
+            "Authors": "K\u00fcrsten Jens|Wilhelm Thomas|Eibl Maximilian|",
+            "Research Area": "Evaluation | Xtrieval",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "LWA 2008| 6.-8. Oktober 2008| W\u00fcrzburg. - Technical Report Nr. 448| Department of Computer Science| University of W\u00fcrzburg| Germany",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4144&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "The Xtrieval Framework at CLEF 2007: Domain Specific Track",
+            "Authors": "K\u00fcrsten Jens|Wilhelm Thomas|Eibl Maximilian|",
+            "Research Area": "Evaluation | Cross Language Retrieval | Data Fusion",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Advances in Multilingual and Multimodal Information Retrieval: 8th Workshop of the Cross-Language Evaluation Forum| CLEF 2007| Budapest| Hungary| September 19-21| 2007| Revised Selected Papers : LNCS 5152. - Berlin| Heidelberg : Springer Verlag| 2008| S. 174 - 181",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4131&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "The Xtrieval Framework at CLEF 2008: ImageCLEF photographic retrieval task",
+            "Authors": "Wilhelm Thomas|K\u00fcrsten Jens|Eibl Maximilian|",
+            "Research Area": "Evaluation | Content based Image Retrieval | Query Expansion | Experimentation",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "CLEF 2008 Workshop| 17-19 September| 2008",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4139&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "The Xtrieval Framework at CLEF 2008: ImageCLEF Wikipedia MM task",
+            "Authors": "Wilhelm Thomas|K\u00fcrsten Jens|Eibl Maximilian|",
+            "Research Area": "Evaluation | Cross Language Information Retrieval | Content based Image Retrieval | Query Expansion | Experimentation",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "CLEF 2008 Workshop| 17-19 September| 2008",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4138&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "MPI Reduction Operations for Sparse Floating Point Data",
+            "Authors": "Hofmann Michael|R\u00fcnger Gudula|",
+            "Research Area": "MPI | performance optimization | pipelining | reduction operation | run length encoding",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Recent Advances in Parallel Virtual Machine and Message Passing Interface| 15th European PVM/MPI Users Group Meeting| 7.-10 September| Dublin| Irland| S. 94-101. - Berlin / Heidelberg : Springer| 2008. - Lecture Notes in Computer Science ; Volume 5205/2008",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3549&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Afghanistan seit dem 11. September 2001 : Die Anstrengungen der internationalen Staatengemeinschaft zur Herstellung einer stabilen Sicherheitslage.",
+            "Authors": "Radtke Anja|",
+            "Research Area": "Afghanistan | 9/11 | Terrorismus | Sicherheitspolitik Afghanistan | 9/11 | security policy | international community",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "1. - Saarbr\u00fccken : Vdm Verlag Dr. M\u00fcller| 2008. - 136 S.",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3738&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Robuste Genre Klassifikation",
+            "Authors": "Klausing Tilo|Seifert Frank|",
+            "Research Area": "inhaltsbasierte Musikklassifikation music information retrieval | audio classification",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Chemnitz : TU Chemnitz| 2007| S. 1 - 82",
+            "Year": "2007",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=1690&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Enabling Architecture Changes in Distributed Web Applications",
+            "Authors": "Johannes Meinecke|Martin Gaedke|Christopher Thiele|",
+            "Research Area": "Distributed Web Applications",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the Fifth Latin American Web Congress. - Los Alamitos| California : IEEE Computer Society CPS| 2007| S. 92 - 99",
+            "Year": "2007",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=225&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "The Web as an Application Platform",
+            "Authors": "Martin Gaedke|Johannes Meinecke|",
+            "Research Area": "web | web application",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Rossi| Gustavo ; Pastor| Oscar ; Schwabe| Daniel ; Olsina| Luis (Hrsg.): Web Engineering : Modelling and Implementing Web Applications. - London : Springer London| 2007| S. 33 - 45. - Human-Computer Interaction Series ; 12",
+            "Year": "2007",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=226&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A Model for Document Management in e Government Systems Based on Hierarchical Process Folders.",
+            "Authors": "Kunis Raphael|R\u00fcnger Gudula|Schwind Michael|",
+            "Research Area": "Electronic Government Applications| Document Management Systems| Hierarchical Government Processes| Interoperability| Document processing| E Government Security",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Electronic Journal of e-Government. - 5. 2007| 2| S. 191 - 204",
+            "Year": "2007",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=572&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "A new Model for Document Management in E Government Systems Based on Hierarchical Process Folders.",
+            "Authors": "Kunis Raphael|R\u00fcnger Gudula|Schwind Michael|",
+            "Research Area": "e Government applications| document management systems| hierarchical government processes| interoperability| document processing| e Government security",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Proceedings of the 7th European Conference on e-Government. - Reading| UK : Academic Conferences Limited| 2007| S. 229 - 240",
+            "Year": "2007",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=554&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Deutsche Sicherheit im Spannungsfeld des internationalen Terrorismus und der Weltordnungspolitik.",
+            "Authors": "Neuss Beate Prof. Dr.|Dittmann Armin Prof. Dr.|Gruner Wolf D. Prof. Dr. Dr.|Jahraus Oliver Prof. Dr.|R\u00fcther G\u00fcnther Prof. Dr.|",
+            "Research Area": "Sicherheitspolitik | Deutschland | internationaler Terrorismus | Weltordnungspolitik German Security Policy | International Terrorism | Global Governance",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "1. - M\u00fcnster : LIT-Verlag| 2007. - 416 S. - Gesellschaftspolitische Schriftenreihe der Begabtenf\u00f6rderung der Konrad-Adenauer-Stiftung e.V.. - Band 1",
+            "Year": "2007",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=1740&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Europ\u00e4ische Versorgungssicherheit mit Erd\u00f6l und Erdgas. : Einflussfaktoren und Abh\u00e4ngigkeiten.",
+            "Authors": "N\u00f6tzold Antje M.A.|",
+            "Research Area": "Energieversorgungssicherheit | Europa European Energy Supply Security",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "1. - Saarbr\u00fccken : Vdm Verlag Dr. M\u00fcller| 2007. - 157 S.",
+            "Year": "2007",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=1739&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Zur Interaktion von Reiz Enkodierung und Abruf: Eine Anwendung am Beispiel des Selbst Referenz Effekts",
+            "Authors": "Rudolph Udo|",
+            "Research Area": "Psychologie | Ged\u00e4chtnis | Soziale Kognition | Selbst Referenzeffekt | Enkodierung psychology | memory | social cognition | self reference effect | encoding",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Zeitschrift fuer Experimentelle und Angewandte Psychologie. - 39. 1992| 3| S. 455 - 474",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3038&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Wissenserwerb und Informationssuche mit Hypertexten: Die Bedeutung von Strukturierung| Navigationshilfen und Arbeitsged\u00e4chtnisbelastung",
+            "Authors": "nan",
+            "Research Area": "Situationsmodell | Informationssuche information retrieval | working memory | knowledge acquisition | situation model | text comprehension | coherence",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3123&la=de",
+            "Tags": "intelligent information management|automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Neuartige Anwendungen des BiFeO3  basierten nichtfl\u00fcchtigen Widerstandsschaltern",
+            "Authors": "nan",
+            "Research Area": "BFO basierten Memristoren | Widerstandsschalter | normalisierte Memristance | Schaltdynamik | Oberschwingungsgeneration | Leistungs\u00fcbertragungskoeffizient | BFO basiertes Kryptosystem | Autokorrelationsfunktion | Aktionspotentials Intervall abh\u00e4ngige Plastizit\u00e4t | Lernfenster | Speicherkonsolidierung | Synaptisch Energieverbrauch BFO memristor | resistive switching | normalized memristance | switching dynamics | higher harmonic generation | power conversion efficiency | BFO based encryption system | autocorrelationfunction | spike timing dependent plasticity | learning window | memory consolidation | synaptic power consumption",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22903&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Zur Interaktion von Reiz Enkodierung und  Abruf: Eine Anwendung am Beispiel des Selbst Referenz Effekts",
+            "Authors": "Rudolph Udo|",
+            "Research Area": "Psychologie | Ged\u00e4chtnis | Soziale Kognition | Selbst Referenzeffekt | Enkodierung psychology | memory | social cognition | self reference effect | encoding",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Zeitschrift fuer Experimentelle und Angewandte Psychologie. - 39. 1992| 3| S. 455 - 474",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3038&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Menschliche Faktoren der Fahrzeugkriminalit\u00e4t und  Sicherheit",
+            "Authors": "nan",
+            "Research Area": "Kriminalit\u00e4t | Fahrzeug | Sicherheit | Schutz | Schutzsystem | Fahrer | T\u00e4ter | Furcht | empirische Untersuchung | JVA Crime | Human Factors | Vehicle | Security | Owner | Criminal",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=11462&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Stolperstein Terrorismusbek\u00e4mpfung",
+            "Authors": "nan",
+            "Research Area": "RFSR | Terrorismusbek\u00e4mpfung | EU ASFJ | fight against terrorism | EU | human rights | homeland security",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18583&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        },
+        {
+            "Title": "Sozialwesen in China",
+            "Authors": "nan",
+            "Research Area": "Sozialberufe | soziale Dienstleistungen | soziales Sicherungssystem social Insurance | social Policy | social Securitysystem | social assistance | social problem | social profession | social service | social welfare | social work",
+            "Publication Type": "Dissertation",
+            "Source": "Chemnitzer Beitr\u00e4ge zur Sozialp\u00e4dagogik ; 2",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3135&la=de",
+            "Tags": "automation technology|media encoding|internet of things (iot)|information retrieval"
+        }
+    ]
+}

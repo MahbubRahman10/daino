@@ -1,0 +1,7 @@
+
+        [ckan.plugins]
+        tajul=ckanext.tajul.plugin:TajulPlugin
+
+        [babel.extractors]
+        ckan = ckan.lib.extract:extract_ckan
+    

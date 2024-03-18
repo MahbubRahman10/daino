@@ -1,0 +1,121 @@
+{% extends "page.html" %}
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.19.1/dist/bootstrap-table.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/bootstrap-table@1.19.1/dist/bootstrap-table.min.js"></script>
+
+{% block subtitle %}{{ _('About') }}{% endblock %}
+
+{% block breadcrumb_content %}
+  <li class="active">{% link_for _('Prediction'), 'home.about' %}</li>
+{% endblock %}
+
+{% block primary %}
+<script LANGUskill2="JavaScript"> 
+function getParams() 
+{
+	var idx = document.URL.indexOf('?'); 
+	var params = new Array(); 
+	if (idx != -1)  
+	{	var pairs = document.URL.substring(idx+1, document.URL.length).split('&'); 
+		for (var i=0; i<pairs.length; i++){nameVal = pairs[i].split('='); 
+			params[nameVal[0]] = nameVal[1];}} 
+			return params;
+}
+
+	params = getParams();
+	 
+	main = unescape(params["main"]);
+	main = main.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, ' ');
+	main =main.toLowerCase()
+	 
+	skill1 = unescape(params["skill1"]);
+	skill1 = skill1.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, ' ');
+	skill1 =skill1.toLowerCase() 
+	
+	skill2 = unescape(params["skill2"]);
+	skill2 = skill2.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, ' ');
+	skill2 =skill2.toLowerCase()   
+	
+	skill3 = unescape(params["skill3"]);
+	skill3 = skill3.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, ' '); 
+	skill3 =skill3.toLowerCase()  
+	 
+	document.write("main = " + main + "<br>"); 
+	//document.write("skill1 = " + skill1 + "<br>"); 
+	//document.write("skill2 = " + skill2 + "<br>");
+	//document.write("skill2 = " + skill3 + "<br>");
+	
+	const bio_medical_engineering = ['publications','medical exercise therapy','medical training therapy','heart rate', 'rppg', 'e health','e rehabilitation', 'health care','human skeleton','physical training', 'point of common coupling', 'behaviour analysis', 'stereo vision', 'automatic fall detection', 'people detection', 'elderly care', 'motion quality assessment','machine learning','skeleton normalisation', 'motion analysis','realtime feedback', 'hip osteoarthritis','hip arthroplasty','cable pulley machine','care situation','degrees of freedom of movement', 'motion sequence matching','incremental dynamic time warping','medical tracking','micromotors','photoacoustics', 'ultrasound','vivo imaging', 'microrobots', 'micromotors', 'targeted therapy', 'target monitoring', 'swarm tracking','tissues', 'phantoms','optoacoustic imaging','optimal motor','nanoparticles','micro','cells', 'implantable biomedical', 'enzyme', 'biocatalysts', 'glucose', 'dehydrogenase', 'nanomembranes','magnetic field sensors','nanoscale','nanomaterials','graphene oxide', 'biomedical application','physiological processes','patient or medical doctor', 'microfluidics','sensors', 'bacteria detection', 'impedance spectroscopy','gait analysis', 'polydimethylsiloxane','disease prevention', 'feature extraction','energy management','boost converter','medical instrumentation','howland configuration','biomedical devices', 'bioimpedance', 'spectroscopy','ultrasonic sensors', 'stair recognition','medical application','transurethral resection', 'stimulator', 'embedded systems','gradiometer', 'sensoren', 'medizinische','messtechnik', 'bipolar electrosurgery', 'spatial resolution', 'visualisation', 'electrosurgery','tur','medizinische technik', 'potential distribution', 'bioelectric potentials', 'data acquisition', 'surgery','telemetry','biomedical networking and communication','wsn','eeg','ecg','ergospirometry', 'epilepsy','medizinische messtechnik', 'medical systems','electro chemistry', 'corrosion', 'energy harvesting','medical engineering','moems', 'manometry', 'fiber bragg grating', 'medical devices', 'gastrointestinal','mems', 'medical rehabilitation','health management', 'neurological practitioner', 'behavior change', 'tobacco smoking', 'medical patients', 'entscheidungsverhalten', 'medizinische laien decision making behavior', 'medical laypersons', 'medical', 'pflege', 'palliativ medicin', 'oct', 'medical language processing', 'medical corpus collection', 'measuring technology', 'biomedical instrument', 'medizingeräte', 'biomechanics', 'haptic interfaces', 'medical computing', 'micro processing','medizinischer','mwcnt', 'pdms', ' general practioners', 'medical studendt', 'oecd panel', 'medical staff'] //complete
+	
+	var a = count_occurances(bio_medical_engineering)
+	document.write("main = " + a + "<br>");
+	 
+	var web_engineering = ['web migration','independent software vendors', 'reverse engineering', 'crowdsourcing', 'sme', 'process model', 'web composition', 'web components', 'world wide web', 'web systems', 'software migration', 'Agile Development', 'search engines', 'human computer interaction', 'html5', 'web application development', 'web design', 'web development', 'cscw', 'groupware', 'end user development', 'rest','distributed systems', 'information model','user interaction', 'ambient calculus', 'wam','dgs', 'service oriented', 'loose coupling', 'web architecture', 'webe'] //complete
+	
+	var b = count_occurances(web_engineering)
+	document.write("main = " + b + "<br>");
+	
+	var cloud_computing = ['event driven', 'micro service', 'Hybrid communication', 'wireless sensor network', 'iot', 'internet of things','mixed traffic','fault injection','it sicherheit','bewertungsverfahren','technologieevalierung','distributed computing','c v2x',' its g5','scalability','slo','gqm','resource management','transformation strategy','geodateninfrastruktur','gdi','disruptive innovation','otrs','audio encoding', 'video encoding', 'media encoding','3D Realtime Animation', '3D Image Processing','OFDM ','orthogonal frequency division multiplexing'] //complete
+	
+	var c = count_occurances(cloud_computing)
+	document.write("main = " + c + "<br>");
+	
+	var information_retrieval = ['informationssuche', 'knowledge acquisition', 'situation model','text comprehension','metadata management', 'object detection and classification', 'speech recognition', 'language modeling', 'clinical texts', 'audio classification','multimedia information','distributed infrastructure','image recognition', 'tracking methods', 'fusion methods', 'web application', 'game mechanics', 'video analysis','audio analysis','cloud services', 'encoding', 'graphical user interfaces','videoanalyse','performance measurement', 'visualisation','automatic speech recognition','data fusion', 'amopa','xtrieval','mpeg','umts', 'crosslanguage','query expansion', 'musikerkennung','semantic web', 'ontology engineering','knowledge graph','search engine'] //complete
+	
+	var d = count_occurances(cloud_computing)
+	document.write("main = " + d + "<br>");
+	
+	var deep_learning = ['supervised learning','performance evaluation','ddos','software defined networking','adversarial training','adversarial network attacks','cnn','semi supervised learning', 'unsupervised learning','convolutional neural network','virtual reality','artificial intelligence', 'support vector machine', 'svm', 'image segmentation', 'object detection', 'classification', 'botnet traffic detection', 'zero day attack','reinforcement learning','qlearning', 'free space detection', 'fisheye camera', 'gait analysis', 'verhaltensanalyse', 'neuronale', 'omnidirectional Camera', 'active assisted living', 'anomaanomaly detection','ctu','deep transfer learning', 'ANN', 'feature extraction','pose estimation','mask rcnn', 'data augmentation', 'audio signal processing', 'audio captioning', 'semiconductor defects', 'person tracking', 'pattern and image recognition', ' icei','plant classification', 'bird identification', 'acoustic source localization','bird sound recognition', 'visual distortion', 'obstacle recognition','automated annotation','sensor data', 'topologieoptimierung', 'sentiment analysis','clef','icei','vhs','computer vision'] //complte
+	
+	var e = count_occurances(cloud_computing)
+	document.write("main = " + e + "<br>");
+	
+	var big_data = ['internet of things', 'iot', 'wireless sensor network', 'processor design','microcontrollers', 'pattern recognition', 'database management system','artificial intelligence','datenbank', 'machine learning', 'database','instance search', 'generic object detection','intelligent video analysis','cnn','multimedia analysis','duplicate detection', 'data reduction', 'rapid evaluation','sift', 'knn', 'keyframe extraction', 'adaBoost', 'fin whale detection', 'blue whale detection','large data','intelligente systeme collaboration','queriable networks','algorithmen','web', 'kontexterkennung', 'social media','cisg','data faults', 'quality of data','data and warranty', 'business analytics and big data','mass customization', 'business intelligence','typology','business analytics', 'data literacy','datadriven', 'design science research','knowledge boundaries','boundary objects','electronic markets', 'data science', 'semantic text mining', 'text mining','semantic text', 'leximancer', 'content analysis', 'pedagogy', 'analysis', 'datathons', 'open data','data scientist','information systems', 'interdisciplinarity','data mining', 'sap', 'agile', 'datenvolumen', 'hadoop','visual communication','multimodality', 'convergence', 'handygate','frame analysis','discourse'] //complete
+	
+	var f = count_occurances(cloud_computing)
+	document.write("main = " + f + "<br>");
+	
+	var robotics = ['artificial intelligence', 'optical sensors', 'micromotors', 'microrobots', 'soft robotics', 'autonomous systems', 'soft shareable materials', 'microtechnology', 'haptics', 'jet engines', 'nanorobotics', 'autonomous', 'magnetic fields', 'control systems', 'magnetic moments', 'robotics', 'hyperdimensional', 'neural network', 'place recognition', 'simulation', 'visual odometry', 'mapping', 'spacebot', 'localization', 'pose graph', 'collision avoidance', 'reactive motions', 'material recognition','machine learning', 'proximity sensors', 'augmented reality', 'montageplanung', 'assembly', 'Assistive devices', 'human robot interaction', 'analysis of variance', 'impedance control', 'workload', 'bionics', 'anthropomorphism', 'stereotypes', 'prostheses','social perception','robotik', 'distributed system', 'mechanistic models', 'motor control', 'computational neuroscience', 'neurobotics', 'hand pose tracking', 'antagonistic actuators', 'virtuality'] //complete
+	
+	var g = count_occurances(cloud_computing)
+	document.write("main = " + g + "<br>");
+	
+	var data_science = ['data engineering', 'data wave housing', 'data mining', 'data visualization and presentation','statistical analysis', 'operations related data analysis', 'market related data analysis','cloud and distributed computing', 'database management and architecture', 'machine learning', 'ml', 'congnitive computing development','generic object detection'] //complete
+	
+	var h = count_occurances(cloud_computing)
+	document.write("main = " + h + "<br>");
+	
+	var automation_technology = ['sensor', 'tracking', 'robotics', 'machine learning', 'iot', 'internet of things', 'smart home', 'optical sensors', 'microcontrollers', 'smart cities']
+	
+	var i = count_occurances(cloud_computing)
+	document.write("main = " + i + "<br>");
+	
+	var three_d_models = ['point cloud', 'cloud point', 'pount cloud', 'Laserscanner', 'robotics']
+	
+	var j = count_occurances(cloud_computing)
+	document.write("main = " + j + "<br>");
+	
+	//counting function
+	function count_occurances(subjects){
+	let count = 0;
+	for(let i = 0; i< subjects.length; i++){
+	
+		if((String(main).match(String(subjects[i]))) == String(main)){
+			count = count + 1
+		}		
+	}
+	return count
+	}
+	
+
+</script> 
+{% endblock %}
+
+{% block secondary %}{% endblock %}

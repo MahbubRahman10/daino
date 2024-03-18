@@ -1,0 +1,46 @@
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+
+<div class="box">
+  <header class="module-heading">
+    <h3>Total publications</h3>
+  </header>
+  <section class="module-content">
+    <div id="myPlot" style="width:100%;"></div>
+    <p id="demo"></p>
+
+  <section>
+</div>
+
+<script>
+  var yearsData = []; 
+  var dataOfBar = [
+  {
+    x: [],
+    y: [],
+    type: 'bar'
+  }
+];
+  const xhttp = new XMLHttpRequest();
+  xhttp.onload = function() {
+    const responseData = JSON.parse(this.responseText).result.records;
+    for(year = 2005; year <= 2022; year ++){
+      yearsData[year] = responseData.filter((entry) => { 
+        return entry["Year"] === year;
+      }).length;
+    }
+    for (const [key, value] of Object.entries(yearsData)) {
+      dataOfBar[0].x.push(key);
+      dataOfBar[0].y.push(value);
+    }
+    Plotly.newPlot("myPlot", dataOfBar);
+
+  }   
+  xhttp.open("POST", "http://localhost:5000/api/3/action/datastore_search");
+  xhttp.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded');
+
+  xhttp.send(JSON.stringify({"resource_id":"75df7ace-e182-489a-a771-424a5c02d823","q":"","filters":{},"limit":35000,"offset":0,"total_estimation_threshold":1000}));
+
+ // Display using Plotly
+ Plotly.newPlot("myPlot", dataOfBar);
+</script>

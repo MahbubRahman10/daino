@@ -1,0 +1,2554 @@
+{
+    "resource": {
+        "package_id": "79eca658-ddc5-4d2e-b22c-44c8d0bdd5c9"
+    },
+    "fields": [
+        {
+            "id": "Title"
+        },
+        {
+            "id": "Authors"
+        },
+        {
+            "id": "Research Area"
+        },
+        {
+            "id": "Publication Type"
+        },
+        {
+            "id": "Source"
+        },
+        {
+            "id": "Year"
+        },
+        {
+            "id": "Link"
+        },
+        {
+            "id": "Tags"
+        }
+    ],
+
+    "records": [
+        {
+            "Title": "Critical implementation issues of excitation signals for embedded wearable bioimpedance spectroscopy systems with limited resources",
+            "Authors": "Kallel Ahmed Yahia|Bouchaala Dhouha|Kanoun Olfa|",
+            "Research Area": "Bioimpedance Spectroscopy | Excitation Signal | Spectral Energy Efficiency | Crest Factor | Embedded Systems | Real Implementation | Timer",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Measurement Science and Technology. - IOP Publishing. 2021",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32955&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Design optimization of spiral coils for textile applications by genetic algorithm",
+            "Authors": "Fadhel Yosra Ben|Bouattour Ghada|Bouchaala Dhouha|Derbel Nabil|Kanoun Olfa|",
+            "Research Area": "Spiral coils | genetic algorithms | quality factor | power transfer efficiency | wireless power transfer",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "18th International Multi-Conference on Systems| Signals & Devices (SSD)| 22-25 March 2021| 9429441| 1-6. - New York : IEEE| 2021",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33202&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "The H2020 ECSEL Project iRel40",
+            "Authors": "Pressel Klaus|Moser Josef|Rzepka Sven|Brinkfeldt Klas|Zhao Susan|van Driel Willem|Giammatteo Paolo|Bulut Baris|Soyturk Mujdat|Pomante Luigi|",
+            "Research Area": "Technological innovation | Shape | Conferences | Europe | Electronic components | Hardware | Software",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "2021 24th Euromicro Conference on Digital System Design (DSD)| 2021 Sep 1-3| Palermo (Italy). - IEEE| 2021",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33916&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "The printed piezoelectric loudspeaker model: A modal perspective from system identification",
+            "Authors": "Quintana Ricardo|Qui Xunlin|Benjamin Aravindan|Panicker Pramul|Schmidt Georg|H\u00fcbler Arved C.|",
+            "Research Area": "water bed effect | piezoelectric loudspeakers | printed loudspeakers | system identification | modal decomposition",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Applied Acoustics. - Elsevier B.V. - 174. 2021| 107722",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32200&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Electron Mobility of Diketopyrrolopyrrole Copolymers Is Robust against Homocoupling Defects",
+            "Authors": "Wang Qian|Lenjani Shayan Vazirieh|Dolynchuk Oleksandr|Scaccabarozzi Alberto D.|Komber Hartmut|Guo Yuejie|G\u00fcnther Florian|Gemming Sibylle|Magerle Robert|Caironi Mario|Sommer Michael|",
+            "Research Area": "Thin films | Copolymers | Mobility | Defects | Polymers",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Chemistry of Materials. - American Chemical Society (ACS). - 2021",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32283&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Management von Wertsch\u00f6pfungsnetzwerken multimodaler Mobilit\u00e4t",
+            "Authors": "Rehme Marco|Wehner Udo|Rother Steve|G\u00f6tze Uwe|",
+            "Research Area": "Business Ecosystems | Unternehmensnetzwerke | Kooperationsmanagement | Mobilit\u00e4tsketten | Multimodale Mobilit\u00e4t business ecosystems | corporate networks | cooperation management | mobility chains | multimodal mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Making Connected Mobility Work. Technische und betriebswirtschaftliche Aspekte. - Wiesbaden : Springer Gabler| 2021| S. 39 - 59",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33883&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Smarte Mobilit\u00e4tsketten als Zukunftsbild f\u00fcr den l\u00e4ndlichen Raum",
+            "Authors": "Rehme Marco|Wehner Udo|D\u00f6ring Julia|Rother Steve|",
+            "Research Area": "Mobilit\u00e4tssicherung | Innovationsbarrieren | Multimodale Mobilit\u00e4t | Fahrplandynamisierung | Letzte Meile Securing mobility | innovation barriers | multimodal mobility | timetable dynamization | last mile",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Wissenschaftliche Berichte Nr. 002/2021| \u00d6kologische Transformation in Technik| Wirtschaft und Gesellschaft? Tagungsband zur 16. Interdisziplin\u00e4ren Wissenschaftlichen Konferenz Mittweida| S. 170-174. - Hochschule Mittweida| 2021. - Scientific reports : journal of the University of Applied Sciences Mittweida ; Heft-Nummer: 002/2021",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33884&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Lager oder Stra\u00dfe: Fluchtort Athen",
+            "Authors": "Hader Cindy|",
+            "Research Area": "Athen | Migration | Immobilit\u00e4t | Obdachlosigkeit | Solidarit\u00e4t Athens | Migration | Immobility | Homelessness | Solidarity",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Ossietzky. - Ossietzky Verlag GmbH. - 24. 2021| 02| S. 45 - 47",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32630&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "The H2020 ECSEL Project iRel40",
+            "Authors": "Pressel Klaus|Moser Josef|Rzepka Sven|Brinkfeldt Klas|Zhao Susan|van Driel Willem|Giammatteo Paolo|Bulut Baris|Soyturk Mujdat|Pomante Luigi|",
+            "Research Area": "Technological innovation | Shape | Conferences | Europe | Electronic components | Hardware | Software",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "2021 24th Euromicro Conference on Digital System Design (DSD)| 2021 Sep 1-3| Palermo (Italy). - IEEE| 2021",
+            "Year": "2021",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=33916&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "A Myopathy\u2019s Diagnosis System Based on Surface EMG Signal Acquisition| Analysis and Classification",
+            "Authors": "Barioul Rim|Fakhfakh Ghribi Sameh|Derbel Houda|Kanoun Olfa|",
+            "Research Area": "Myopathy | PCA | Surface Myography | EMG | Signal Processing",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Sensors| Circuits and Instrumentation Systems. - Berlin : De Gruyter| 2020| S. 23 - 40. - Advances in Signals| Systems and Devices ; Vol. 10",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31120&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Positive influence of practical electric vehicle driving experience and range related knowledge on drivers' experienced range stress",
+            "Authors": "Rauh Nadine|G\u00fcnther Madlen|Krems Josef F.|",
+            "Research Area": "Battery electric vehicle | Range experience | Range anxiety | Field experiment",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "Transportation Research Part F: Traffic Psychology and Behaviour. - Elsevier BV. - 71. 2020| S. 182 - 197",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32695&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Understanding user attitudes and economic aspects in a corporate multimodal mobility system: results from a field study in Germany",
+            "Authors": "G\u00fcnther Madlen|Jacobsen Benjamin|Rehme Marco|G\u00f6tze Uwe|Krems Josef F.|",
+            "Research Area": "Corporate Mobility as a Service | Field study | Usage behaviour | Experience | In company mobility solution | Battery electric vehicles | Pedelecs | Public transport | Business models | Life cycle costing | Opportunity costs",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: European Transport Research Review. - Springer Nature. - 12. 2020| 1| S. 64",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31711&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Proceedings of the 1st Interdisciplinary PhD Workshop of Media Computer Science 2019",
+            "Authors": "Kowerko Danny|Ritter Marc|K\u00f6hler Thomas|Helle Kristina|",
+            "Research Area": "Communication Science | Deep Learning | Media Computer Science",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "Deutschland : TUDpress| 2020. - IBS Scientific Workshop Proceedings ; Band 8",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32298&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Monitoring the Structural Health of Glass Fibre Reinforced Hybrid Laminates Using Novel Piezoceramic Film",
+            "Authors": "Schmidt Ren\u00e9|Graf Alexander|Decker Ricardo|Heinrich Michael|Kr\u00e4usel Verena|Kroll Lothar|Hardt Wolfram|",
+            "Research Area": "hybrid assembled composite | piezoceramic compound | fibre metal laminates | fatigue | signal processing",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Sensors Applied to Nondestructive Testing and Structural Health Monitoring. - MDPI AG. - 20. 2020| 18| 5428",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31881&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Porous carbon carbon composite electrodes for vanadium redox flow batteries synthesized by twin polymerization",
+            "Authors": "Schnucklake Maike|Ka\u00dfner Lysann|Mehring Michael|Roth Christina|",
+            "Research Area": "Composite material | porous electrode | redox flow battery | twin polymerization | vanadium",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: RSC Advances. - RSC. - 10. 2020| 68| S. 41926 - 41935",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31575&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Innovationsbarrieren in der Elektromobilit\u00e4t \u2013 Herausforderungen und L\u00f6sungsans\u00e4tze f\u00fcr Innovationsmanagement und Gesch\u00e4ftsmodellentwicklung",
+            "Authors": "Rehme Marco|Lindner Romy|G\u00f6tze Uwe|",
+            "Research Area": "Innovationsbarrieren | Gesch\u00e4ftsmodellentwicklung | Elektromobilit\u00e4t barriers to innovation | business model development | electromobility",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Tagungsband zur Innteract Conference - Mensch 2020 am 7. und 8. Mai 2015| Professur f\u00fcr Arbeitswissenschaft und Innovationsmanagement| Chemnitz 2015| S. 387-390. - Chemnitz :l Wissenschaft und Praxis| 2015",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20232&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Informatik f\u00fcr alle?! \u2013 Informatische Bildung als Baustein in der Lehrkr\u00e4ftebildung",
+            "Authors": "Barkmin Mike|Berger Nadine|Br\u00f6ll Leena|Huwer Johannes|Menne Andreas|Seegerer Stefan|",
+            "Research Area": "Computer Science | Teacher Training",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Bei\u00dfwenger| Michael ; Bulizek| Bernd ; Gryl| Inga ; Schacht| Florian (Eds.): Digitale Innovationen und Kompetenzen in der Lehramtsausbildung. - Duisburg : Universit\u00e4tsverlag Rhein-Ruhr| 2020| S. 99 - 120",
+            "Year": "2020",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=32461&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Investigating user attitudes and economic evaluation of different means of transport and underlying mobility service tools in a corporate multimodal mobility system",
+            "Authors": "G\u00fcnther Madlen|Jacobsen Benjamin|Rehme Marco|G\u00f6tze Uwe|Krems Josef F.|",
+            "Research Area": "Mobility as a Service | business models | field study | life cycle costing | opportunity costs",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "ICOMAAS - 2nd International Conference on Mobility as a Service| 3. - 4.12.2019| Tampere| S. 149 - 161",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29904&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Interventionen zur F\u00f6rderung von aktiver Mobilit\u00e4t unter einer Geschlechterperspektive Ergebnisse einer systematischen \u00dcbersichtsarbeit",
+            "Authors": "Emmerling Sandra|Schulze Carolin|Schlund Annegret|Demetriou Yolanda|Vondung Catherina|Bucksch Jens|Reimers Anne Kerstin|",
+            "Research Area": "mobility | GenEffects | sex | gender",
+            "Publication Type": "Konferenzabstract",
+            "Source": "Sport im \u00f6ffentlichen Raum : 24. Sportwissenschaftlicher Hochschultag der Deutschen Vereinigung f\u00fcr Sportwissenschaft (dvs) vom 18. bis 20. September 2019 in Berlin| S. 191. - Schriften der Deutschen Vereinigung f\u00fcr Sportwissenschaft ; Band 282",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29737&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Haptic input devices with intelligent signal processing ensuring process stability and quality management",
+            "Authors": "Graf Alexander|Decker Ricardo|Schmidt Ren\u00e9|Kr\u00e4usel Verena|Kroll Lothar|Hardt Wolfram|",
+            "Research Area": "Forming | Hybrid Assembled Composite | Impact Localisation | Piezoceramic Compound | Polarisation Strategy | Process Stability | Signal Processing.",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "4th International MERGE Technologies Conference (IMTC)| 18.-19.09.2019| Chemnitz| S. 9-16. - Technologies for Lightweight Structures (TLS). - 3.2019|1",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30703&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Comparison of acceleration methods of matrix calculations in embedded systems",
+            "Authors": "G\u00f6tze Johannes|Schmidt Ren\u00e9|Hardt Wolfram|",
+            "Research Area": "hardware acceleration | matrix calculations | Cuda | OpenCL | embedded systems",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Embedded Selforganising Systems. - Technische Universit\u00e4t Chemnitz. - 6.2019| 1| S. 9 - 17",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30281&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Hardwarebeschleunigung von Matrixberechnungen auf Basis von GPU Verarbeitung",
+            "Authors": "G\u00f6tze Johannes|Schmidt Ren\u00e9|Hardt Wolfram|",
+            "Research Area": "Hardwarebeschleunigung | Matrixmultiplikation | Cuda | OpenCL",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| referiert",
+            "Source": "Chemnitzer Informatik-Berichte. - Chemnitz : TU Chemnitz| 2019. - Chemnitzer Informatik-Berichte. - CSR-19-04",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30238&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Remote Reconfiguration for hardware accelerated integrated Circuits",
+            "Authors": "Nagler Michael|Hardt Wolfram|Kotre Girish Gururaj|",
+            "Research Area": "FPGA | Hardwarebeschleunigung | Rekonfigurierung | ICAP | Xilinx | Spartan 6 FPGA | hardware acceleration | reconfiguration | ICAP | Xilinx | Spartan 6",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "14th International Forum on Strategic Technology (IFOST)| 14. - 17.10.2019| Tomsk| Russland| S. 289 - 293. - IEEE Computer Society| 2019",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30123&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Fahrwerkentwicklung und produktionstechnische Integration ab der fr\u00fchen Produktentstehungsphase",
+            "Authors": "Leistner Bastian|",
+            "Research Area": "Fahrwerk | Produktentwicklungsprozess | Fahrwerkentwicklung | Achsbauraum | Produktionstechnik chassis | development process | axle space | production tools",
+            "Publication Type": "Dissertation",
+            "Source": "1. - Springer Vieweg| 2019. - 220 S. - Wissenschaftliche Reihe Fahrzeugsystemdesign",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=28997&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "XXXVIII. Internationales \u03bc Symposium 2019 Bremsen Fachtagung",
+            "Authors": "Mayer Ralph|",
+            "Research Area": "Hitzerisse | Bremsfl\u00fcssigkeit | NVH | rekuperatives Bremssystem | Bremsemissionen | Lufttaxi heat cracks | brake fluid | NVH | recuperative brake system | brake emissions | urban air mobility",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "Berlin : Springer Vieweg| 2019. - 107 S.",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29319&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Entwicklung eines Widerstandspunktschwei\u00dfverfahrens zum prozesssicheren F\u00fcgen von \u00dcberlapp verbindungen mit einseitiger Zug\u00e4nglichkeit",
+            "Authors": "Thieme Pascal|Kaars Jonny|Georgi Wolf|Mayr Peter|",
+            "Research Area": "Resistance spot welding | battery pack | lithium accumulator",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "38. Assistentenseminar F\u00fcge- und Schwei\u00dftechnik : Vortr\u00e4ge der gleichnamigen Veranstaltung in Rabenau vom 6. bis 8. Oktober 2017. - DVS-Berichte Bd. 342. - DVS Media D\u00fcsseldorf. 2019| S. 136 - 143",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29822&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Framing Mobility. Refugees and the Social Imagination",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "Mobilit\u00e4t | Flucht | Repr\u00e4sentation | soziale Imagination Mobility | refugees | representation| social imagination",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Kohlbacher| Josef ; Six-Hohenbalken| Maria: In: Die lange Dauer der Flucht - Analysen aus Wissenschaft und Praxis. - Wien : Verlag der \u00d6sterreichischen Akademie der Wissenschaften. 2019| S. 25 - 41. - ISR-Forschungsberichte ; 49",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29017&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Mobilit\u00e4t| Grenzen und das Paradox der Demokratie",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "Mobilit\u00e4t | Grenzen | Demokratie Mobility | Borders | Democracy",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Johler| Reinhard ; Lange| Jan (Hrsg.): Konfliktfeld Fluchtmigration. Historische und ethnographische Perspektiven. - Bielefeld : transcript| 2019| S. 83 - 104. - Kultur und soziale Praxis",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29250&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Interventionen zur F\u00f6rderung von aktiver Mobilit\u00e4t unter einer Geschlechterperspektive   Ergebnisse einer systematischen \u00dcbersichtsarbeit",
+            "Authors": "Emmerling Sandra|Schulze Carolin|Schlund Annegret|Demetriou Yolanda|Vondung Catherina|Bucksch Jens|Reimers Anne Kerstin|",
+            "Research Area": "mobility | GenEffects | sex | gender",
+            "Publication Type": "Konferenzabstract",
+            "Source": "Sport im \u00f6ffentlichen Raum : 24. Sportwissenschaftlicher Hochschultag der Deutschen Vereinigung f\u00fcr Sportwissenschaft (dvs) vom 18. bis 20. September 2019 in Berlin| S. 191. - Schriften der Deutschen Vereinigung f\u00fcr Sportwissenschaft ; Band 282",
+            "Year": "2019",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=29737&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Rationally engineered amorphous TiOx/Si/TiOx nanomembrane as an anode material for high energy lithium ion battery",
+            "Authors": "Huang Shaozhuan|Zhang Lin|Liu Lifeng|Liu Lixiang|Li Junjie|Hu Han|Wang Jiawei|Ding Fei|Schmidt Oliver G.|",
+            "Research Area": "3D nanomembrane | conductive TiOx coating | electrochemical prelithiation | high energy density | lithium ion full battery",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Energy Storage Materials. - Elsevier B.V. - 12. 2018| S. 23 - 29",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=26094&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Integrated Microsystems for Smart Applications",
+            "Authors": "Otto Thomas|Kurth Steffen|Voigt Sven|Morschhauser Andreas|Meinig Marco|Hiller Karla|Martin J\u00f6rg|Vogel Martina|",
+            "Research Area": "smart integrated systems | smart health | smart power | smart mobility",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Sensors and Materials. - Tokyo (Japan) : MYU K.K. - 30. 2018| 4(1)| S. 767 - 778",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=27957&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Social and physical environmental correlates of independent mobility in children: a systematic review taking sex/gender",
+            "Authors": "Marzi Isabel|Demetriou Yolanda|Reimers Anne Kerstin|",
+            "Research Area": "k\u00f6rperliche Aktivit\u00e4t | Kinder independent mobility | social environment | physical environment | children | sex/gender differences",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: International Journal of Health Geographics. - Gro\u00dfbritannien : Springer Nature. 2018",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=26560&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "A highly scalable FPGA implementation for cross correlation with up sampling support",
+            "Authors": "Schmidt Ren\u00e9|Blokzyl Stephan|Hardt Wolfram|",
+            "Research Area": "mathematics algorithms | digital signal processing | splines | field programmable gate arrays",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Impedance Spectroscopy: Advanced Applications: Battery Research| Bioimpedance| System Design. - Berlin| Boston : De Gruyter. 2018| S. 81 - 92",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30246&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Hardware Acceleration for Beamforming Algorithms based on Optimized Hardware /Software Partitioning",
+            "Authors": "Schmidt Ren\u00e9|Blokzyl Stephan|Hardt Wolfram|",
+            "Research Area": "Beamforming | System on Chip | Hardware /Software Partitioning | Parallelization",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "European Test and Telemetry Conference (2018 : N\u00fcrnberg): ettc2018",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=26712&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Investigating the influence of CPU load| memory usage and environmental conditions on the jittering of Android devices",
+            "Authors": "Benndorf Maik|Kaden Maria|Ringsleben Frederic|Roschke Christian|Thomanek Rico|Haenselmann Thomas|Gaedke Martin|",
+            "Research Area": "Android | jittering | signal processing",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "VII International Conference on Network| Communication and Computing (ICNCC 2018) in Howard Civil Service International House on December 14-15",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=27320&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Gemeinsam unter Strom : CODIFeY : Abschlussbericht des Projektes Community basierte Dienstleistungsinnovation f\u00fcr e Mobility",
+            "Authors": "Kollwitz Christoph|Daiberl Christofer|Dinter Barbara|Roth Angela|M\u00f6slein Kathrin M.|",
+            "Research Area": "E Mobility | Dienstleistungen | Innovation | Dienstleistungsinnovation | CODIFeY electromobility | services | innovation | service innovation | CODIFeY",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "Chemnitz : TU Chemnitz| Professur Wirtschaftsinformatik - Gesch\u00e4ftsprozess- und Informationsmanagement| 2018. - 68 S.",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=27925&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Enemy| Victim| Hero. Figures of Mobile People and the Political Imagination",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "Political Imagination | Migration | Mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Medick-Bachmann| Doris ; Kugele| Jens: Migration. Changing Concepts| Critical Approaches. - 1. - Oldenburg : De Gruyter| 2018| S. 45 - 62",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=26550&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Mobilit\u00e4t und Grenzen der Gastfreundschaft. \u00dcberlegungen zur derzeitigen Situation",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "Mobilit\u00e4t | Gastfreundschaft| Grenzen Mobility | Hospitality | borders",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: D\u00e4niken| Hans-Peter von ; Kamm| Martina (Hrsg.): In: Gastfreundschaft und Gastrecht. Eine universelle kulturelle Tradition in der aktuellen Migrationsdebatte. - Z\u00fcrich : Theologischer Verlag| 2018| S. 61 - 75",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=26487&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Representations of Gendered Mobility and the Tragic Border Regime in the Mediterranean",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "Mobility | gender | border regime | representation",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Talani| Leila Simona ; Giusti| Serena (Hrsg.): Women in the Mediterranean. - Milton Park and New York : Routledge| 2018| S. 81 - 96",
+            "Year": "2018",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=26243&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Nachhaltig auf Dienstwegen pendeln Das Projekt ECoMobility",
+            "Authors": "Teuscher Jens|G\u00fcnther Madlen|",
+            "Research Area": "E Mobility",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "In: Bausteine der Nachhaltigkeit - Carlowitz weiterdenken. - M\u00fcnchen : oekom| 2016| S. 78 - 81. - Jahresschriften der Hans-Carl-von-Carlowitz-Gesellschaft e.V. ; 2017. - 4. S\u00e4chsische Nachhaltigkeitskonferenz",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22285&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Tunable Pseudocapacitance in 3D TiO2\u2212\u03b4 Nanomembranes Enabling Superior Lithium Storage Performance",
+            "Authors": "Huang Shaozhuan|Zhang Lin|Lu Xueyi|Liu Lifeng|Liu Lixiang|Sun Xiaolei|Yin Yin|Oswald Steffen|Zou Zhaoyong|Ding Fei|Schmidt Oliver G.|",
+            "Research Area": "3D nanomembrane | lithium ion battery | Ti3+ self doping titanium dioxide | tunable pseudocapacitance",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: ACS nano. - American Chemical Society. - 11. 2017| 1| S. 821 - 830",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23732&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Computer Science meets Cognition",
+            "Authors": "Wirzberger Maria|Truschzinski Martina|Schmidt Ren\u00e9|Barlag Maria|",
+            "Research Area": "Kognition | Psychologie | Informatik | Interdisziplinarit\u00e4t Cognition | Psychology | Computer Science | Interdisciplinary",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Informatik 2017| 25.-29.09.2017| Chemnitz| S. 2279-2286. - Bonn : Gesellschaft f\u00fcr Informatik| 2017. - Lecture Notes in Informatics",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24476&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Driving Style Classification with Battery Electric Vehicles Analysis of Driving Behavior and Intention",
+            "Authors": "M\u00fcller Blumhagen Sebastian|G\u00fcnther Madlen|Krems Josef F.|",
+            "Research Area": "Business travel | electric vehicles | multimodal mobility | user behaviour | user experience",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "ETC| European Transport Conference| Barcelona| Spain| 2017",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25170&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "The Importance of Acceptance for the Usage of Multimodal Sharing Systems in Corporate Transportation",
+            "Authors": "G\u00fcnther Madlen|M\u00fcller Blumhagen Sebastian|Krems Josef F.|",
+            "Research Area": "Business travel | electric vehicles | multimodal mobility | user behaviour | user experience",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "European Transport Conference| Barcelona| Spain.| 2017",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25167&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Acceptance of Electric Mobility System Components and the Role of Real Life Experience",
+            "Authors": "Schmalfu\u00df Franziska|",
+            "Research Area": "Elektromobilit\u00e4t | Elektrofahrzeuge | intelligentes Laden | Akzeptanz | Erfahrung | Feldstudie electric mobility | smart charging | acceptance | experience | field study",
+            "Publication Type": "Dissertation",
+            "Source": "2017. - 221 S.",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25557&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Does this range suit me? Range satisfaction of battery electric vehicle users",
+            "Authors": "Franke Thomas|G\u00fcnther Madlen|Trantow Maria|Krems Josef F.|",
+            "Research Area": "Battery electric vehicles | Range | User satisfaction | Acceptance Field study",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Applied Ergonomics. -Elsevier B.V. - 65. 2017| S. 191 - 199",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25095&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Electric Vehicles with Range Extenders: Evaluating the Contribution to the Sustainable Development of Metropolitan Regions",
+            "Authors": "Stark Juliane|Wei\u00df Christine|Trigui Rochdi|Franke Thomas|Baumann Martin|Jochem Patrick|Brethauer Laura|Chlond Bastian|G\u00fcnther Madlen|Klementschitz Roman|Link Christoph|Mallig Nicolai|",
+            "Research Area": "Electric mobility | Electric vehicles with range extender | Sustainability | User needs | Energy demand",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Journal of Urban Planning and Development. - American Society of Civil Engineers. - 144. 2017| 1",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25110&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "First time experience of critical range situations in BEV use and the positive effect of coping information",
+            "Authors": "Rauh Nadine|Franke Thomas|Krems Josef F.|",
+            "Research Area": "Battery electric | vehicle Range | stress | Range anxiety | Field experiment",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In:  Transportation Research Part F: Traffic Psychology and Behaviour. - Elsevier B.V. - 44. 2017| S. 30 - 41",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25103&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "On Reliable Communication in Transmit Only Networks for Home Automation",
+            "Authors": "Parsch Philip|Masrur Alejandro|",
+            "Research Area": "Communication protocols | wireless communication | transmit only nodes | home automation",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Journal of Network and Computer Applications (JNCA). - Elsevier. 2017",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24875&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Process design for a companywide geometrical integrration of manufacturing issues in the early development phases based on the example of automotive suspension",
+            "Authors": "Leistner Bastian|Mayer Ralph|Berkan Dirk|",
+            "Research Area": "Fahrwerk | Produktentwicklungsprozess | Fahrwerksentwicklung suspension | chassis development | product development process",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "8th International Munich Chassis Symposium 2017. - Wiesbaden : Springer Vieweg| 2017| pp 353-370",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24390&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Duroplast Elastomer Mehrkomponentenspritzguss Ermittlung hafteigenschaftsbestimmender Einflussfaktoren",
+            "Authors": "Heyne Ulrich|Gehde Michael|",
+            "Research Area": "Duroplast Elastomer Gummi Mehrkomponentenspritzguss Verbundspritzguss thermoset rubber multi component injection molding",
+            "Publication Type": "Konferenzabstract",
+            "Source": "Polymer Processing Society Europe Africa Conference 2017| 26-29.06.2017| Dresden. - [Dresden] : [Leibniz Institut f\u00fcr Polymerforschung e.V.]| USB-Stick",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24933&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Entwicklung eines modifizierten Widerstandspunktschwei\u00dfverfahrens zum prozesssicheren F\u00fcgen von Akkupacks",
+            "Authors": "Thieme Pascal|Kaars Jonny|Georgi Wolf|Mayr Peter|",
+            "Research Area": "Resistance spot welding | battery pack | shunt current",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "F\u00fcMoTeC 2017. - Chemnitz : Universit\u00e4tsverlag| 2017| S. 117 - 120",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24914&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Zweitvermarktung von Traktionsbatterien Erfolgsfaktor f\u00fcr den Durchbruch der Elektromobilit\u00e4t?",
+            "Authors": "Richter Stefan|Rehme Marco|Temmler Aniko|G\u00f6tze Uwe|",
+            "Research Area": "Second Life Batteries | Gesch\u00e4ftsmodell | Fahrzeugbewertung | Vernetzte Elektromobilit\u00e4t | Traktionsbatterien Second Life Batteries | business model | vehicle valuation | connected e mobility | traction batteries",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Proff| Heike ; Fojcik| Thomas Martin (Hrsg.): Innovative Produkte und Dienstleistungen in der Mobilit\u00e4t. Technische und betriebswirtschaftliche Aspekte. - Wiesbaden : Springer| 2017| S. 139 - 162",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25433&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Gemeinsam unter Strom \u2013 Ergebnisse aus dem Projekt Community basierte Dienstleistungsinnovation f\u00fcr e Mobility",
+            "Authors": "Dinter Barbara|Kollwitz Christoph|Daiberl Christofer|Roth Angela|M\u00f6slein Kathrin M.|",
+            "Research Area": "CODIFeY | E mobility | Service | Innovation",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Ganz| Walter ; Kampker| Achim ; Satzger| Gerhard (Hrsg.): Dienstleistungen als Erfolgsfaktor f\u00fcr Elektromobilit\u00e4t. Ergebnisse aus dem F\u00f6rderschwerpunkt \u201cDienstleistungsinnovationen f\u00fcr Elektromobilit\u00e4t\u201d. - Stuttgart : Fraunhofer| 2017| S. 102 - 108",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=26669&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Sprachwissenschaftliche Empirie als eristisches Lehrst\u00fcck. Eine Re Lekt\u00fcre von Anglieka Redders 'Handlungstheoretische Grammatik f\u00fcr DaF am Beispiel des sogenannnten",
+            "Authors": "Thielmann Winfried|",
+            "Research Area": "Zustandspassiv | Pragmatik | sprachwissenschaftlicher Empiriebegriff | sprachwissenschaftliche Methodenreflexion passive voice | pragmatics | concepts of linguistic empiricism | concepts of linguistic methodology",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Krause| Arne ; Lehmann| Gesa ; Thielmann| Winfried ; Trautmann| Caroline (Hrsg.): Form und Funktion. Festschrift f\u00fcr Angelika Reddder zum 65. Geburtstag. - T\u00fcbingen : Stauffenburg| 2017| S. 63 - 76",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23837&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Ein Projekt mit Spannung: Die Forschung am Elektromobil an der Technischen Hochschule Karl Marx Stadt",
+            "Authors": "Mittag Michelle|",
+            "Research Area": "Elektromobilit\u00e4t | Chemnitz E Mobility | Chemnitz",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Chemnitz : Technische Universit\u00e4t Chemnitz| 2017. - Chemnitzer Geschichtskalender ; Oktober 2017",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=28773&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Transnationale Bildungs und Mobilit\u00e4tsbiographien von Absolventinnen und Absolventen Deutscher Auslandsschulen",
+            "Authors": "Glorius Birgit|",
+            "Research Area": "Mobilit\u00e4t | Bildung | Transnationalismus | Deutsche Sprachschulen mobility | education | transnationalism | german language schools",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: T\u00f6lle| Alexander ; Wehrhahn| Rainer (Hrsg.): Translokalit\u00e4t und lokale Raumproduktionen in transnationaler Perspektive. - 1. - Berlin : logos Verlag| 2017| S. 97 - 117. -  Thematicon ; Band 30",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25028&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Repr\u00e4sentationen illegalisierter Mobilit\u00e4t. Lampedusa als tragisches Grenzregime",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "Mobilit\u00e4t | Repr\u00e4sentation | Soziale Imagination | Grenzregime | Lampedusa Mobility | Representation | Social Imagination | Border Regime | Lampedusa",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Rass| Christoph ; Ulz| Melanie  (Hrsg.): Migration ein Bild geben. Visuelle Aushandlungen von Diversit\u00e4t. Wiesbaden: Springer VS| 269-96.. - 1. - Wiesbaden : Springer| 2017| S. 269 - 296",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24672&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Bildcluster. Zur Hermeneutik einer ver\u00e4nderten sozialen Gebrauchsweise der Fotografie",
+            "Authors": "M\u00fcller Michael Rudolf|",
+            "Research Area": "Visuelle Soziologie | Figurative Hermeneutik | digitale Medien | Fotografie | Bildsprache visual sociology | figurative hermeneutics | digital media | lifestyle | photography | imagery",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Sozialer Sinn. Zeitschrift f\u00fcr hermeneutische Sozialforschung. - De Gruyter Oldenbourg. 2017| 1| S. 95 - 141",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23603&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Unzureichende Ausgestaltung mindert den Erfolg von Studiengeb\u00fchren : Studiengeb\u00fchren f\u00fcr Nicht EU Ausl\u00e4nder in Sachsen und Baden W\u00fcrttemberg",
+            "Authors": "M\u00fcller Annett|",
+            "Research Area": "Studiengeb\u00fchren | Finanzierung | Internationalit\u00e4t | Mobilit\u00e4t Tuition fees | Internationalization | Student mobility",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Wissenschafts management. - Bonn : Lemmens Medien GmbH. - 23.2017| 5| S. 78 - 84",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=28806&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Nachhaltig auf Dienstwegen pendeln   Das Projekt ECoMobility",
+            "Authors": "Teuscher Jens|G\u00fcnther Madlen|",
+            "Research Area": "E Mobility",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "In: Bausteine der Nachhaltigkeit - Carlowitz weiterdenken. - M\u00fcnchen : oekom| 2016| S. 78 - 81. - Jahresschriften der Hans-Carl-von-Carlowitz-Gesellschaft e.V. ; 2017. - 4. S\u00e4chsische Nachhaltigkeitskonferenz",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22285&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Driving Style Classification with Battery Electric Vehicles   Analysis of Driving Behavior and Intention",
+            "Authors": "M\u00fcller Blumhagen Sebastian*|G\u00fcnther Madlen|Krems Josef F.|",
+            "Research Area": "Business travel | electric vehicles | multimodal mobility | user behaviour | user experience",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "ETC| European Transport Conference| Barcelona| Spain| 2017",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25170&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Duroplast Elastomer Mehrkomponentenspritzguss   Ermittlung hafteigenschaftsbestimmender Einflussfaktoren",
+            "Authors": "Heyne Ulrich*|Gehde Michael|",
+            "Research Area": "Duroplast Elastomer Gummi Mehrkomponentenspritzguss Verbundspritzguss thermoset rubber multi component injection molding",
+            "Publication Type": "Konferenzabstract",
+            "Source": "Polymer Processing Society Europe Africa Conference 2017| 26-29.06.2017| Dresden. - [Dresden] : [Leibniz Institut f\u00fcr Polymerforschung e.V.]| USB-Stick",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24933&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Zweitvermarktung von Traktionsbatterien   Erfolgsfaktor f\u00fcr den Durchbruch der Elektromobilit\u00e4t?",
+            "Authors": "Richter Stefan*|Rehme Marco|Temmler Aniko|G\u00f6tze Uwe|",
+            "Research Area": "Second Life Batteries | Gesch\u00e4ftsmodell | Fahrzeugbewertung | Vernetzte Elektromobilit\u00e4t | Traktionsbatterien Second Life Batteries | business model | vehicle valuation | connected e mobility | traction batteries",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Proff| Heike ; Fojcik| Thomas Martin (Hrsg.): Innovative Produkte und Dienstleistungen in der Mobilit\u00e4t. Technische und betriebswirtschaftliche Aspekte. - Wiesbaden : Springer| 2017| S. 139 - 162",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25433&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Transnationale Bildungs  und Mobilit\u00e4tsbiographien von Absolventinnen und Absolventen Deutscher Auslandsschulen",
+            "Authors": "Glorius Birgit|",
+            "Research Area": "Mobilit\u00e4t | Bildung | Transnationalismus | Deutsche Sprachschulen mobility | education | transnationalism | german language schools",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: T\u00f6lle| Alexander ; Wehrhahn| Rainer (Hrsg.): Translokalit\u00e4t und lokale Raumproduktionen in transnationaler Perspektive. - 1. - Berlin : logos Verlag| 2017| S. 97 - 117. -  Thematicon ; Band 30",
+            "Year": "2017",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25028&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Connected Electromobility Between CO2 optimized energy management| user centered design and cost effectiveness",
+            "Authors": "Born Bj\u00f6rn|G\u00fcnther Madlen|J\u00e4hn Benjamin|M\u00fcller Sebastian|Scherer Svenja|Teuscher Jens|Temmler Aniko|G\u00f6tze Uwe|Heinkel Ulrich|Krems Josef|Schufft Wolfgang|Wanielik Gerd|",
+            "Research Area": "ECoMobility | field study | carsharing | pedelecs | usability | acceptance | travel mode choice | eco driving",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "5th Conference on Future Automotive Technology - Focus Electromobility| 03./04.05.2016| F\u00fcrstenfeldbruck| 2016",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22316&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "E Mobility muss umfassender gedacht werden",
+            "Authors": "Lutz Josef|",
+            "Research Area": "Elektroauto | Verkehrsmittel | Leistungselektronik E Mobility | Traffic | Traffic Concept | Power Electronics | Carbon Emissions",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Community Dialog. - 2016| 02 April| S. 2 - 2",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22138&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "High defect hydrophilic carbon cuboids anchored with Co/CoO nanoparticles as highly efficient and ultra stable lithium ion battery anodes",
+            "Authors": "Sun Xiaolai|Hao Guang Ping|Lu Xueyi|Xi Lixia|Liu Bo|Si Wenping|Ma Chuansheng|Liu Qiming|Zhang Qiang|Kaskel Stefan|Schmidt Oliver G.|",
+            "Research Area": "cobalt/cobalt oxide nanoparticles | lithium ion battery | lithium storage | cobalt oxide based electrodes",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In:  Journal of Materials Chemistry A. - Royal Society of Chemistry. - 4. 2016| 26| S. 10166 - 10173",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21891&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Online cellphone battery entropy measurement for SoH estimation",
+            "Authors": "Cuadras Angel|Meinert Florian|B\u00fcschel Paul|Kanoun Olfa|",
+            "Research Area": "battery | entropy | state of health | damage | wear | aging",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "13th International Conference on Systems| Signals and Devices| 21-24 March 2016| Leipzig| 1-6. - Leipzig : htwk| 2016",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21645&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Battery Electric Vehicles Implications for the Driver Interface",
+            "Authors": "Neumann Isabel|Krems Josef F.|",
+            "Research Area": "Human machine interface | battery electric vehicle | energy consumption | user centred design | driver interface",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Ergonomics. - Taylor & Francis. - 59. 2016| 3| S. 331 - 343",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25155&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Which factors can protect against range stress in everyday usage of battery electric vehicles? Towards enhancing sustainability of electric mobility systems",
+            "Authors": "Franke Thomas|Rauh Nadine|G\u00fcnther Madlen|Trantow Maria|Krems Josef F.|",
+            "Research Area": "range anxiety | field study | adaptive capacity | resilience | battery electric vehicles | electric mobility systems | range stress",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Human Factors. - SAGE. - 58. 2016| 1| S. 13 - 26",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25151&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Entwurf und Implementierung von Optimierungs und Funktionserweiterungen der hexagonalen Bildrasterung in der Videokompressionssoftware x264HMod",
+            "Authors": "Schlosser Tobias|Manthey Robert|Ritter Marc|",
+            "Research Area": "Image and Video Processing | Digital Signal Processing | Hexagonal Grid",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Conference: Technische Universit\u00e4t Chemnitz - Studierendensymposium Informatik| At Technische Universit\u00e4t Chemnitz| Chemnitz| Saxony| Germany| 2016| S. 63-74",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22217&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Proceedings of the 10th Joint Workshop of the German Research Training Groups in Computer Science : Dagstuhl 2016| May 22nd May 25th",
+            "Authors": "Etzold Benedikt|Richter Ren\u00e9|Eibl Maximilian|Lehner Wolfgang|",
+            "Research Area": "Tagungsband| DFG Graduiertenkolleg| Workshop Proceedings| Dagstuhl| DFG Research Training Groups| RTG| Workshop| Computer Science",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2016. - 239 S.",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21707&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Verteiltes Applikations und Ressourcenmanagement f\u00fcr rekonfigurierbare Rechencluster",
+            "Authors": "Nagler Michael|",
+            "Research Area": "FPGA | fault tolerant | self organisation | hardware acceleration",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Dresden : TUDpress| 2016. - IBS Doktoranden Workshop Technische Informatik 2016| S. 72 - 81",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23201&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Context aware Collaboration of Humans| Services| and Things",
+            "Authors": "Ast Markus|",
+            "Research Area": "Tagungsband | DFG Graduiertenkolleg | Workshop Proceedings | Dagstuhl | DFG Research Training Groups | RTG| Workshop | Computer Science",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Proceedings of the 10th Joint Workshop of the German Research Training Groups in Computer Science : Dagstuhl 2016| May 22nd - May 25th. - Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2016| S. 92",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22710&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Produktionsforschung zu Hochvoltspeichersystemen f\u00fcr die Elektromobilit\u00e4t : eProduction",
+            "Authors": "Bullinger Angelika|Krause Sabine|Wagner Elena|Zeiner Fink Susann|Kaiser Andre|Unger Holger|",
+            "Research Area": "Hochvoltspeichersysteme | Arbeitsschutz emobility | occupational health and safety",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Fakult\u00e4t f\u00fcr Maschinenbau| Professur Arbeitswissenschaft und Innovationsmanagement| 2016",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23002&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Wissen als Dienstleistungsinnovation?. Ein Werkstattbericht zu Innovationswettbewerben im Feld der Elektromobilit\u00e4t",
+            "Authors": "Zeiner Fink Susann|Rockstroh Stefanie|Bullinger Angelika C.|",
+            "Research Area": "innovation competitions | electromobility | knowledge",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Luzsa| Robert ; Schmitt-R\u00fcth| Stephanie ; Danzinger| Frank (Hrsg.): E-Mobilit\u00e4t gemeinsam gestalten. Erkenntnisse zur offenen und nutzerintegrierenden Dienstleistungsentwicklung aus dem Verbundprojekt CODIFeY. - Stuttgart : Fraunhofer Verlag| 2016| S. 55 - 65",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24667&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Prozessf\u00fchrung beim Schwei\u00dfen elektrisch leit und ableitf\u00e4higer Kunststoffe",
+            "Authors": "Dietz Ronald|Gehde Michael|",
+            "Research Area": "Kunststoffe | Schwei\u00dfen | Elektrische Leitf\u00e4higkeit | EMV | antistatisch | Elektromobilit\u00e4t plastics | welding | electric conductivity | EMC | antistatic | electromobility",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Hannover : TIB Hannover| 2016",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23737&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Verbundspritzguss ohne Haftvermittler Charakterisierung der Haftmechanismen an gef\u00fcgten Duroplast/Elastomer Verbunden",
+            "Authors": "Heyne Ulrich|Scheffler Thomas|Gehde Michael|",
+            "Research Area": "Verbundspritzguss | Mehrkomponentenspritzguss | Duroplast | Elastomer two component Injection moulding | thermoset | elastomer",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Joining Plastics. - Zeitschriftartikel in Joining Plastics : DVS Media GmbH. - 10. 2016| 1| S. 40 - 47",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21387&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "A Fully Printed Self Biased Polymeric Audio Amplifier for Driving Fully Printed Piezoelectric Loudspeakers",
+            "Authors": "Kheradmand Bouroujeni Bahman|Schmidt Georg Cornelius|H\u00f6ft Daniel|Bellmann Maxi|Haase Katherina|Ishida Koichi|Shabanpour Reza|Meister Tilo|Carta Corrado|Ghesquiere Pol|H\u00fcbler Arved C.|Ellinger Frank|",
+            "Research Area": "Amplifiers | analog circuits | audio systems | flexible printed circuits | loudspeakers | OFETs | organic thin film transistors | polymer films",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: IEEE Transactions on Circuits and Systems. Part 1: Regular Papers. - Volume:PP| Issue: 99| 2016",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21631&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Barrieren bei Gesch\u00e4ftsmodell Innovationen der Neuen Mobilit\u00e4t Implikationen f\u00fcr Innovationsmanagement und Gesch\u00e4ftsmodellentwicklung",
+            "Authors": "Rehme Marco|Lindner Romy|G\u00f6tze Uwe|",
+            "Research Area": "Gesch\u00e4ftsmodelle | Neue Mobilit\u00e4t | Innovationsbarrieren Business models | New mobility | Innovation barriers",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Proff| Heike ; Fojcik| Thomas Martin (Hrsg.): Nationale und internationale Trends in der Mobilit\u00e4t. - Wiesbaden : Springer Gabler| 2016| S. 63 - 81",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22230&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Connected Electromobility   Between CO2 optimized energy management| user centered design and cost effectiveness",
+            "Authors": "Born Bj\u00f6rn|G\u00fcnther Madlen*|J\u00e4hn Benjamin|M\u00fcller Sebastian|Scherer Svenja|Teuscher Jens|Temmler Aniko|G\u00f6tze Uwe|Heinkel Ulrich|Krems Josef|Schufft Wolfgang|Wanielik Gerd|",
+            "Research Area": "ECoMobility | field study | carsharing | pedelecs | usability | acceptance | travel mode choice | eco driving",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "5th Conference on Future Automotive Technology - Focus Electromobility| 03./04.05.2016| F\u00fcrstenfeldbruck| 2016",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22316&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Battery Electric Vehicles   Implications for the Driver Interface",
+            "Authors": "Neumann Isabel*|Krems Josef F.|",
+            "Research Area": "Human machine interface | battery electric vehicle | energy consumption | user centred design | driver interface",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Ergonomics. - Taylor & Francis. - 59. 2016| 3| S. 331 - 343",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25155&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Entwurf und Implementierung von Optimierungs  und Funktionserweiterungen der hexagonalen Bildrasterung in der Videokompressionssoftware x264HMod",
+            "Authors": "Schlosser Tobias*|Manthey Robert|Ritter Marc|",
+            "Research Area": "Image and Video Processing | Digital Signal Processing | Hexagonal Grid",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Conference: Technische Universit\u00e4t Chemnitz - Studierendensymposium Informatik| At Technische Universit\u00e4t Chemnitz| Chemnitz| Saxony| Germany| 2016| S. 63-74",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22217&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Proceedings of the 10th Joint Workshop of the German Research Training Groups in Computer Science : Dagstuhl 2016| May 22nd   May 25th",
+            "Authors": "Etzold Benedikt|Richter Ren\u00e9|Eibl Maximilian|Lehner Wolfgang|",
+            "Research Area": "Tagungsband| DFG Graduiertenkolleg| Workshop Proceedings| Dagstuhl| DFG Research Training Groups| RTG| Workshop| Computer Science",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2016. - 239 S.",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21707&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Verteiltes Applikations  und Ressourcenmanagement f\u00fcr rekonfigurierbare Rechencluster",
+            "Authors": "Nagler Michael|",
+            "Research Area": "FPGA | fault tolerant | self organisation | hardware acceleration",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Dresden : TUDpress| 2016. - IBS Doktoranden Workshop Technische Informatik 2016| S. 72 - 81",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23201&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Prozessf\u00fchrung beim Schwei\u00dfen elektrisch leit  und ableitf\u00e4higer Kunststoffe",
+            "Authors": "Dietz Ronald|Gehde Michael|",
+            "Research Area": "Kunststoffe | Schwei\u00dfen | Elektrische Leitf\u00e4higkeit | EMV | antistatisch | Elektromobilit\u00e4t plastics | welding | electric conductivity | EMC | antistatic | electromobility",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Hannover : TIB Hannover| 2016",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=23737&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Verbundspritzguss ohne Haftvermittler   Charakterisierung der Haftmechanismen an gef\u00fcgten Duroplast/Elastomer Verbunden",
+            "Authors": "Heyne Ulrich*|Scheffler Thomas|Gehde Michael|",
+            "Research Area": "Verbundspritzguss | Mehrkomponentenspritzguss | Duroplast | Elastomer two component Injection moulding | thermoset | elastomer",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Joining Plastics. - Zeitschriftartikel in Joining Plastics : DVS Media GmbH. - 10. 2016| 1| S. 40 - 47",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21387&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Barrieren bei Gesch\u00e4ftsmodell Innovationen der Neuen Mobilit\u00e4t   Implikationen f\u00fcr Innovationsmanagement und Gesch\u00e4ftsmodellentwicklung",
+            "Authors": "Rehme Marco|Lindner Romy|G\u00f6tze Uwe|",
+            "Research Area": "Gesch\u00e4ftsmodelle | Neue Mobilit\u00e4t | Innovationsbarrieren Business models | New mobility | Innovation barriers",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Proff| Heike ; Fojcik| Thomas Martin (Hrsg.): Nationale und internationale Trends in der Mobilit\u00e4t. - Wiesbaden : Springer Gabler| 2016| S. 63 - 81",
+            "Year": "2016",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22230&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Photovoltaic wind energy hybrid system with battery and heat storage",
+            "Authors": "Bocklisch Thilo|Lindner Johannes|",
+            "Research Area": "Photovoltaic | wind | hybrid system | battery | heat storage",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Exhibition and Conference for Power Electronics| Intelligent Motion| Renewable Energy and Energy Management| Nuremberg| 19.-21.5.2015. CD-Rom",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20644&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Comparative Study of Resonant Circuit for Power Transmission via Inductive Link",
+            "Authors": "Bouattour Ghada|Kallel Bilel|Sasmal Koushik|Kanoun Olfa|Derbel Nabil|",
+            "Research Area": "wireless power transmission | inductive link | topologies | misalignment | multi coil system",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "12th International Multi-Conference on Systems| Signals & Devices| 16-19 March 2015| Mahdia| Tunisia| pp. 1-6",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19858&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Exchange and Academic Promotion",
+            "Authors": "Kanoun Olfa|Derbel Nabil|",
+            "Research Area": "International cooperation | Young academics promotion | Education projects | Embedded Systems | Employability | Innovation Management | Mobility | Change by Exchange | Deutscher Akademischer Austauschdienst | DAAD",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "Chemnitz : MST| 2015. - 89 S.",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21033&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Novel Multi parametric Estimation Strategies for Spectral Data in Embedded Applications",
+            "Authors": "Wendler Frank|B\u00fcschel Paul|Kanoun Olfa|",
+            "Research Area": "system identification | embedded hardware | parameter estimation",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Workshop on Impedance Spectroscopy  September 23-25 2015| Chemnitz| Germany; pp.7",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19808&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "OpenStreetMap basierte Indoor Navigation f\u00fcr Elektrofahrzeuge",
+            "Authors": "Graichen Thomas|Manns Daniel|Quinger Sven|Heinkel Ulrich|",
+            "Research Area": "navigation e mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Proff| Heike (Hrsg.): Entscheidungen beim \u00dcbergang in die Elektromobilit\u00e4t. - 1. - Wiesbaden : Springer Fachmedien| 2015| S. 585 - 598",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19549&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Does range matter? Exploring perceptions of electric vehicles with and without a range extender among potential early adopters in Germany",
+            "Authors": "Schneidereit Tina|Franke Thomas|G\u00fcnther Madlen|Krems Josef F.|",
+            "Research Area": "Electric vehicle | Range extender | Acceptance | Mobility need",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Energy Research & Social Science. - 8. 2015| S. 198 - 206",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20482&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Eco driving strategies in battery electric vehicle use how do drivers adapt over time?",
+            "Authors": "Neumann Isabel|Franke Thomas|Cocron Peter|B\u00fchler Franziska|Krems Josef F.|",
+            "Research Area": "battery electric vehicle | eco driving | fiel d study | driver behavi our | adaptation | energy consumption",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: IET Intelligent Transport Systems. - 9. 2015| 7| S. 746 - 753",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20474&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Introducing Electric Vehicle based Mobility Solutions \u2013 Impact of User Expectations to long and short Term Usage",
+            "Authors": "Dettmann Andre|Langer Dorothea|Bullinger Angelika C.|Krems Josef F.|",
+            "Research Area": "usability | user expectations | mobility | mobiltiy services",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Human Factors and Ergonomics Society Europe Chapter 2014 Annual Conference| 08.10.\u201310.10.2014| Lissabon| S. 193 - 204| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24595&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Range comfort zone of electric vehicle users \u2013 concept and assessment",
+            "Authors": "Franke Thomas|G\u00fcnther Madlen|Trantow Maria|Rauh Nadine|Krems Josef F.|",
+            "Research Area": "battery electric vehicle | comfortable range | BEV | comfortable range scenario task | Range comfort zone",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: IET Intelligent Transport Systems. - 9. 2015| 7| S. 740 - 745",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20444&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Solving the range challenge? Range needs versus range preferences for battery electric vehicles with range extender",
+            "Authors": "Franke Thomas|Schneidereit Tina|G\u00fcnther Madlen|Krems Josef F.|",
+            "Research Area": "battery electric vehicles | range extender | range preferences | range needs | acceptance",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "EVS28 International Electric Vehicle Symposium and Exhibition| 3.-6. Mai 2015| Goyang| Korea| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20980&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "What happens when it fails? The Impact of Wheel Hub Motor Failures in Battery Electric Vehicles on the Driver",
+            "Authors": "Neumann Isabel|Pereira Marta|Cocron Peter|Wanner Daniel|Seiniger Patrick|Krems Josef F.|",
+            "Research Area": "Battery Electric Vehilces | Wheel Hub Motor | Failures",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Der Fahrer im 21. Jahrhundert| 8. VDI-Tagung 10.-11. November 2015| Braunschweig| pp.113-127. - D\u00fcsseldorf : VDI-Verlag| 2015. - VDI-Berichte ; 2264",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20489&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Motor fitness is positively related to volume in the cingulate gyrus and cognitive performance in older women",
+            "Authors": "Niemann Claudia|Baglivo Mario|Hirsch Jochen|Godde Ben|Voelcker Rehage Claudia|",
+            "Research Area": "Physical activity | fitness | mobility and cognition",
+            "Publication Type": "Konferenzabstract",
+            "Source": "Third International Conference on Aging and Cognition| 23 - 25 April 2015| Dortmund| 2015",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21208&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Sharing Data in Vehicular Ad hoc Networks",
+            "Authors": "Kahl Stefan|Bausch Christian|Kischnick Sara|",
+            "Research Area": "E Mobility | Car 2 X Car 2 Car | Ad hoc Networks | Social Networks",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Scientific Reports. E-Mobility and Reliability in Communication Networks. - Mittweida. - 1. 2015| 1| S. 67 - 75",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20274&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Duroplast Elastomer Spritzguss ohne Haftvermittler Charakterisierung von Epoxidharz/Elastomer Verbunden",
+            "Authors": "Heyne Ulrich|Gehde Michael|",
+            "Research Area": "Mehrkomponentenspritzgie\u00dfen | Verbundspritzgie\u00dfen | Duroplast/Elastomer Verbund multi component injection moulding | Thermoset/Elastomer",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Technomer| 12-13.11.2015| S. 143",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21397&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Fully printed flexible audio system on the basis of low voltage polymeric organic field effect transistors with three layer dielectric",
+            "Authors": "Schmidt Georg C.|H\u00f6ft Daniel|Haase Katherina|Bellmann Maxi|Kheradmand Boroujeni Bahman|Hassinen Tomi|Sandberg Henrik|Ellinger Frank|H\u00fcbler Arved C.|",
+            "Research Area": "gedruckte Elektronik | Lautsprecher | Verst\u00e4rkerschaltung | FET printed electronics | loudspeaker | audio system | FET",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Journal of Polymer Science| Part B: Polymer Physics. - 53. 2015| 20| S. 1409 - 1415",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19863&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "A dense cellulose based membrane as a renewable host for gel polymer electrolyte of lithium ion batteries",
+            "Authors": "Li M. X.|Wang X.W.|Yang Y.Q.|Chang Z.|Wu Y.P.|Holze Rudolf|",
+            "Research Area": "Lithium ion battery | Gel polymer electrolyte | Cellulose | Separator | Renewable",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Journal of Membrane Science. - 476. 2015| S. 112 - 118",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19534&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Aqueous rechargeable battery based on zinc and a composite of LiNi1/3Co1/3Mn1/3O2",
+            "Authors": "Wang Faxing|Liu Yu|Wang Xiaowei|Chang Zheng|Wu Yuping|Holze Rudolf|",
+            "Research Area": "aqueous rechargeable battery | zinc",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: ChemElectroChem. - 2. 2015| 7| S. 1024 - 1030",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20321&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Hybrid system for rechargeable magnesium battery with high energy density",
+            "Authors": "Chang Zheng|Yang Yaqiong|Wang Xiaowei Wang|Li Minxia Li|Fu Zhengwen|Wu Yuping|Holze Rudolf|",
+            "Research Area": "Hybrid | rechargeable | magnesium | battery | high energy",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Scientific Reports. - 5. 2015| S. 11931",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20296&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Part 1: Molten Salts and Ionic Liquids Subvolume B: Electrical Conductivities and Equilibria of Electrochemical Systems Volume 9: Electrochemistry Group IV: Physical Chemistry Landolt B\u00f6rnstein New Series",
+            "Authors": "Holze Rudolf|",
+            "Research Area": "Battery | capacitor | electrochemical energy | electrolytic solution | Energy Storage | ionic conductance",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "Berlin : Springer Berlin| 2015. - 667 S.",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20651&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "VO2 @ carbon cathodes for lithium ion batteries",
+            "Authors": "Reddy Channu V.S.|Rambabu B.|Kumari Kusum|Holze Rudolf|",
+            "Research Area": "Carbon | Vanadium oxide | Cathode | H2 gas effect | Lithium ion battery",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Colloids and Surfaces A: Physicochemical and Engineering Aspects . - 481 . 2015| S. 314 - 318",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19535&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Home: Concepts| Constructions| Contexts",
+            "Authors": "Sandten Cecile|Tan Kathy Ann|",
+            "Research Area": "Home | Gender | Space | Mobility | Belonging",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "1. - Trier : WVT| 2015. - 242 S. - CHAT: Chemnitzer Anglistik/Amerikanistik Today ; 7",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20822&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Home: Concepts| Constructions| Contexts \u2013 An Introduction",
+            "Authors": "Sandten Cecile|Tan Kathy Ann|",
+            "Research Area": "Home | Displacement | Gender | Belonging | Private | Mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Sandten| Cecile ; Tan| Kathy-Ann (Hrsg.): Home: Concepts| Constructions| Contexts. - 1. - Trier : WVT| 2015| S. 1 - 8. - CHAT: Chemnitzer Anglistik/Amerikanistik Today ; 5",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20819&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Thalassographies of Departure| Disaster and Rescue. Fishermen and Undocumented Migrants",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "Undocumented Mobility",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Etnofoor. Anthropological Journal. - 27. 2015| 1| S. 13 - 36",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19553&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Eco driving strategies in battery electric vehicle use   how do drivers adapt over time?",
+            "Authors": "Neumann Isabel|Franke Thomas|Cocron Peter|B\u00fchler Franziska|Krems Josef F.|",
+            "Research Area": "battery electric vehicle | eco driving | fiel d study | driver behavi our | adaptation | energy consumption",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: IET Intelligent Transport Systems. - 9. 2015| 7| S. 746 - 753",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20474&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "What happens when it fails?   The Impact of Wheel Hub Motor Failures in Battery Electric Vehicles on the Driver",
+            "Authors": "Neumann Isabel|Pereira Marta|Cocron Peter|Wanner Daniel|Seiniger Patrick|Krems Josef F.|",
+            "Research Area": "Battery Electric Vehilces | Wheel Hub Motor | Failures",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Der Fahrer im 21. Jahrhundert| 8. VDI-Tagung 10.-11. November 2015| Braunschweig| pp.113-127. - D\u00fcsseldorf : VDI-Verlag| 2015. - VDI-Berichte ; 2264",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20489&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Duroplast Elastomer Spritzguss ohne Haftvermittler   Charakterisierung von Epoxidharz/Elastomer Verbunden",
+            "Authors": "Heyne Ulrich*|Gehde Michael|",
+            "Research Area": "Mehrkomponentenspritzgie\u00dfen | Verbundspritzgie\u00dfen | Duroplast/Elastomer Verbund multi component injection moulding | Thermoset/Elastomer",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Technomer| 12-13.11.2015| S. 143",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=21397&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Part 1: Molten Salts and Ionic Liquids Subvolume B: Electrical Conductivities and Equilibria of Electrochemical Systems   Volume 9: Electrochemistry   Group IV: Physical Chemistry   Landolt B\u00f6rnstein New Series",
+            "Authors": "Holze Rudolf|",
+            "Research Area": "Battery | capacitor | electrochemical energy | electrolytic solution | Energy Storage | ionic conductance",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "Berlin : Springer Berlin| 2015. - 667 S.",
+            "Year": "2015",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=20651&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Integration von MOS Transistoren als Wandler f\u00fcr mechanische Spannungen",
+            "Authors": "Schramm Michael|Haas Sven|Reuter Danny|Loebel Kay Uwe|Heinz Steffen|Bertz Andreas|Horstmann John Thomas|Ge\u00dfner Thomas|",
+            "Research Area": "mechanical tension | piezoresistive effect | MOS transistor | carrier mobility",
+            "Publication Type": "Konferenzabstract",
+            "Source": "DPG-Fr\u00fchjahrstagung of the Condensed Matter Section| 30.3.-4.4.2014| Dresden| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16706&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Prediction based charging management for full electric vehicles in a mobility on demand conceptusing local renewable energy",
+            "Authors": "K\u00fchnert David|Krupka Felix|Schufft Wolfgang|",
+            "Research Area": "Charging management | distribution grid | electric vehicles | mobility on demand | renewable energy",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Conference on Renewable Energies and Power Quality (ICREPQ\u20191 4 )| 08.-10. April 2014| Cordoba| Spanien. - Renewable Energy and Power Quality Journal (RE&PQJ). 2014|12",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17750&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Recarga de ve\u00edculos el\u00e9tricos baseada no conceito de mobilidade sob demanda",
+            "Authors": "K\u00fchnert David|Schufft Wolfgang|",
+            "Research Area": "Charging management | distribution grid | electric vehicles | mobility on demand | renewable energy",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: ELETRICIDADE MODERNA. - Aranda editora ano 42.2014| 488| S. 108 - 107",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18840&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "MEVICO CAPEX and OPEX evaluation results : Mobile Networks Evolution for Individual Communications Experience \u2013 MEVICO deliverable D6.1",
+            "Authors": "Knoll Thomas Martin|Staufer Markus|",
+            "Research Area": "CAPEX| OPEX| TCO| Kostenmodell| EPC| Mobilit\u00e4tsmanagement| LTE roll out| ATCA Kostenmodellierung| Transportkostenmodell CAPEX| OPEX| TCO| EPC Deployment| Mobility Management| LTE roll out| ATCA cost modelling| transport cost model",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Projektwebseite mit Abgabedokumenten zum EU Celtic Projekt \"MEVICO\" - http://www.mevico.org/ . - 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17256&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Experimental Results of Surge Current Measurements for 600 V GaAs pin Diodes",
+            "Authors": "Kowalsky Jens|Simon Tom|Bhojani Riteshkumar|Lutz Josef|Dudek Volker|",
+            "Research Area": "GaAs pin diode| surge current| mobility model",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "12th International Seminar On Power Semiconductors ISPS 2014| 27-29 August 2014| Prague| p. 67-72. - Prague : Ceske centrum IET| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17210&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Simulation of 15 A \u2013 600 V GaAs pin Diodes in Comparison with Experimental Results",
+            "Authors": "Bhojani Riteshkumar|Kowalsky Jens|Lutz Josef|",
+            "Research Area": "GaAs pin diode| forward and reverse characteristics| lifetime and mobility model",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "12th International Seminar On Power Semiconductors ISPS| 27-29 August| Prague| p. 59-66. - Ceske centrum IET| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17212&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Hierarchically Designed SiOx/SiOy Bilayer Nanomembranes as Stable Anodes for Lithium Ion Batteries",
+            "Authors": "Zhang Lin|Deng Junwen|Liu Lifeng|Si Wenping|Oswald Steffen|Xi Lixia|Kundu Manab|Ma Guozhi|Gemming Thomas|Baunack Stefan|Ding Fei|Yan Chenglin|Schmidt Oliver G.|",
+            "Research Area": "nanomembrane | silicon oxide | anode | strain | lithium ion battery",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Advanced Materials. - 26. 2014| 26| S. 4527 - 4532",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17591&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Distribution of relaxation times for effect identification and modeling of impedance spectra",
+            "Authors": "B\u00fcschel Paul|G\u00fcnther Thomas|Kanoun Olfa|",
+            "Research Area": "Distribution of Relaxation Times | Impedance | Battery | Algorithms | Signal Processing",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "2014 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)| 12.-15. Mai 2014| Montevideo| S. 901 - 904. - New York : Institute of Electrical and Electronics Engineers (IEEE)| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19035&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Improvement of the efficiency of MISO configuration in inductive power transmission in case of coils misalignment",
+            "Authors": "Kallel Bilel|Kanoun Olfa|Keutel Thomas|Viehweger Christian|",
+            "Research Area": "inductive link| wireless power transmission| misalignment| Multi coil system",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IEEE International Instrumentation and Measurement Technology Conference (I2MTC)| 12.-15.05.2014| Montevideo| Uruguay| S. 856-862| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16856&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Power optimization techniques for an inductive power transmission system",
+            "Authors": "Sasmal Koushik|Kallel Bilel|Keutel Thomas|Kanoun Olfa|",
+            "Research Area": "wireless system | inductive power transfer | moving system | power enhancement | circuit design",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IMEKO TC19 Symposium on Environmental Instrumentation and Measurements| September 23-24| Chemnitz| Germany| pp. 25-31",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18292&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Dynamische Anwendungspartitionierung f\u00fcr heterogene adaptive Computersysteme",
+            "Authors": "R\u00f6\u00dfler Marko|",
+            "Research Area": "Hardware Software Codesign| High Level Synthese| Dynamische Partitionierung| Unterbrechungspunktsynthese| Entwurf heterogener Systeme| Adaptive Computersysteme| Partionierung Hardware| Software| Field programmable gate array",
+            "Publication Type": "Dissertation",
+            "Source": "Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2014. - 208 S.",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17293&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Finding an Optimal Set of Break point Locations in a Control Flow Graph",
+            "Authors": "R\u00f6\u00dfler Marko|Langer Jan|Heinkel Ulrich|",
+            "Research Area": "High level synthesis | Hardware software codesign | Preemption | Heterogeneous systems",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Transactions on Systems| Signals & Devices. - Vol. 9. 2014| Nr. 3| S. 1 - 17",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17329&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Schaltungsentwurf f\u00fcr batteriebetriebene Funkkomponenten",
+            "Authors": "P\u00e4tz Christian|",
+            "Research Area": "wireless circuit design battery operated",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: ELEKTRONIK PRAXIS. 2014| 15",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19212&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Einf\u00fchrung von E Mobilit\u00e4tsdienstleistungen Auswirkungen von Nutzererwartungen auf lang und kurzfristige Nutzung",
+            "Authors": "Dettmann Andre|Langer Dorothea|Jentsch Martin|Bullinger Angelika C.|Krems Josef F.|",
+            "Research Area": "electromobility | user expectations | acceptance",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Human Factors and Ergonomics Society Europe Chapter 2014 Annual Conference| 08.10.2014 - 10.10.2014| Lissabon| 193 - 204",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19471&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Eco driving strategies in battery electric vehicle use \u2013 what do drivers get to know over time?",
+            "Authors": "Neumann Isabel|Franke Thomas|B\u00fchler Franziska|Cocron Peter|Krems Josef F.|",
+            "Research Area": "battery electric vehicle | eco driving | field study | human machine interface",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the European Conference on Human Centred Design for Intelligent Transport Systems 2014| Vienna| Austria. - Lyon : Humanist Publications| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18212&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Future scenarios of electric vehicles with range extender in Austria| Germany and France",
+            "Authors": "Stark J.|Klementschitz R.|Link C.|Wei\u00df C.|Chlond B.|Franke Thomas|G\u00fcnther Madlen|",
+            "Research Area": "electromobility | range extender | scenarios | market penetration",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the Transport Research Arena (TRA) 2014| Paris| France.| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18798&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Hazard detection in noise related incidents \u2013 the role of driving experience with battery electric vehicles",
+            "Authors": "Cocron Peter|Bachl Veronika|Fr\u00fch Laura|Koch Iris|Krems Josef F.|",
+            "Research Area": "Battery electric vehicles | Low noise | Hazard perception | Experience | Traffic safety",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Accident Analysis and Prevention . - 73 . 2014 | S. 380 - 391",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17445&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Optimizing components size of an Extended Range Electric Vehicle according to the use specifications",
+            "Authors": "Derollepot R.|Weiss C.|Kolli Z.|Franke Thomas|Trigui R.|Chlond B.|Armoogum J.|Stark J.|Klementschitz R.|Baumann M.|P\u00e9lissier S.|",
+            "Research Area": "EREV | Range Extender | Electric Vehicle | Battery | European car use",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the Transport Research Arena (TRA) 2014| Paris| France| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18797&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "The range comfort zone of electric vehicle users \u2013 concept and assessment",
+            "Authors": "Franke Thomas|G\u00fcnther Madlen|Trantow Maria|Rauh Nadine|Krems Josef F.|",
+            "Research Area": "battery electric vehicle | range experience | range anxiety | field experiment",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the European Conference on Human Centred Design for Intelligent Transport Systems 2014| Vienna| Austria. - Lyon : Humanist Publications| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18211&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "User experience with electric vehicles while driving in a critical range situation \u2013 a qualitative approach",
+            "Authors": "Rauh Nadine|Franke Thomas|Krems Josef F.|",
+            "Research Area": "battery electric vehicle | range experience | range anxiety | field experiment",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the European Conference on Human Centred Design for Intelligent Transport Systems 2014| Vienna| Austria. - Lyon : Humanist Publications| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18213&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "jSwarm: Distributed Coordination in Robot Swarms",
+            "Authors": "Graff Daniel|Richling Jan|Werner Matthias|",
+            "Research Area": "distributed coordination | cyber physical systems | mobility",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Robotic Sensor Networks (RSN 2014)| 14. April 2014| Berlin",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19004&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Programming and Managing the Swarm An Operating System for an Emerging System of Mobile Devices",
+            "Authors": "Graff Daniel|Richling Jan|Werner Matthias|",
+            "Research Area": "operating system | swarm",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IEEE Ninth International Conference on Mobile Ad-hoc and Sensor Networks (MSN) 11-13 Dec. 2013. - IEEE| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25422&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Representation of Motion Spaces using Spline Functions and Fourier Series",
+            "Authors": "Kronfeld Thomas|Fankh\u00e4nel Jens|Brunnett Guido|",
+            "Research Area": "virtual human motion | motion synthesis | multivariate B Spline Approximation | motion signal processing",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Mathematical Methods for Curves and Surfaces. 8th International Conference| MMCS 2012| Oslo| Norway| June 28 \u2013 July 3| 2012| Revised Selected Papers| 2014| pp. 265-282. - Springer| 2014. - Lecture Notes in Computer Science Volume 8177|",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18880&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Applications Driven by Printed Batteries",
+            "Authors": "Willert Andreas|Espig Michael|Helmert Monique|Baumann Reinhard R.|",
+            "Research Area": "printed battery",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Michel| Bernd (Hrsg.): Smart Systems Integration for Micro- and Nanotechnologies: Honorary volume on the occasion of Thomas Gessner's 60th birthday. - Dresden : goldbogen verlag| 2014| S. 461 - 465",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17204&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Integrated applications driven by printed primary battery solutions",
+            "Authors": "Willert Andreas|Helmert Monique|Baumann Reinhard R.|",
+            "Research Area": "printed primary battery",
+            "Publication Type": "Konferenzabstract",
+            "Source": "Large-Area| Organic and Polymer Electronics Convention 2014 (LOPEC 14)| May 26-28| 2014| Munich| Germany| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17185&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "eProduction: Mit der Produktion von Hochvoltspeichersystemen zum Automobil der Zukunft",
+            "Authors": "Wagner Elena|Unger Holger|",
+            "Research Area": "Elektromobilit\u00e4t elektromobility",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "15. Tage des Betriebs- und Systemingenieurs \u2013 TBI2014| 6.-7. November 2014| Chemnitz|  S. 169-176. - Chemnitz : Eigenverlag| 2014. - Wissenschaftliche Schriftenreihe des IBF| Sonderheft 2",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17341&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "An acid free rechargeable battery based on PbSO4 and spinel LiMn2O4",
+            "Authors": "Liu Yu|Wen Zubiao|Wu Xiongwei|Wang Xiaowei|Wu Yuping|Holze Rudolf|",
+            "Research Area": "rechargeable battery | PbSO 4 and LiMn 2 O 4 electrodes | Cyclic voltammogr amms",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Chemical Communications. - 50 . 2014| S. 13714 - 13717",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17580&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Coaxial LiCoO2@Li2MnO3 nanoribbon as a high capacity cathode for lithium ion batteries",
+            "Authors": "Wang F.X.|Xiao S.Y.|Chang Z.|Li M.X.|Wu Y.P.|Holze Rudolf|",
+            "Research Area": "Lithium ion battery | cathode | Li 2 MnO 3 | coaxial | nanoribbons",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: International journal of electrochemical science. - 9. 2014| 11| S. 6182 - 6190",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17558&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Inkongruentes Verstehen : Zur Textrezeption bei wirtschaftswissenschaftlichen Studierenden in DaF",
+            "Authors": "Gro\u00dfmann Uta|",
+            "Research Area": "Inkongruentes Verstehen | Textrezeption | wirtschaftswissenschaftliche Lehrtexte | Deutsch als Fremdsprache | incongruent understanding | text adoption achievements | text adoption | German as an foreign language",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "1. Auflage. - T\u00fcbingen : Stauffenburg| 2014. - 288 S. - Deutschdidaktik Band 3",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17716&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Border Economies. The Nascent Migration Industry Around Lampedusa",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "border economy | Migration Industry | Mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Anteby-Yemini| Lisa ; Baby-Collin| Virginie ; Mazzella| Sylvie et al. (eds): Borders| Mobilities and Migrations Perspectives from the Mediterranean| 19-21st Century. - Frankfurt am Main : Peter Lang| 2014| S. 113 - 131. - \t Regional integration and social cohesion ; 13",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17265&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Grenzen der Gastfreundschaft. Die Bootsfl\u00fcchtlinge von Lampedusa und die europ\u00e4ische Frage",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "Hospitality | undocumented Mobility | Lampedusa",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "Bielefeld : transcript| 2014. - 250 S.",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17264&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Der deutsch franz\u00f6sische Grundschullehreraustausch: Mobilit\u00e4tserfahrungen im Perspektivenwechsel",
+            "Authors": "Perrefort Marion|Bauch Martin|Granoux Dominique|",
+            "Research Area": "teachers exchange program | german french | mobility",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "M\u00fcnster : Waxmann| 2014. - 176 S. - Dialoge \u2013 dialogues ; 5",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17752&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "MEVICO   CAPEX and OPEX evaluation results : Mobile Networks Evolution for Individual Communications Experience \u2013 MEVICO deliverable D6.1",
+            "Authors": "Knoll Thomas Martin|Staufer Markus|",
+            "Research Area": "CAPEX| OPEX| TCO| Kostenmodell| EPC| Mobilit\u00e4tsmanagement| LTE roll out| ATCA Kostenmodellierung| Transportkostenmodell CAPEX| OPEX| TCO| EPC Deployment| Mobility Management| LTE roll out| ATCA cost modelling| transport cost model",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Projektwebseite mit Abgabedokumenten zum EU Celtic Projekt \"MEVICO\" - http://www.mevico.org/ . - 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=17256&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Einf\u00fchrung von E Mobilit\u00e4tsdienstleistungen   Auswirkungen von Nutzererwartungen auf lang  und kurzfristige Nutzung",
+            "Authors": "Dettmann Andr\u00e9*|Langer Dorothea|Jentsch Martin|Bullinger Angelika C.|Krems Josef F.|",
+            "Research Area": "electromobility | user expectations | acceptance",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Human Factors and Ergonomics Society Europe Chapter 2014 Annual Conference| 08.10.2014 - 10.10.2014| Lissabon| 193 - 204",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19471&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Optimizing components size of an Extended Range Electric Vehicle  according to the use specifications",
+            "Authors": "Derollepot R.|Weiss C.|Kolli Z.|Franke Thomas|Trigui R.|Chlond B.|Armoogum J.|Stark J.|Klementschitz R.|Baumann M.|P\u00e9lissier S.|",
+            "Research Area": "EREV | Range Extender | Electric Vehicle | Battery | European car use",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Proceedings of the Transport Research Arena (TRA) 2014| Paris| France| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18797&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Programming and Managing the Swarm    An Operating System for an Emerging System of Mobile Devices",
+            "Authors": "Graff Daniel|Richling Jan|Werner Matthias|",
+            "Research Area": "operating system | swarm",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IEEE Ninth International Conference on Mobile Ad-hoc and Sensor Networks (MSN) 11-13 Dec. 2013. - IEEE| 2014",
+            "Year": "2014",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25422&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Anwendungsorientiertes Photovoltaik Hybridsystem Versuchsfeld mit Batterie | Wasserstoff und W\u00e4rmespeicherpfad",
+            "Authors": "Bocklisch Thilo|B\u00f6ttiger Michael|Paulitschke Martin|",
+            "Research Area": "Energie| Speicher| intelligent| Batterie| Brennstoffzelle| Wasserstoff| dezentral| Optimierung energy| storage| intelligent| battery| fuel cell| hydrogen| decentralized| optimization",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Exhibition and Conference for Power Electronics| Intelligent Motion| Renewable Energy and Energy Management| Nuremberg| 12-16 May 2013. - Berlin Offenbach : VDE Verlag GmbH Berlin Offenbach| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15485&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Charging management for full electric vehicles in the mobility on demand concept \u201cfahrE\u201d using local renewable energy",
+            "Authors": "K\u00fchnert David|Schufft Wolfgang|",
+            "Research Area": "Charging management | distribution grid | electric vehicles | mobility on demand | renewable energy",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Conference on Renewable Energies and Power Quality M\u00e4rz 2013| Bilbao| Paper 364",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15438&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Intelligente dezentrale Energiespeichersysteme",
+            "Authors": "Bocklisch Thilo|",
+            "Research Area": "Energie| Speicher| intelligent| Batterie| Brennstoffzelle| Wasserstoff| dezentral| Optimierung energy| storage| intelligent| battery| fuel cell| hydrogen| decentralized| optimization",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: UmweltWirtschaftsForum . - November 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15482&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Exploiting Smart Antennas for Spatial Reuse and Multiplexing in Wireless Mesh Networks",
+            "Authors": "Rafique Muhammad Irfan|",
+            "Research Area": "Wireless Mesh Networks| Smart Antennas| Scheduling| Interference Cancellation| Spatial Reuse| Spatial Multiplexing",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IEEE 14th International Symposium and Workshops on a World of Wireless| Mobile and Multimedia Networks (WoWMoM)| 2013| Madrid| Spain. - IEEE| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16072&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "TRICS: A Distributed MAC Layer Scheduling Algorithm for Concurrent Transmissions inMIMO Wireless Mesh Networks",
+            "Authors": "Rafique Muhammad Irfan|",
+            "Research Area": "Wireless Mesh Networks| MAC Protocol| Link Scheduling| Spatial Reuse| Spatial Multiplexing",
+            "Publication Type": "Konferenzabstract",
+            "Source": "9th IEEE Broadband wireless access workshop (BWA2013) December 9th 2013| Atlanta| Georgia| US colocated with IEEE GLOBECOM 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16073&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Further Development of Test Automation Combination of Practical Experience and Academic Research",
+            "Authors": "Trenkel Kristian|Heinkel Ulrich|",
+            "Research Area": "software testing | development process | embedded systems",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Belgium Testing Days| 28.02. - 1.3. 2013| Br\u00fcssel. - VDE| 2013. - Gesellschaft Mikroelektronik| Mikrosystem- und Feinwerktechnik: GMM-Fachbericht ; 75",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14899&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Specification for Electromobility",
+            "Authors": "Yang Lei|Rauh Nadine|Markert Erik|Heinkel Ulrich|",
+            "Research Area": "specification | electromobility",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "DASS| 25. - 26. April 2013| Dresden| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14633&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Wie der gro\u00dfe neue die kleinen Funkbr\u00fcder im 868 MHz Band \u00e4rgert",
+            "Authors": "P\u00e4tz Christian|Volkmar Andre|",
+            "Research Area": "long term short range wireless",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: funkschau. - 23-24. 2013| S. 34 - 36",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19241&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Wireless Hausautomation Z Wave Ger\u00e4te f\u00fcr die Haus Automation entwickeln",
+            "Authors": "P\u00e4tz Christian|Kuther Margit|",
+            "Research Area": "wireless home automation Z Wave",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Business News. - 7. 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19242&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Driving an EV with no opportunity to charge at home is this acceptable?",
+            "Authors": "B\u00fchler Franziska|Franke Thomas|Schleinitz Katja|Cocron Peter|Neumann Isabel|Ischebeck Moritz|Krems Josef F.|",
+            "Research Area": "e mobility | charging behaviour | acceptance",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Human Factors: sustainable life and mobility. On the occasion of the Human Factors and Ergonomics Society Europe Chapter Annual Meeting in Torino| Italy| October 2013| p. 369-379",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15849&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Understanding charging behaviour of electric vehicle users",
+            "Authors": "Franke Thomas|Krems Josef F.|",
+            "Research Area": "e mobility | range",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Transportation Research Part F: Traffic Psychology and Behaviour. - 21. 2013| S. 75 - 89",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15095&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "User in the loop: Konzeption und Entwicklung von Nutzerschnittstellen f\u00fcrMobility on demand Konzepte",
+            "Authors": "Dettmann Andre|Jentsch Martin|Leiber Paul|Bullinger Angelika C.|Langer Dorothea|",
+            "Research Area": "fahrE| usability engineering| usability| electromobility",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Conference on Future Automotive Technology - Focus Electromobility M\u00fcnchen| March| 18./19. 2013| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16054&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Verz\u00f6gern mit Rekuperation Lernprozesse aus der Nutzerperspektive",
+            "Authors": "Witzlack Claudia|Cocron Peter|Krems Josef F.|",
+            "Research Area": "electric vehicles | e mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: VDI: Der Fahrer im 21. Jahrhundert. - D\u00fcsseldorf : VDI Verlag| 2013| p. 107-118. - VDI-Berichte 2205",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15104&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "What drives range preferences in electric vehicle users?",
+            "Authors": "Franke Thomas|Krems Josef F.|",
+            "Research Area": "Range | Electric vehicle | Preferences | Mobility needs | Sustainability | Field study",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Transport Policy. - 30. 2013| S. 56 - 62",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14839&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Alltagsarrangements und r\u00e4umliche Mobilit\u00e4t am Fallbeispiel des universit\u00e4ren Mitteilbaus der Technischen Universit\u00e4t Chemnitz",
+            "Authors": "Lotter Vivian|Stawarz Nico|",
+            "Research Area": "academic staff| spatial mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Scheiner| Joachim/Blotevogel| Hans-Heinrich/Frank| Susanne/Holz-Rau| Christian & Schuster| Nina: Mobilit\u00e4ten und Immobilit\u00e4ten. Menschen. Ideen. Dinge. Kulturen. Kapital. - Essen : Klartext| 2013| S. 403 - 416",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15708&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Inter und Intragenerationale soziale Mobilit\u00e4t. Eine simultane Analyse unter Verwendung von Wachstumskurven",
+            "Authors": "Stawarz Nico|",
+            "Research Area": "Soziale Mobilt\u00e4t | Intergenerationale Mobilit\u00e4t | Intragenerationale Mobilit\u00e4t | Wachstumskurven Social Mobility | Intergenerational Mobility | Intragenerational Mobility | Career Mobility",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Zeitschrift f\u00fcr Soziologie. - 42 . 2013 | 5 | S. 385 - 404",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15501&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Adaptive Agent supported mobile Learning",
+            "Authors": "Martin Kai Uwe|Hardt Wolfram|",
+            "Research Area": "mobile| learning| e learning| adaptive| agent| decision making| content| parameters| interaction| computer science",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Proceedings of International Summerworkshop 17.7. - 19.7.2013. - Chemnitzer Informatik-Berichte; 2013-04| p. 28-31",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16365&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Herausforderung: XIL Datenmanagement",
+            "Authors": "Gruber Thomas|Thiel Sebastian|Hardt Wolfram|",
+            "Research Area": "Model in the Loop| Software in the Loop| Hardware in the Loop| Modellbasierte Entwicklung| Datenmanagement Model in the Loop| Software in the Loop| Hardware in the Loop| Model based Development| Data management",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "NAFEMS Deutschsprachige Konferenz '12| 8./9. Mai 2013| Bamberg| 361-364. - Bernau am Chiemsee : NAFEMS GmbH| 2012",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16377&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Customized Printed Batteries Driving Sensor Applications",
+            "Authors": "Willert Andreas|Baumann Reinhard R.|",
+            "Research Area": "printed battery | primary battery | customized battery",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IEEE 2013 International Semiconductor Conference Dresden \u2013 Grenoble (ISCDG)| September 26-27| Dresden| Germany| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16252&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Printed primary battery developments for powering organic circuitry",
+            "Authors": "Willert Andreas|Espig Michael|Chikushi N.|Baumann Reinhard R.|",
+            "Research Area": "printed battery | screen printing",
+            "Publication Type": "Konferenzabstract",
+            "Source": "Large-Area| Organic and Polymer Electronics Convention 2013 (LOPE-C 13)| June 11-13| Munich| Germany| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16240&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Tailored printed primary battery system developed for a diagnostic system",
+            "Authors": "Willert Andreas|Helmert Monique|Chikushi N.|Espig Michael|Baumann Reinhard R.|",
+            "Research Area": "printed battery | primary battery | energy system | smart system | screen printing",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "40th International research conference of iarigai (The International Association of Research Organizations for the Information| Media and Graphic Arts Industries): Advances in Printing And Media Technology: Digitalization of Print|  September 8-11| 2013| Chemnitz| Germany. - Darmstadt : MMXIII| 2013| S. 35 - 40",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16247&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Connecting Infotainment with safety Driver Vehicle Interaction & Future HMI Challenges",
+            "Authors": "Jentsch Martin|Hemmert Rudolf|",
+            "Research Area": "Driving Experience| Car HMI| Driver Vehicle Interaction| Infotainment| Mobility Challenges",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "CAR HMi concepts & systems 2013. 16. Juni 2013 - 18. Juni 2013| Berlin",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16071&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Twin Polymerization at Spherical Hard Templates: An Approach to Size Adjustable Carbon Hollow Spheres with Micro or Mesoporous Shells",
+            "Authors": "B\u00f6ttger Hiller Falko|Kempe Patrick|Cox Gerhardt|Panchenko Alexander|Janssen Nicole|Petzold Albrecht|Thurn Albrecht Thomas|Borchardt Lars|Rose Marcus|Kaskel Stefan|Georgi Colin|Lang Heinrich|Spange Stefan|",
+            "Research Area": "hollow carbon spheres | lithium\u2013sulfur battery | porous carbon | twin polymerization",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Angewandte Chemie International Edition. -52. 2013| 23| S. 6088 - 6091",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14321&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "A macroporous LiFePO4 as a cathode for an aqueous rechargeable lithium battery of high energy density",
+            "Authors": "Holze Rudolf|Wu Y.|Hou Y.|Wang X.|Zhu Y.|Hu C.|Chang Z.|",
+            "Research Area": "cathode |aqueous rechargeable lithium battery",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In:  Journal of Materials Chemistry A . - 1 . 2013  | S. 14713 - 14718",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15350&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Charge Transport Analysis of Poly by Electroreflectance Spectroscopy",
+            "Authors": "Pittner S.|Lehmann D.|Zahn Dietrich R.T.|Wagner V.|",
+            "Research Area": "Field effect transistors | Mobility | Blend | Films | Si",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: PHYSICAL REVIEW B . - 87| 115211 (2013) 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16283&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Weak ergodicity breaking and ageing in subdiffusive continuous time random walks analyzed with the distribution of generalized diffusivities",
+            "Authors": "Albers Tony|Radons G\u00fcnter|",
+            "Research Area": "subdiffusivecontinuoustimerandomwalk | ageing continuoustimerandomwalk",
+            "Publication Type": "Konferenzabstract",
+            "Source": "DPG Spring Meeting of the Condensed Matter Section| March 10-15 2013| Regensburg| S. 216. - Bad Honnef : DPG| 2013. - Verhandlungen der Deutschen Physikalischen Gesellschaft; Reihe VI Band 48 3/2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14435&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Weak ergodicity breaking and ageing in subdiffusive continuous time random walksanalyzed with the distribution of generalized diffusivities",
+            "Authors": "Albers Tony|Radons G\u00fcnter|",
+            "Research Area": "subdiffusivecontinuoustimerandomwalk | ageing continuoustimerandomwalk",
+            "Publication Type": "Konferenzabstract",
+            "Source": "Synergetic Approaches to Complexity - A symposium in memory of Rudolf Friedrich| September 29 - October 2 2013| Dresden| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15651&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Bewertung innovativer Gesch\u00e4ftsmodelle bei sich wandelnden Wertsch\u00f6pfungsstrukturen : Analyse | Prognose und Gestaltungsrahmen sowie die Anwendung auf die Ladeinfrastruktur f\u00fcr Elektrofahrzeuge",
+            "Authors": "G\u00f6tze Uwe|Rehme Marco|",
+            "Research Area": "Gesch\u00e4ftsmodelle | Elektromobilit\u00e4t | Szenario Technik | Batteriewechselstation | Lades\u00e4ule electric mobility | scenario analysis | business model innovation | battery swap station | charging station",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: ZfAW : Zeitschrift f\u00fcr die gesamte Wertsch\u00f6pfungskette Automobilwirtschaft. 2013| 4| S. 27 - 37",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14896&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Intelligente Verkehrssysteme in der Neuen Mobilit\u00e4t : Formen| Entwicklungstrends und Wertsch\u00f6pfungsnetze",
+            "Authors": "G\u00f6tze Uwe|Rehme Marco|",
+            "Research Area": "Verkehrstelematik | Intelligent Transport Systems | Autonomes Fahren | Automatisierter Verkehr | Wertsch\u00f6pfungsketten electric mobility | scenario analysis | business model innovation | battery swap station | charging station",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "Chemnitz : GUC| 2013. - 176 S. - Fachbuchreihe / GUC| Gesellschaft f\u00fcr Unternehmensrechnung und Controlling mbH ; 22",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14894&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Grenz\u00fcberschreitende Zusammenarbeit in Europa : Studentische Fachtagung am 21. Januar 2013 an der TU Chemnitz",
+            "Authors": "Niedobitek Matthias |L\u00f6we Andreas |",
+            "Research Area": "grenz\u00fcberschreitend | greifend | INTERREG | ETZ | EVTZ | Euroregion | EUREGIO | Au\u00dfengrenzen | Madrider Rahmen\u00fcbereinkommen Crossborder | co operation | INTERREG | ETC | EGTC | Euro Region | EUREGIO | external border | Madrid Framework Convention| mobility",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2013. - 315 S.",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14815&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "objects left behind. lampedusa and siculiana 2007/2012",
+            "Authors": "Friese Heidrun|",
+            "Research Area": "photography | Lampedusa | mobility | Europe",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "ibook : ibook| 2013. - 4 S.",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16318&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Der deutsch franz\u00f6sische Grundschullehreraustausch : Eintauchen in die Arbeitswelt des Anderen",
+            "Authors": "Bauch Martin|",
+            "Research Area": "Austausch | Lehrer | Mobilit\u00e4t | Grundschule exchange | teacher | primary | mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Vatter| Christoph ; L\u00fcsebrink| Hans-J\u00fcrgen ; Mohr| Joachim: Praktikum - stage. - St. Ingbert : R\u00f6hrig| 2013| S. 39 - 64",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15063&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Chemnitzer Linux Tage 2013 : Tagungsband \u2013 16. und 17. M\u00e4rz 2013",
+            "Authors": "P\u00f6nisch Jens|Kosler Monique|P\u00f6nisch Petra|",
+            "Research Area": "Datensicherheit | Publizieren | Datenvisualisierung | Linux | Freie Software | Authentifikation | Kartographie | Hardware | Zuverl\u00e4ssigkeit linux | open Source",
+            "Publication Type": "Buch (Herausgeberschaft)",
+            "Source": "Chemnitz : Universit\u00e4tsverlag der Technischen Universit\u00e4t Chemnitz| 2013. - 138 S.",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14197&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Anwendungsorientiertes Photovoltaik Hybridsystem Versuchsfeld mit Batterie | Wasserstoff  und W\u00e4rmespeicherpfad",
+            "Authors": "Bocklisch Thilo|B\u00f6ttiger Michael|Paulitschke Martin|",
+            "Research Area": "Energie| Speicher| intelligent| Batterie| Brennstoffzelle| Wasserstoff| dezentral| Optimierung energy| storage| intelligent| battery| fuel cell| hydrogen| decentralized| optimization",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Exhibition and Conference for Power Electronics| Intelligent Motion| Renewable Energy and Energy Management| Nuremberg| 12-16 May 2013. - Berlin Offenbach : VDE Verlag GmbH Berlin Offenbach| 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15485&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Further Development of Test Automation   Combination of Practical Experience and Academic Research",
+            "Authors": "Trenkel Kristian|Heinkel Ulrich|",
+            "Research Area": "software testing | development process | embedded systems",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Belgium Testing Days| 28.02. - 1.3. 2013| Br\u00fcssel. - VDE| 2013. - Gesellschaft Mikroelektronik| Mikrosystem- und Feinwerktechnik: GMM-Fachbericht ; 75",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14899&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Wireless Hausautomation   Z Wave Ger\u00e4te f\u00fcr die Haus Automation entwickeln",
+            "Authors": "P\u00e4tz Christian*|Kuther Margit|",
+            "Research Area": "wireless home automation Z Wave",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Business News. - 7. 2013",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19242&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Driving an EV with no opportunity to charge at home   is this acceptable?",
+            "Authors": "B\u00fchler Franziska|Franke Thomas|Schleinitz Katja|Cocron Peter|Neumann Isabel|Ischebeck Moritz|Krems Josef F.|",
+            "Research Area": "e mobility | charging behaviour | acceptance",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Human Factors: sustainable life and mobility. On the occasion of the Human Factors and Ergonomics Society Europe Chapter Annual Meeting in Torino| Italy| October 2013| p. 369-379",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15849&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Verz\u00f6gern mit Rekuperation   Lernprozesse aus der Nutzerperspektive",
+            "Authors": "Witzlack Claudia|Cocron Peter|Krems Josef F.|",
+            "Research Area": "electric vehicles | e mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: VDI: Der Fahrer im 21. Jahrhundert. - D\u00fcsseldorf : VDI Verlag| 2013| p. 107-118. - VDI-Berichte 2205",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15104&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Alltagsarrangements und r\u00e4umliche Mobilit\u00e4t   am Fallbeispiel des universit\u00e4ren Mitteilbaus der Technischen Universit\u00e4t Chemnitz",
+            "Authors": "Lotter Vivian|Stawarz Nico|",
+            "Research Area": "academic staff| spatial mobility",
+            "Publication Type": "Buchbeitrag",
+            "Source": "In: Scheiner| Joachim/Blotevogel| Hans-Heinrich/Frank| Susanne/Holz-Rau| Christian & Schuster| Nina: Mobilit\u00e4ten und Immobilit\u00e4ten. Menschen. Ideen. Dinge. Kulturen. Kapital. - Essen : Klartext| 2013| S. 403 - 416",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15708&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Inter  und Intragenerationale soziale Mobilit\u00e4t. Eine simultane Analyse unter Verwendung von Wachstumskurven",
+            "Authors": "Stawarz Nico|",
+            "Research Area": "Soziale Mobilt\u00e4t | Intergenerationale Mobilit\u00e4t | Intragenerationale Mobilit\u00e4t | Wachstumskurven Social Mobility | Intergenerational Mobility | Intragenerational Mobility | Career Mobility",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Zeitschrift f\u00fcr Soziologie. - 42 . 2013 | 5 | S. 385 - 404",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=15501&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Connecting Infotainment with safety   Driver Vehicle Interaction & Future HMI Challenges",
+            "Authors": "Jentsch Martin|Hemmert Rudolf|",
+            "Research Area": "Driving Experience| Car HMI| Driver Vehicle Interaction| Infotainment| Mobility Challenges",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "CAR HMi concepts & systems 2013. 16. Juni 2013 - 18. Juni 2013| Berlin",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16071&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Twin Polymerization at Spherical Hard Templates: An Approach to Size Adjustable Carbon Hollow Spheres with Micro  or Mesoporous Shells",
+            "Authors": "B\u00f6ttger Hiller Falko|Kempe Patrick|Cox Gerhardt|Panchenko Alexander|Janssen Nicole|Petzold Albrecht|Thurn Albrecht Thomas|Borchardt Lars|Rose Marcus|Kaskel Stefan|Georgi Colin|Lang Heinrich|Spange Stefan|",
+            "Research Area": "hollow carbon spheres | lithium\u2013sulfur battery | porous carbon | twin polymerization",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Angewandte Chemie International Edition. -52. 2013| 23| S. 6088 - 6091",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14321&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Bewertung innovativer Gesch\u00e4ftsmodelle bei sich wandelnden Wertsch\u00f6pfungsstrukturen : Analyse | Prognose  und Gestaltungsrahmen sowie die Anwendung auf die Ladeinfrastruktur f\u00fcr Elektrofahrzeuge",
+            "Authors": "G\u00f6tze Uwe|Rehme Marco|",
+            "Research Area": "Gesch\u00e4ftsmodelle | Elektromobilit\u00e4t | Szenario Technik | Batteriewechselstation | Lades\u00e4ule electric mobility | scenario analysis | business model innovation | battery swap station | charging station",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: ZfAW : Zeitschrift f\u00fcr die gesamte Wertsch\u00f6pfungskette Automobilwirtschaft. 2013| 4| S. 27 - 37",
+            "Year": "2013",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14896&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Path Selection and adaptive Selection of Smart Antenna Transmission Schemes in Multi hop Wireless Networks",
+            "Authors": "Rafique Irfan|Bauschert Thomas|",
+            "Research Area": "Cross Layer Approach | Wireless Mesh Networks | Smart Antennas | Path Selection Protocol | MAC Layer",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Conference| EUNICE 2012| Budapest| Hungary| August 29-31| 2012. - Springer| 2012. - LNCS ; 7479| pp 12-22",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13946&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Betriebssysteme f\u00fcr cyber physische Systeme Wie weit reichen die klassischen Abstraktionen?",
+            "Authors": "Werner Matthias|L\u00f6scher Andreas|Haustein Mario|Richling Jan|",
+            "Research Area": "cyber physical system | operating system",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "9. ITG/GI/GMM Workshop Cyber-Physical Systems \u2013 Enabling Multi-Nature Systems (CPMNS)| 17./18.4. 2012| Dresden| S. 77-82",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16104&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "X in the Loop Datenmanagement : Dimensionen und Synergien eines XiL Datenmanagementsystems",
+            "Authors": "Gruber Thomas|Thiel Sebastian|Hardt Wolfram|",
+            "Research Area": "Model in the Loop| Software in the Loop| Hardware in the Loop| Modellbasierte Entwicklung| Datenmanagement Model in the Loop| Software in the Loop| Hardware in the Loop| Model based Development| Data management",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "SIMVEC - Berechnung| Simulation und Erprobung im Fahrzeugbau 2012| 20./21. November 2012| Baden-Baden| S. 747-757. - D\u00fcsseldorf : VDI Verlag GmbH| 2012. - VDI-Berichte ; 2169",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16374&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Advantage of customized battery integration as self sustaining and embedded device within print products",
+            "Authors": "Espig Michael|Heinz Sebastian|Stark Andre|Siegel Frank|Willert Andreas|Baumann Reinhard R.|",
+            "Research Area": "printed battery | embedded device | ZnMnO2",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "39th International Research Conference Advances in Printing and Media Technology 2012 (iarigai)| Ljubljana| Slovenia| September 9-12| 2012| pp. 43 - 46",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13156&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Gesamtenergiebilanz von Energienutzungssystemen Batterie und Brennstoffzellenfahrzeuge im Vergleich",
+            "Authors": "von Unwerth Thomas|",
+            "Research Area": "Energie | Gesamtenergie | Energiebilanz | Gesamtenergiebilanz | Energienutzungssysteme | Brennstoffzellen | Brennstoffzellenfahrzeuge | Batteriefahrzeuge | Vergleich efficiency | energy | battery | fuel | cell | vehicles",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "34. Ulmer Gespr\u00e4ch - Energiesysteme der Zukunft | 03.05.2012| Ulm. - Bad Salgau : Leuze Verlag| 2012| S. 18-19",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13441&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Elektromobilit\u00e4t Absch\u00e4tzung arbeitswissenschaftlich relevanter Ver\u00e4nderungen",
+            "Authors": "Enderlein Heiko|Krause Sabine|Spanner Ulmer Birgit|",
+            "Research Area": "e mobility | working safety",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "In: Fachbeitr\u00e4ge der Bundesanstalt f\u00fcr Arbeitsschutz und Arbeitsmedizin. - 1 . 2012",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13828&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Elektromobilit\u00e4t \u2013 Absch\u00e4tzung der Auswirkungen arbeitswissenschaftlich relevanter Ver\u00e4nderungen auf den Arbeits und Gesundheitsschutz",
+            "Authors": "Krause Sabine|Spanner Ulmer Birgit|",
+            "Research Area": "e mobility | Occupational Health and Safety",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Arbeitswissenschaftlicher Kongress| 22.02.-24.02.2012| S. 137-140. - Dortmund : GfA-Press| 2012",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13829&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Prozesssichere Produktion von Hochvoltspeichersystemen eProduction",
+            "Authors": "Fink Susann|Wagner E.|Unger H.|",
+            "Research Area": "Elektromobilit\u00e4t | Prozesssicherheit | Schulungskonzept | Aus und Weiterbildung high voltage | processes | emobility",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "VPP 2012 - vernetzt planen und produzieren & Symposium Wissenschaft und Praxis| 08.-09.11.2012| Chemnitz| S. 387-392. - Sonderheft 18",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=27720&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Usability Engineering f\u00fcr innovative multimodale Mobilit\u00e4tskonzepte",
+            "Authors": "Dettmann Andre|Bullinger Angelika C.|",
+            "Research Area": "fahrE| Usability Engineering| Usability| Elektromobilit\u00e4t fahrE| usability engineering| usability| electromobility",
+            "Publication Type": "Konferenzabstract",
+            "Source": "7. Forschungsseminar Innovation & Wertsch\u00f6pfung. 29. November 2012 - 1. Dezember 2012| Chemnitz| 2012",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16062&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Virtuelle Absicherung in der Produktion von Hochvoltspeichersystemen eProduction",
+            "Authors": "B\u00f6nig Jochen|Krause Sabine|Bullinger A. C.|",
+            "Research Area": "Virtual Validation | e Mobility | high voltage",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Intelligent vernetzte Arbeits- und Fabriksysteme| VPP 2012 - vernetzt planen und produzieren & Symposium Wissenschaft und Praxis| 08.11.-09.11.2012| Chemnitz| S. 393-399",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13830&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Accelerating the Innovation Process with the Help of Open Source Prototyping Hardware",
+            "Authors": "Merkel Andreas|Hopf Hendrik|M\u00fcller Egon|",
+            "Research Area": "Open Source | Prototyping | Hardware",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In:  Annals of Faculty Engineering Hunedoara - International Journal of Engineering| Tome X (Year 2012) Fascicule 1 . 2012  | S. 105 - 112",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13370&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Innovationen durch Open Source Hardware",
+            "Authors": "Merkel Andreas|M\u00fcller Egon|",
+            "Research Area": "Innovations | Open Source Hardware",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "1. Chemnitzer Maschinenbautag| 2012. - Auerbach/Vogtl. : Wissenschaftliche Scripten| 2012| S. 89-99",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13456&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Betriebssysteme f\u00fcr cyber physische Systeme   Wie weit reichen die klassischen Abstraktionen?",
+            "Authors": "Werner Matthias|L\u00f6scher Andreas|Haustein Mario|Richling Jan|",
+            "Research Area": "cyber physical system | operating system",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "9. ITG/GI/GMM Workshop Cyber-Physical Systems \u2013 Enabling Multi-Nature Systems (CPMNS)| 17./18.4. 2012| Dresden| S. 77-82",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=16104&la=de",
+            "Tags": "embedded systems"
+        },
+        {
+            "Title": "Gesamtenergiebilanz von Energienutzungssystemen   Batterie  und Brennstoffzellenfahrzeuge im Vergleich",
+            "Authors": "von Unwerth Thomas|",
+            "Research Area": "Energie | Gesamtenergie | Energiebilanz | Gesamtenergiebilanz | Energienutzungssysteme | Brennstoffzellen | Brennstoffzellenfahrzeuge | Batteriefahrzeuge | Vergleich efficiency | energy | battery | fuel | cell | vehicles",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "34. Ulmer Gespr\u00e4ch - Energiesysteme der Zukunft | 03.05.2012| Ulm. - Bad Salgau : Leuze Verlag| 2012| S. 18-19",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13441&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Elektromobilit\u00e4t   Absch\u00e4tzung arbeitswissenschaftlich relevanter Ver\u00e4nderungen",
+            "Authors": "Enderlein Heiko|Krause Sabine|Spanner Ulmer Birgit|",
+            "Research Area": "e mobility | working safety",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "In: Fachbeitr\u00e4ge der Bundesanstalt f\u00fcr Arbeitsschutz und Arbeitsmedizin. - 1 . 2012",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13828&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Elektromobilit\u00e4t \u2013 Absch\u00e4tzung der Auswirkungen arbeitswissenschaftlich relevanter Ver\u00e4nderungen auf den Arbeits  und Gesundheitsschutz",
+            "Authors": "Krause Sabine|Spanner Ulmer Birgit|",
+            "Research Area": "e mobility | Occupational Health and Safety",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Arbeitswissenschaftlicher Kongress| 22.02.-24.02.2012| S. 137-140. - Dortmund : GfA-Press| 2012",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13829&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Prozesssichere Produktion von Hochvoltspeichersystemen   eProduction",
+            "Authors": "Fink Susann|Wagner E.|Unger H.|",
+            "Research Area": "Elektromobilit\u00e4t | Prozesssicherheit | Schulungskonzept | Aus  und Weiterbildung high voltage | processes | emobility",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "VPP 2012 - vernetzt planen und produzieren & Symposium Wissenschaft und Praxis| 08.-09.11.2012| Chemnitz| S. 387-392. - Sonderheft 18",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=27720&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Virtuelle Absicherung in der Produktion von Hochvoltspeichersystemen   eProduction",
+            "Authors": "B\u00f6nig Jochen|Krause Sabine|Bullinger A. C.|",
+            "Research Area": "Virtual Validation | e Mobility | high voltage",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Intelligent vernetzte Arbeits- und Fabriksysteme| VPP 2012 - vernetzt planen und produzieren & Symposium Wissenschaft und Praxis| 08.11.-09.11.2012| Chemnitz| S. 393-399",
+            "Year": "2012",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=13830&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Modified HWMP for Wireless Mesh Networks with Smart Antennas",
+            "Authors": "Rafique Irfan|Porsch Marco|Bauschert Thomas|",
+            "Research Area": "Wireless Mesh Networks | Smart Antennas | Routing | Hybrid Wireless Mesh Protocol",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "IEEE Globecom| Houston| Dezember 2011",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10649&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Simple Modifications in HWMP for Wireless Mesh Networks with Smart Antennas",
+            "Authors": "Rafique Irfan|Porsch Marco|Bauschert Thomas|",
+            "Research Area": "Wireless Mesh Networks | Routing | HWMP | Smart Antennas",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "EUNICE| Dresden| September 2011. - Springer| 2011. - LNCS| Volume 6955/2011| S. 21-30",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10648&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Expedient Usage of Wakeup Receivers in Wireless Network Applications",
+            "Authors": "Paulo Robert|Johansson Per Andersson|Kriesten Daniel|Heinkel Ulrich|",
+            "Research Area": "drahtlose Kommunikationssysteme | Embedded Systeme embedded systems | wireless networks",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Ninth Workshop on Intelligent Solutions in Embedded Systems| WISES 2011| 7. - 8. Juli 2011| Regensburg| pp 27-31",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10420&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Wakeup vs. Duty Cycle wie k\u00f6nnen diese beiden Netzwerke hinsichtlich Energieeffizienz verglichen werden",
+            "Authors": "Paulo Robert|Johansson Per Andersson|Kriesten Daniel|Heinkel Ulrich|",
+            "Research Area": "drahtlose Kommunikationssysteme wireless communication networks",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "21st International Scientific Conference Mittweida| Nr.3| Drahtlose Kommunikationssysteme| IWKM 2011| 26. - 27. Oktober 2011| Mittweida| pp 44-47",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10419&la=de",
+            "Tags": "robotics|internet of things (iot)|micro controller|embedded systems"
+        },
+        {
+            "Title": "Mobile Systems for Machining Large Work Pieces",
+            "Authors": "Neugebauer Reimund|Priber U.|Rentzsch Hendrik|Ihlenfeldt Steffen|Hoffmann D.|",
+            "Research Area": "Machine tool| calibration| mobility",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "4th International Conference on Changeable| Agile| Reconfigurable and Virtual Production (CARV 2011)| Montreal| Canada| 02.-05.10.2011 . - Berlin| Heidelberg : Springer Verlag| 2011",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=11135&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Estimates on inner and outer radii of unit balls in normed spaces",
+            "Authors": "Martini Horst|Mustafaev Zokhrab|",
+            "Research Area": "normedspace |",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Colloquium Mathematicum. - 123. 2011| S. 211 - 217",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=10896&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "LiMn2O4 nanorods as a super fast cathode material for aqueous rechargeable lithium batteries",
+            "Authors": "Tang W.|Liu L.L.|Tian S.|Li L.|Li L.L.|Yue Y.B.|Bai Y.|Wu Yuping|Zhu K.|Holze Rudolf|",
+            "Research Area": "Aqueous rechargeable lithium battery | Nanorods | Cathode material | LiMn2O4 | Rate capability",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Electrochemistry Communications. - 13. 2011| 11| S. 1159 - 1162",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=11569&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "The quasi free standing nature of graphene on H saturated SiC",
+            "Authors": "Speck Florian|Jobst Johannes|Fromm Felix|Ostler Markus|Waldmann Daniel|Hundhausen M.|Weber Heiko B.|Seyller Thomas|",
+            "Research Area": "Graphene | Carrier mobility | Phonons | Carrier density | Doping",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Applied Physics Letters. - 99. 2011| S. 122106",
+            "Year": "2011",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19517&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Elektrofahrzeuge Gesamttext : Bedeutung| Stand der Technik| Handlungsbedarf",
+            "Authors": "B\u00f6cker Joachim|B\u00f6sing Matthias|Bredehorn Matthias|Canders R\u00fcdiger|Cebulski Bernd|Doetsch Peter|De Doncker Rik|Kashani Forati|Friedrinch Bernhard|Grube Thomas|Hameyer Kai|Hennen Martin|Hoffmann Klaus|Hofmann Wilfried|Illes Doris|Kreim Alexander|Lunz Benedikt|Lutz Josef|M\u00e4rz Martin|Mertens Axel|Neef Christian|Peters Wilhelm|Rehtanz Christian|Rollink Johannes|Sauer Dirk Uwe|Sch\u00e4fer Uwe|Sch\u00e4fer Heinz|Schm\u00fclling Benedikt|Sch\u00f6nng Marc|Stolten Detlef|van Treek Daniel|Wermuth Manfred|Wittler Michael|Wirth Rainer|",
+            "Research Area": "Leistungsbauelemente| Antriebswechselrichter| Elektrische Maschinen| Batterie| Ladeger\u00e4te| Range Extender Power Devices| Variable Speed Drives| Electric Machines| Battery| Battery Charger| Range Extender",
+            "Publication Type": "Buch (Autorenschaft)",
+            "Source": "Frankfurt : Energietechnische Gesellschaft im VDE| 2010. - 228 S",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=8468&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "VDE Studie Elektrofahrzeuge : Bedeutung| Stand der Technik| Handlungsbedarf",
+            "Authors": "B\u00f6cker Joachim|B\u00f6sing Matthias|Bredehorn Matthias|Canders R\u00fcdiger|Cebulski Bernd|Doetsch Peter|De Doncker Rick|Kashani Omid Forati|Freidrich Bernhard|Grube Thomas|Hameyer Kai|Hennen Martin|Hoffmann Klaus|Hofmann Wilfried|Illes Doris|Kreim Alexander|Lunz Benedikt|Lutz Josef|M\u00e4rz Martin|Mertens Axel|Neef Christian|Peters Wilhelm|Rehtanz Christian|Rollink Johannes|Sauer Dirk Uwe|Sch\u00e4fer Uwe|Sch\u00e4fer Heinz|Schm\u00fclling Benedikt|Sch\u00f6nng Marc|Stolten Detlef|van Treek Daniel|Wermuth Manfred|Wittler Michael|Wirth Rainer|",
+            "Research Area": "Leistungsbauelemente| Antriebswechselrichter| Elektrische Maschinen| Batterie| Ladeger\u00e4te| Range Extender Power Devices| Variable Speed Drives| Electric Machines| Battery| Battery Charger| Range Extender",
+            "Publication Type": "Weitere Publikation (u.a. Rezension| Lexikonbeitrag)| nicht referiert",
+            "Source": "Elektrofahrzeuge - Studie der elektrotechnischen Gesellschaft im VDE. - Frankfurt : Energietechnische Gesellschaft im VDE| 2010| S. 2 - 92",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=8469&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Wie gehen Nutzer mit Batterien in Elektrofahrzeugen um? Human Battery Interaction in einer Pilotstudie",
+            "Authors": "Franke Thomas|Neumann Isabel|Cocron Peter|B\u00fchler Franziska|Wege Claudia|Krems Josef F.|",
+            "Research Area": "Battery |",
+            "Publication Type": "Konferenzabstract",
+            "Source": "52. Tagung experimentell arbeitender Psychologen in Saarbr\u00fccken| S. 36. - Lengerich : Pabst Science Publishers| 2010",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=7186&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Eliteschulen des Sports als Bildungsorganisationen in einer modernen| offenen Zivilgesellschaft : Thesen und Erwiderung",
+            "Authors": "Hummel Albrecht|Brand Ralf|",
+            "Research Area": "Bildungsangebot Bildungstheorie Bundesrepublik Deutschland Kinder und Jugendsport Korrelation Leistungsf\u00f6rderung Leistungssport Schulerfolg Schulsystem Sportlerkarriere Sportschule Sportf\u00f6rderung Kurzreferat",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: Leistungssport . - 40 . 2010 | 1 | S. 37 - 42",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=9123&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Auswirkungen auf die menschliche Arbeit durch e mobility",
+            "Authors": "Enderlein Heiko|Wagner Andreas|Spanner Ulmer Birgit|",
+            "Research Area": "e mobility",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "4. Symposium Wissenschaft & Praxis und 8. Fachtagung Vernetzt planen und Produzieren| Nachhaltigkeit in Planung und Produktion| 11.11.10| Chemnitz| S. 193-202. - Chemnitz : Eigenverlag TU Chemnitz| 2010. - Sonderheft 16",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=9094&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Determination of charge carrier mobility of hole transporting polytriarylamine based diodes",
+            "Authors": "Barea Eva M.|Garcia Belmonte Germ\u00e0|Sommer Michael|H\u00fcttner Sven|Bolink Henk J.|Thelakkat Mukundan|",
+            "Research Area": "Poly | Hole transporting materials | Mobility Organic electronics",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Thin Solid Films. - Elsevier B.V. - 518. 2010| 12| S. 3351 - 3354",
+            "Year": "2010",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=24187&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "M\u00f6gliche Auswirkungen zuk\u00fcnftiger Elektromobilit\u00e4t auf den Strompreis",
+            "Authors": "Schufft Wolfgang|Brumme Daniel|",
+            "Research Area": "Elektromobilit\u00e4t | Stormpreis | Grundlast e mobility | energy price | base load",
+            "Publication Type": "Artikel in Fachzeitschrift| nicht referiert",
+            "Source": "In: ew - das magazin f\u00fcr die energiewirtschaft. - 108. 2009| 13| S. 32 - 36",
+            "Year": "2009",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18076&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Efficiency and lifetime optimizing energy management for mobile and portable fuel cell battery hybrid systems",
+            "Authors": "Bocklisch Thilo|Trompke J.|",
+            "Research Area": "fuelcell | battery hybridsystem energymanagement",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "PCIM| 27.-29.05.08| N\u00fcrnberg. - Stuttgart : Mesago PCIM GmbH| 2008",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4586&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Das Inklusionsmodell in der Sekundarstufe an den Spezialschulen Sport in Brandenburg Positionen zur Begr\u00fcndung und Evaluierung",
+            "Authors": "Borchert Thomas|Hummel Albrecht|",
+            "Research Area": "Talentf\u00f6rderung | Kinder und Jugendsport | Brandenburg",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Symposium Talentf\u00f6rderung im Verbundsystem Schule und Sport| 05.-06.09.2008| Oldenburg. - Schorndorf : Hofmann-Verlag| 2008. - S. 17",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4475&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "NC VR Kopplungen zur Inbetriebnahme von Werkzeugmaschinen",
+            "Authors": "Klimant Philipp|Wei\u00dfbach Frank|Zickner Holger|Weidlich Dieter|",
+            "Research Area": "Steuerungskopplung | Virtuelle Realit\u00e4t | Inbetriebnahme | Hardware in the Loop",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "VAR2 - VR-AR-Technologien f\u00fcr die Produktion : Tagungsband| 15. Mai 2008. - Chemnitz| IWP| 2008. - S. 87 - 93",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4801&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Scherschneiden von Mehrfachblechen bei minimalen Formabweichungen",
+            "Authors": "Weigel P.|Neugebauer R.|Kr\u00e4usel V.|",
+            "Research Area": "Scherschneiden | Lochen | mehrlagig | Blechverbund | Schneidspalt | Blechdicke",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Intermezzo der Werkstoffe : die Chance der Wahl f\u00fcr Konstrukteure und Planer ; Tagungsband des 28. EFB-Kolloquiums Blechverarbeitung 2008 am 3. und 4. April 2008 in Dresden",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=2141&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "An aqueous rechargeable lithium battery based on LiV3O8 and LiO2",
+            "Authors": "Holze Rudolf|Wu Y.P.|Zhao N.H.|Wang B.|Fu L.J.|Wang G.J.|",
+            "Research Area": "battery | rechargeable 1 aqueous LiV3O8",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Journal of Applied Electrochemistry. - 38. 2008| 4| S. 579 - 581",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=6361&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "MoO2 synthesized by reduction of MoO3 with ethanol vapor as an anode material with good rate capability for the lithium ion battery",
+            "Authors": "Holze Rudolf|Yang L. C.|Gao Q. S.|Tang Y.|Wu Y. P.|",
+            "Research Area": "battery | 1 material",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Journal of Power Sources. - 179. 2008| 1| S. 357 - 360",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4177&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Das Inklusionsmodell in der Sekundarstufe an den Spezialschulen Sport in Brandenburg   Positionen zur Begr\u00fcndung und Evaluierung",
+            "Authors": "Borchert Thomas|Hummel Albrecht|",
+            "Research Area": "Talentf\u00f6rderung | Kinder  und Jugendsport | Brandenburg",
+            "Publication Type": "Konferenzbeitrag| nicht referiert",
+            "Source": "Symposium Talentf\u00f6rderung im Verbundsystem Schule und Sport| 05.-06.09.2008| Oldenburg. - Schorndorf : Hofmann-Verlag| 2008. - S. 17",
+            "Year": "2008",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4475&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Effect of Cu2O coating on graphite as anode material of lithium ion battery in PC based electrolyte",
+            "Authors": "Holze Rudolf|",
+            "Research Area": "battery | 1 coating material",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Journal of Power Sources. - 171. 2007| 2| S. 904 - 907",
+            "Year": "2007",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=180&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Low degree minimal spanning trees in normed spaces",
+            "Authors": "Martini Horst|Swanepoel Konrad J.|",
+            "Research Area": "normedspace |",
+            "Publication Type": "Artikel in Fachzeitschrift| referiert",
+            "Source": "In: Applied Mathematics Letters. - 19. 2006| 2| S. 122 - 125",
+            "Year": "2006",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=4769&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Vorhersage und Optimierungsmethoden f\u00fcr die Reichweite von Elektromobilen am Beispiel eines E Bikes",
+            "Authors": "Kriesten Daniel|Windisch Katrin|Kratzert Sebastian|Odenwald Stephan|Heinkel Ulrich|",
+            "Research Area": "e mobility | e bike range",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Dresdner Arbeitstagung Schaltungs- und Systementwurf| 03. und 04. Mai| pp. 118",
+            "Year": "2005",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19253&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "High Level Synthese von Operationseigenschaften",
+            "Authors": "nan",
+            "Research Area": "Eigenschaftsbasierter Entwurf | Formale Verifikation | Hardwaresynthese | High Level Synthese | Operationsbasierter Entwurf | Operationseigenschaften | Temporale Eigenschaften | Transaktionsbasierter Entwurf | Vollst\u00e4ndigkeitspr\u00fcfung | Zeitdiagramme property based design | formal verification | hardware description language | hardware synthesis | high level synthesis | operation based design | operation properties | temporal properties | transaction based design | completeness checking | timing diagrams",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=11486&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Entwicklung alternativer Auswerteverfahren f\u00fcr Mikrowellendopplersignale bei der Geschwindigkeitsbestimmung im Bahnverkehr",
+            "Authors": "nan",
+            "Research Area": "Bahnverkehr | DSP | dyadisch | FFT dyadic | ground speed | knowledge based | realtime | signal processing | spectral analysis | train control",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3409&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Interaction with Limited Resource Systems in the Context of Sustainable Mobility: User Experience when Dealing with Electric Vehicles in Critical Range Situations",
+            "Authors": "nan",
+            "Research Area": "Range Anxiety | Range Stress | Battery Electric Vehicle | Driver Range Interaction",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=30596&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Energieeffizienz im Elektrofahrzeug ? Implikationen f\u00fcr die Nutzerschnittstelle| die Fahraufgabe und motivationale Aspekte",
+            "Authors": "nan",
+            "Research Area": "Elektromobilit\u00e4t | Elektrofahrzeug | Fahrer | Verkehrspsychologie | Mensch Technik Interaktion | energieeffizientes Fahren | Schnittstellendesign | Reichweite | Verhalten | Erleben | Motivation | Feldstudie electric mobility | electric vehicle | driver | traffic psychology | human machine interaction | eco driving | interface design | behavior | experience | motivation | field study",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22892&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Die Rekuperation und geringe Ger\u00e4uschemission von Elektrofahrzeugen Auswirkungen auf den Fahrer",
+            "Authors": "nan",
+            "Research Area": "Elektromobilit\u00e4t | Elektrofahrzeug | Fahrer | Verkehrspsychologie | Mensch Maschine Interaktion | Rekuperation | Ger\u00e4uschemission | Lernen | Risikowahrnehmung | Gefahrenwahrnehmung electric mobility | electric vehicles | driver | traffic psychology | human machine interaction | regenerative braking | low vehicle noise | skill acquisition | risk perception | hazard perception",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18573&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Nachhaltige Mobilit\u00e4t mit begrenzten Ressourcen: Erleben und Verhalten im Umgang mit der Reichweite von Elektrofahrzeugen",
+            "Authors": "nan",
+            "Research Area": "Elektromobilit\u00e4t | Elektrofahrzeug | Reichweite | Laden | Nutzer | Erleben | Verhalten | Pr\u00e4ferenzen | Feldstudie | Nachhaltigkeit | Mobilit\u00e4t | Mensch Technik Interaktion | Psychologie | Laden | elecric mobility | electric vehicle | range | charging | user | experience | behavior | preferences | field study | sustainability | mobility | human machine interaction | psychology",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18541&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "The Need of Proper Programming Models for CPS",
+            "Authors": "Richter Martin|Jakobs Christine|Werner Matthias|",
+            "Research Area": "cyber physische Systeme | Verteiltheit | Mobilit\u00e4t | Programmiermodelle | Kontextbewusstsein cyber physical systems | distribution | mobility | programming models | context awareness",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "International Conference on Mobile Ubiquitous Computing| Systems| Services and Technologies (UBICOMM)| 25.-29. Oktober; Nizza| Frankreich; S. 51 - 56",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=31449&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Energiepr\u00e4diktion und Reichweitendarstellung durch Navigationsdaten im Kraftfahrzeug",
+            "Authors": "nan",
+            "Research Area": "Navigationsdaten | Kartendaten | Reichweite | Reichweitenanzeige | Pra\u0308diktion | Energieverbrauch | Elektromobilita\u0308t | Range on Map | Elektrofahrzeuge navigation data | Map data | range | range display | prediction | energy consumption | electric mobility | range on map | electric vehicles",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=22938&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Nanostrukturierter Kohlenstoff durch Zwillingspolymerisation an Hart Templaten",
+            "Authors": "nan",
+            "Research Area": "Zwillingspolymerisation | por\u00f6ser Kohlenstoff | Kohlenstoffhohlk\u00f6rper | Hart Templatsynthese | Stickstoff Sorption | Lithium Schwefel Batterie | Kohlenstoff Schwefel Hybride | Templat Twin Polymerization| porous carbon| hart template synthesis| nitrogen sorption| lithium sulfur battery",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=14096&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Aqueous Rechargeable Batteries with High Electrochemical Performance",
+            "Authors": "nan",
+            "Research Area": "Akkumulator | w\u00e4ssrige Elektrolyte | Interkalationsverbindungen | Blei | Cadmium | Kupfer | Kohlenstoff Beschichtung rechargeable battery | aqueous electrolyte | intercalation compounds | lead | cadmium | copper | carbon coating",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=25248&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Sprache in Unternehmen Internationale Kommunikationsstrategien in s\u00e4chsischen kleinen und mittelst\u00e4ndischen Unternehmen",
+            "Authors": "nan",
+            "Research Area": "Unternehmenskommunikation | englisch | fremdsprache | marketing",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3120&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Vorhersage  und Optimierungsmethoden f\u00fcr die Reichweite von Elektromobilen am Beispiel eines E Bikes",
+            "Authors": "Kriesten Daniel*|Windisch Katrin|Kratzert Sebastian|Odenwald Stephan|Heinkel Ulrich|",
+            "Research Area": "e mobility | e bike range",
+            "Publication Type": "Konferenzbeitrag| referiert",
+            "Source": "Dresdner Arbeitstagung Schaltungs- und Systementwurf| 03. und 04. Mai| pp. 118",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=19253&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Die Rekuperation und geringe Ger\u00e4uschemission von Elektrofahrzeugen   Auswirkungen auf den Fahrer",
+            "Authors": "nan",
+            "Research Area": "Elektromobilit\u00e4t | Elektrofahrzeug | Fahrer | Verkehrspsychologie | Mensch Maschine Interaktion | Rekuperation | Ger\u00e4uschemission | Lernen | Risikowahrnehmung | Gefahrenwahrnehmung electric mobility | electric vehicles | driver | traffic psychology | human machine interaction | regenerative braking | low vehicle noise | skill acquisition | risk perception | hazard perception",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=18573&la=de",
+            "Tags": "robotics|embedded systems"
+        },
+        {
+            "Title": "Sprache in Unternehmen   Internationale Kommunikationsstrategien in s\u00e4chsischen kleinen und mittelst\u00e4ndischen Unternehmen",
+            "Authors": "nan",
+            "Research Area": "Unternehmenskommunikation | englisch | fremdsprache | marketing",
+            "Publication Type": "Dissertation",
+            "Source": "",
+            "Year": "0",
+            "Link": "https://www.bibliothek.tu-chemnitz.de/uni_biblio/frontdoor.php?source_opus=3120&la=de",
+            "Tags": "robotics|embedded systems"
+        }
+    ]
+}

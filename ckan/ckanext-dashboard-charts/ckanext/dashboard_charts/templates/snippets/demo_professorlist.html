@@ -1,0 +1,159 @@
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<div class="box">
+  <header class="module-heading">
+    <h3>Publications with maximum data</h3>
+  </header>
+  <section class="module-content">
+    <div id="myPlot2" style="width:100%;"></div>
+    <p id="demo"></p>
+
+  <section>
+</div>
+<script>
+  var pieChartData = [] 
+  var listOfDataSets = ["Web engineering", "3d visualization", 
+      "Robotics", "Pattern recognition", "Micro-controller",
+      "Media encoding", "Machine learning", "Internet of things (iot)",
+      "Intelligent Information", "Information retrieval",
+      "Embedded systems", "Deep learning", "Data science", "Database Management",
+      "Cloud computing", "Artificial intelligence", "Agile Development", "Automation technology",
+      "Big Data", "Bio medical engineering"
+    ];
+  var dataOfPie = [
+  {
+    values: [],
+    labels: [],
+    type: 'pie'
+  }
+];
+  const http = new XMLHttpRequest();
+  http.onload = function() {
+    const responseData = JSON.parse(this.responseText).result.records;
+   
+    listOfDataSets.forEach((area) => {
+      var r = responseData.filter((data) => { 
+        return data["Tags"].toLowerCase().includes(area.toLowerCase()) }).length
+        // pieChartData.push({name: area, percentage: (r / responseData.length) * 100})
+        percentage = (r / responseData.length) * 100
+        if(percentage > 8) {
+          console.log(percentage);
+          dataOfPie[0].labels.push(area);
+          dataOfPie[0].values.push(percentage);
+        }
+        
+      })
+      var layout = {
+        showlegend: true,
+        legend: {
+          x: 1,
+          y: 0.5
+        }
+      };
+    console.log(pieChartData)
+    Plotly.newPlot("myPlot2", dataOfPie, layout);
+
+  }   
+  http.open("POST", "http://localhost:5000/api/3/action/datastore_search");
+  http.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded');
+  http.send(JSON.stringify({"resource_id":"1f34240a-3e54-4909-b1a2-ecb98a0b7dfe","q":"","filters":{},"limit":35000,"offset":0,"total_estimation_threshold":1000}));
+    // xhttp.send(JSON.stringify({"resource_id":"1f34240a-3e54-4909-b1a2-ecb98a0b7dfe","q":"","filters":{},"limit":35000,"offset":0,"total_estimation_threshold":1000}));
+
+ 
+</script>
+
+<!-- 
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.19.1/dist/bootstrap-table.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/bootstrap-table@1.19.1/dist/bootstrap-table.min.js"></script>
+
+<div class="box" style="max-height: 600px;">
+  <header class="module-heading">
+    <h3>Professors</h3>
+  </header>
+  <section class="module-content">
+    <table
+  id="table"
+  data-toggle="table"
+  data-height="450"
+  data-ajax="ajaxRequest"
+  data-ajax-options="ajaxOptions"
+  data-search="true"
+  data-pagination="true"
+  id="table"
+  >
+  <thead>
+    <tr>
+      <th data-field="name">Name</th>
+    </tr>
+  </thead>
+</table>
+  <section>
+</div>
+
+<script>
+    var listOfDataSets = ["Web engineering", "3d visualization", 
+      "Robotics", "Pattern recognition", "Micro-controller",
+      "Media encoding", "Machine learning", "Internet of things (iot)",
+      "Intelligent Information", "Information retrieval",
+      "Embedded systems", "Deep learning", "Data science", "Database Management",
+      "Cloud computing", "Artificial intelligence", "Agile Development", "Automation technology",
+      "Big Data", "Bio medical engineering"
+    ];
+    var pieChartData = [] 
+
+    window.ajaxOptions = {
+        beforeSend: function (xhr) {
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded')
+        }
+    }
+    function ajaxRequest(params) {
+        var url = 'http://localhost:5000/api/3/action/datastore_search'
+        $.post(url, {"resource_id":"1f34240a-3e54-4909-b1a2-ecb98a0b7dfe","q":"","filters":{},"limit":35000,"offset":0,"total_estimation_threshold":1000}).then(function (data) {
+            // const responseData = data.result.records;
+            // let authors = responseData.map((data) => { return data.Authors})
+            // authors.forEach(element => {
+            //     element = element.split("|")
+            //     element.forEach((item) => existingSet.add(item));
+            // });
+            // let demoArr = [...existingSet].map((data) => { return {name: data}})
+            // demoArr = {"total": authors.length, "rows": [...demoArr]}
+            // params.success(demoArr)
+            const responseData = data.result.records;
+            const length = data.result.records.length;
+            listOfDataSets.forEach((area) => {
+              var r = responseData.filter((data) => { 
+                return data["Tags"].toLowerCase().includes(area.toLowerCase()) }).length
+                pieChartData.push({name: area, percentage: (r / data.result.records.length) * 100})
+            })
+            console.log(pieChartData);
+        })
+    }
+    const existingSet = new Set();
+    var data = [{
+        values: [19, 26, 55],
+        labels: ['Residential', 'Non-Residential', 'Utility'],
+        type: 'pie'
+    }];
+    var layout = {
+        height: 200,
+        width: 500
+    };
+    const http = new XMLHttpRequest();
+    http.onload = function() {
+     
+    }  
+    http.open("POST", "http://localhost:5000/api/3/action/datastore_search");
+    http.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded');
+    http.send(JSON.stringify({"resource_id":"1f34240a-3e54-4909-b1a2-ecb98a0b7dfe","q":"","filters":{},"limit":35000,"offset":0,"total_estimation_threshold":1000}));
+    // xhttp.send(JSON.stringify({"resource_id":"1f34240a-3e54-4909-b1a2-ecb98a0b7dfe","q":"","filters":{},"limit":35000,"offset":0,"total_estimation_threshold":1000}));
+  
+</script> -->

@@ -1,0 +1,79 @@
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.19.1/dist/bootstrap-table.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/bootstrap-table@1.19.1/dist/bootstrap-table.min.js"></script>
+
+<div class="box">
+  <header class="module-heading">
+    <h3>Professors</h3>
+  </header>
+  <section class="module-content">
+    <table
+  id="table"
+  data-toggle="table"
+  data-height="460"
+  data-ajax="ajaxRequest"
+  data-ajax-options="ajaxOptions"
+  data-search="true"
+  data-pagination="true"
+  id="table"
+  >
+  <thead>
+    <tr>
+      <th data-field="name">Name</th>
+    </tr>
+  </thead>
+</table>
+  <section>
+</div>
+
+<script>
+    window.ajaxOptions = {
+        beforeSend: function (xhr) {
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded')
+        }
+    }
+    function ajaxRequest(params) {
+        var url = 'http://localhost:5000/api/3/action/datastore_search'
+        $.post(url , {"resource_id":"75df7ace-e182-489a-a771-424a5c02d823","q":"","filters":{},"limit":35000,"offset":0,"total_estimation_threshold":1000}).then(function (data) {
+            const responseData = data.result.records;
+            let authors = responseData.map((data) => { return data.Authors})
+            authors.forEach(element => {
+                element = element.split("|")
+                element.forEach((item) => existingSet.add(item));
+            });
+            let demoArr = [...existingSet].map((data) => { return {name: data}})
+            demoArr = {"total": authors.length, "rows": [...demoArr]}
+            params.success(demoArr)
+        })
+    }
+    const existingSet = new Set();
+    var data = [{
+        values: [19, 26, 55],
+        labels: ['Residential', 'Non-Residential', 'Utility'],
+        type: 'pie'
+    }];
+    var layout = {
+        height: 400,
+        width: 500
+    };
+    const http = new XMLHttpRequest();
+    http.onload = function() {
+        const responseData = JSON.parse(this.responseText).result.records;
+        let authors = responseData.map((data) => { return data.Authors})
+        authors.forEach(element => {
+            element = element.split("|")
+            element.forEach((item) => existingSet.add(item));
+        });
+    }  
+    http.open("POST", "http://localhost:5000/api/3/action/datastore_search");
+    http.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded');
+    http.send(JSON.stringify({"resource_id":"75df7ace-e182-489a-a771-424a5c02d823","q":"","filters":{},"limit":35000,"offset":0,"total_estimation_threshold":1000}));
+  
+</script>
